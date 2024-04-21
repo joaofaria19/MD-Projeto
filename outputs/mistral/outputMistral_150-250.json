@@ -1,0 +1,402 @@
+[
+  {
+    "Prompt": "What is an AI algorithm?",
+    "Completion": "\n\nLet's divide this down into the two parts.\n\n1. Algorithm\n2. AI Operations\n\nA Algorithm is a rule or set of rules that individuals follows while solving problems.\n\nThe term algorithm is usually applied to a verified set of rules found in computer systems, programming or mathematics, which, if followed, will permit the achievement of an outcome.\n\nHow does a algorithm fit into AI?\n\nAI algorithms are an operation or set of"
+  },
+  {
+    "Prompt": "Explain the term \"AI explainability\".",
+    "Completion": "\n=====================================\n\nAI explainability refers to the ability to understand and interpret the decisions, actions, and processes taken by Artificial Intelligence (AI) systems. It is about making AI models and their outputs interpretable, understandable, and transparent to human beings.\n\nThe term \"AI explainability\" is often used interchangeably with the term \"AI interpretability\", and it is commonly used in the context of AI ethics and accountability. Explainable AI is"
+  },
+  {
+    "Prompt": "Generate a poem about spring.",
+    "Completion": "\n\nSpring's gentle breath awakens the earth,\nBringing life and color to barren heath.\nThe world stirs from its winter's slumber deep,\nAs delicate blossoms adorn every leap.\n\nDaffodils dance in the soft, warm light,\nTulips bloom bold and bright in the morning light.\nCrocuses peek through the thawing soil,\nWhile hyacinths perfume"
+  },
+  {
+    "Prompt": "Write a scientific explanation for why the sky is blue.",
+    "Completion": "\n\nThe color blue associated with the sky is caused due to the scattering of sunlight by the molecules present in the atmosphere, known as Rayleigh scattering. According to the Rayleigh's scattering law, the intensity of scattered light is inversely proportional to the fourth power of its wavelength.\n\nSunlight is composed of different colors, each with its distinct wavelength. The shorter wavelengths of light, such as blue and violet, are scattered more than"
+  },
+  {
+    "Prompt": "List five characteristics of good communication.",
+    "Completion": "\n1. Clarity: making sure the message is delivered in a clear way, avoiding confusion\n2. Concision: not babbling or using too many words to make a point\n3. Empathy: taking the time to truly understand what the other party is feeling or where they are coming from\n4. Active listening: giving the person you are communicating with  your undivided attention\n5. Assertiveness: expressing yourself in a calm and confident manner, making"
+  },
+  {
+    "Prompt": "Suggest five strategies for self-motivation.",
+    "Completion": "\n\n1. Set clear and achievable goals: Having a clear understanding of what you want to achieve can help you stay focused and motivated. Make sure your goals are specific, measurable, achievable, relevant, and time-bound (SMART). This will help you track your progress and stay motivated as you see yourself making progress towards your goals.\n2. Find your why: Understanding the reason behind why you want to achieve something can help you stay motivated when things get"
+  },
+  {
+    "Prompt": "Name five characteristics of a typical resume.",
+    "Completion": " For each characteristic, tell why that feature is important.\n\nThe five typical characteristics of a resume include length, layout, chronological order, use of strong active verbs, and a strong summary statement or objective. Each of these characteristics is important for making a strong impression on hiring managers and increasing the chances of obtaining an interview.\n\n1. Length: A typical resume is one to two pages long. This length is important as it shows that the candidate has enough experience to fill at least"
+  },
+  {
+    "Prompt": "Describe the benefits of using a GPT model.",
+    "Completion": "\n\nA GPT (Generative Pretrained Transformer) model is a type of artificial intelligence model that is designed to generate human-like text. It works by training on a large dataset of text and learning the patterns and structures of language. This allows the model to generate coherent and natural-sounding text in a variety of styles and formats.\n\nThere are several benefits to using a GPT model:\n\n1. Improved efficiency: GPT models can generate text much"
+  },
+  {
+    "Prompt": "Given a set of eight numbers (1,2, 3, 4, 5, 6, 7, 8), generate a sentence that reflects their order.",
+    "Completion": " For example:\n\n* One comes ahead of two, which is past the start; meanwhile, six waits until the final pause, leaving seven between three and eight.\n* Two is before one. Seven is a digit six will always appear before in sequence. Three is four-ish when five is considered. Eight is half of eight dogs, but never nine rabbits.\n* Forget about five, concentrate on three. Count two. And one. Four is approx half of"
+  },
+  {
+    "Prompt": "Explain why decision trees may be better than linear models for certain problems.",
+    "Completion": " One reason why decision trees may be better than linear models for certain problems is that the former can capture non-linear relationships between variables. Linear models assume a linear relationship between the dependent variable and other independent variables. Decision trees, however, can capture more complex relationships by dividing the data into subsets based on an attribute value, then recursively repeating this process on these subsets. This allows decision trees to model non-linear relationships and interactions between variables that a linear model might miss"
+  },
+  {
+    "Prompt": "Suggest a sentence that follows \"He had never seen a creature so strange,\"",
+    "Completion": " from the point of view of a character from one of a book from the list on this LibraryThing page. It should come before that sentence.\n\nFrom the book \"Empress Orchid\" by Anchee Min, we get:\n\nThe leader of the men had a queue as thick as my arm, and stood so tall he seemed to be peering down from the clouds. He had never seen a creature so strange and frightening."
+  },
+  {
+    "Prompt": "Describe the effects of climate change.",
+    "Completion": " Climate change is a significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years. It may be a change in average weather conditions, or in the distribution of weather around the average conditions.\n\nThe effects of climate change are far-reaching and include:\n\n1. Rising temperatures: Global temperatures are projected to continue rising, leading to more hot days and heatwaves, particularly in the tropics.\n\n2. Changing"
+  },
+  {
+    "Prompt": "Explain why computational models can be used in analysing text.",
+    "Completion": "\n\nIn language studies, computational models can be used as they allow researchers to make observations and draw conclusions through replicable computational methods, thus reducing the problems associated with subjective interpretation. Computers do not have an inherent bias, and so it can be assumed that the results and patterns uncovered by computational methods are not due to researcher bias, but rather due to a pattern in the data itself. Furthermore, the automated nature of computational models allows for the easy exploration"
+  },
+  {
+    "Prompt": "Create a sentence that ends with an ellipsis.",
+    "Completion": "\n\nNeko found a curious old letter with an engraved silver ring...and then she heard a noise that sounded like it was coming from underneath her bed.\n\nCreate five one sentence stories that start with different letters of the alphabet and use a one word sentence fragment to complete the story.\n\nBeneath the old tree there was a mysterious door hidden in its trunk, never to be found again...\n\nEvery green leaf twirled, descending with the other"
+  },
+  {
+    "Prompt": "Explain the difference between HTML and CSS.",
+    "Completion": "\nHTML stands for Hypertext Markup Language. It\u2019s the backbone of a website, and it\u2019s used to create the content on a page. It includes elements like paragraphs, lists, images, and more. These elements are represented by code that appears between < > symbols, like <p> for a paragraph.\n\nHTML defines how the information on a page is structured. For example, headings are defined with tags such as <h1>, <h2"
+  },
+  {
+    "Prompt": "Create a new recipe for flavorful noodles",
+    "Completion": " using noodles that are not made of wheat. What will you create?\nwww www.ketoconnect.net\n\nVeggie Noodle Stir Fry\n\nIngredients\n- 1 package shirataki/tofu noodles\n- 1 Tbsp plant-based butter\n- 1/2 cup mushrooms, sliced\n- 1/2 cup snow peas\n- 1/2 cup red pepper,"
+  },
+  {
+    "Prompt": "Train a logistic regression model with credit data.",
+    "Completion": "\n\nThe file (credit.csv) contains 1000 observations of people and their credit records. The goal is to predict whether a client will be a good credit risk, 0 = bad credit, 1 = good credit.\n\nThere are 20 variables with some brief descriptions given below:\n- check_num: number of credit inquiries to be made\n- delinq_2yrs: number of late payments in the last 2"
+  },
+  {
+    "Prompt": "Name four diseases caused by cold temperatures.",
+    "Completion": "\n\nFrostbite\nHypothermia\nTrench foot\nChilblains\n\nInclude one sentence about each of these diseases as part of your answer.\n\nFrostbite is caused by the freezing of skin and other tissues due to prolonged exposure to cold temperatures.\nHypothermia is a potentially life-threatening condition that occurs when the body loses heat faster than it can produce it, resulting in a dangerously low"
+  },
+  {
+    "Prompt": "Generate a function for calculating the mean of a list.",
+    "Completion": "\n\n**Sample Code:**\n\n```vbnet\nPublic Function ListMean(ByVal Source as List(Of Double)) as Double\n    If Source.Count > 0 Then\n        Return Source.Average()\n    Else\n        Return 0#\n    End If\nEnd Function\n```\n\n**Sample Usage:**\n\n```vbnet\nDim Mean1 as System.Double = ListMean(New GosubScripting"
+  },
+  {
+    "Prompt": "Write a blog post about how AI is transforming the healthcare industry.",
+    "Completion": "\n\nArtificial intelligence (AI) is revolutionizing many industries, and healthcare is no exception. With AI\u2019s ability to analyze vast amounts of data quickly and accurately, it is transforming the way healthcare is delivered, making it more efficient, personalized, and cost-effective.\n\nOne of the most significant ways AI is transforming healthcare is by improving diagnostics. Traditional diagnostic methods can be time-consuming, expensive, and prone to human error. However, AI"
+  },
+  {
+    "Prompt": "Explain the role of a computer scientist in the modern world.",
+    "Completion": "\n\nA computer scientist is a professional who uses scientific methods and mathematical principles to solve problems related to computing and technology. In the modern world, computer scientists play a vital role in various aspects of society, including business, education, healthcare, entertainment, and communication.\n\nOne of the primary roles of a computer scientist is to design and develop new software and hardware systems. This involves analyzing user requirements, creating algorithms, writing code, testing, and debugging. Computer scientists are also responsible for"
+  },
+  {
+    "Prompt": "Describe the importance of renewable energy",
+    "Completion": ". Renewable energy is essential for creating a resilient, sustainable, and equitable energy supply. It is a critical component in the transition towards a low-carbon economy and the fight against climate change. Renewable energy sources such as solar, wind, hydro, geothermal, and biomass are abundant, widely distributed, and have the potential to provide a constant and reliable energy supply.\n\nRenewable energy sources offer several advantages over traditional fossil"
+  },
+  {
+    "Prompt": "Generate a function to sort a list of strings alphabetically",
+    "Completion": " ignoring case. For example both of the list below would return 'apple', 'banana', 'cherry'\n\n['Banana', 'Cherry', 'Apple']\n['apple', 'Banana', 'cherry']\n\ndef sort_me(food):\n  tryme = sorted(food, key=str.lower)\n  return tryme\n\nprint(sort_me('Banana'))\nprint(sort_me('"
+  },
+  {
+    "Prompt": "Write a Satire article about the coronavirus pandemic",
+    "Completion": ".\n\nTitle: Quarantine Chronicles: Where Safety Measures become Highly questionable\n\nConfused? By the way I\u2019m describing the current globally  unprecedented unprecedented situation? Don\u2019t be. I\u2019m doing this to keep you informed, entertained, and unalarmed. Yes, the latter in caps. Surely you have time to read this. Surely you can\u2019t possibly be THAT busy while you\u2019re spending your"
+  },
+  {
+    "Prompt": "Create a function to check whether two strings are anagrams.",
+    "Completion": "\n\nTwo strings are said to be anagrams if they contain exactly the same characters (not\nnecessarily in the same order) and are of the same length.\n\n```python\n\ndef are_anagrams(s1, s2):\n\n    len_s1 = len(s1)\n    len_s2 = len(s2)\n\n    # Return False if both strings aren't of equal length\n    if len_"
+  },
+  {
+    "Prompt": "Explain what is a neural network",
+    "Completion": ".\nA neural network is a type of machine learning model loosely inspired by the way that the human brain works.\n\nIt consists of a large number of highly interconnected processing elements (neurons) working in unison to solve specific problems. The connections between neurons are called edges or synapses, and the strengths of these connections are represented by weights.\n\nA neural network learns by adjusting the weights of these connections based on the data it is trained on."
+  },
+  {
+    "Prompt": "Compile a list of five items that would help someone go camping.",
+    "Completion": "\n\n1. Tent - A tent is crucial for providing shelter and protection from the elements while camping. Choose a tent that is durable, waterproof, and easy to set up.\n\n2. Sleeping bag - A good quality sleeping bag is important for staying warm and comfortable at night. Look for a sleeping bag that is rated for the appropriate temperature range for your camping location.\n\n3. Camp stove - A camp stove is a portable cooking device that can be used"
+  },
+  {
+    "Prompt": "Generate a creative name for a restaurant serving Mexican cuisine.",
+    "Completion": "\n\nTequila Mockingbird: A playful twist on the classic cocktail and a nod to literature, Tequila Mockingbird offers a lively atmosphere with a menu full of bold and authentic Mexican flavors. From sizzling fajitas to refreshing ceviches, this vibrant restaurant offers a fun dining experience that celebrates the rich culinary traditions of Mexico.\n\nConcept:\n\nUpon entering Tequila Mockingbird, guests are"
+  },
+  {
+    "Prompt": "Suggest two marketing strategies for launching a new app.",
+    "Completion": "\n\n1. Influencer Marketing: Collaborate with influencers in your niche to promote the app. Influencers have a dedicated and engaged audience, making them a great way to reach potential users. You can offer them early access to the app, exclusive features, or even a partnership to create content using your app.\n\n2. App Store Optimization (ASO): Optimize your app's title, keywords, and description to make it easily discoverable"
+  },
+  {
+    "Prompt": "Explain the concept of a GPT language model.",
+    "Completion": "\n\nA GPT (Generative Pre-trained Transformer) language model is a type of artificial neural network architecture that is trained on a large corpus of text data to generate human-like text. It uses a technique called unsupervised learning, where the model learns to predict the next word in a sentence based on the preceding words, without explicit human labeling of the data.\n\nThe GPT model is based on the transformer architecture, which is a type of"
+  },
+  {
+    "Prompt": "Generate a slogan for a clothing brand.",
+    "Completion": "\n\nThe clothing brand that allows you to express your uniqueness and individuality with every stitch.\nExpressing yourself has never looked so good.\nEmbrace your individuality with our stylish and unique clothing.\nDress to impress, dress to express.\nWear it your way.\nEvery stitch tells a story.\nFashion for the bold and the brave.\nThe clothes that speak your language.\nFrom classic to contemporary, wear your style with confidence."
+  },
+  {
+    "Prompt": "Generate an example that illustrates the concept of \"artificial intelligence\".",
+    "Completion": "\n\nOne example of artificial intelligence is a chess-playing computer program. This program uses algorithms and pattern recognition to analyze the current state of the game, predict the possible future moves of both players, and determine the best move to make. The computer can learn from its past games and improve its strategy over time, making it a form of artificial intelligence that can adapt and get smarter. Additionally, the computer program can also be trained to recognize and respond to different playing styles, further demonstr"
+  },
+  {
+    "Prompt": "Describe the process of account creation for a website.",
+    "Completion": "\nThe steps to create an account for an online service usually include the following:\n\n1. **Navigate to the website's account creation page:** The website may have a \"Register,\" \"Create an Account,\" or \"Sign up\" button located prominently on the homepage.\n\n2. **Enter your personal information:** Most websites require users to provide basic information such as their name and email address. Other requested details might include the user's birthdate, phone number"
+  },
+  {
+    "Prompt": "Suggest two ways to increase the reach of a blog.",
+    "Completion": "\n\n1. Use Social Media Platforms: Share your blog on various social media platforms like Facebook, Twitter, LinkedIn, Instagram, and others. This will help you reach a larger audience as these platforms have millions of active users. You can also join relevant groups or communities on these platforms and share your blog post there.\n\n2. Optimize for Search Engines: Optimize your blog post for search engines by using relevant keywords, meta descriptions, and tags. This will help your"
+  },
+  {
+    "Prompt": "Name three natural elements.",
+    "Completion": " Different answers are acceptable, provided theelements are natural.\nName one man-made material. To be considered correct, the material must befabricated, derived from existing materials, or created through a monitoredprocess.\nName one common object that employs scientific principles by its use.\n\nUse the space below to list your answers to these three questions, then tradewith a classmate and check to see if your answers match. Did these itemshelp you to better understand the"
+  },
+  {
+    "Prompt": "Give a brief description of the coronavirus.",
+    "Completion": "\n\nCoronaviruses are actually a family of viruses that can cause illnesses ranging from the common cold to more severe diseases. Severe illnesses might include pneumonia and other respiratory disorders.\n\nThe new strain of coronavirus that we have been seeing that has now caused a global health threat has been named COVID-19.\n\nHow widespread is COVID-19?\n\nAs of March 19, 2020, there"
+  },
+  {
+    "Prompt": "Predict the monthly electricity bill of a 1000 square-foot apartment in California.",
+    "Completion": " Assume the per square-foot rate is \\$0.11 and that the apartment is equipped with Energy Star appliances.\n\nThe monthly electricity bill for a 1000 square-foot apartment in California, equipped with Energy Star appliances, would be calculated as follows:\n\n1000 square feet \\* \\$0.11 per square foot = \\$110 per month\n\nThis is just an estimate and the actual bill may vary depending"
+  },
+  {
+    "Prompt": "Generate 10 rhyming words for the word \"love\".",
+    "Completion": "\n\n1. Dove\n2. Above\n3. Glove\n4. Shove\n5. Of\n6. Unlove\n7. Belove\n8. Turtle-dove\n9. Foxglove\n10. Hypnove"
+  },
+  {
+    "Prompt": "Explain the concept of binary search.",
+    "Completion": " Show a simple algorithm and evaluate its complexity.\n\nBinary search is a technique for searching in a sorted [0](https://en.wikipedia.org/wiki/Search_algorithm#Sorted_array) array. It is a _divide and conquer_ algorithm which works by taking the value in the middle of the interval, comparing it with the value to find, and basically narrowing the search area to less than half. This procedure is repeated until the value is found or the"
+  },
+  {
+    "Prompt": "Name all the elements in the periodic table with symbol C.",
+    "Completion": " O. Na, Ni, Si, Sg. \nC = Carbon\nO = Oxygen\nNa = Sodium\nNi = Nickel\nSi = Silicon \nThere is no element in the periodic table that has the symbol Sg.\nSome 2 letter symbols are used by older obsolete elements, such as Sg which was Tantalum."
+  },
+  {
+    "Prompt": "Compare the differences between a wooden and plastic baseball bat.",
+    "Completion": " In the world of baseball, there is a never-ending debate between which bat is the best for the game. Some players swear by wooden bats, while other prefer the durability and versatility of a plastic bat. To truly understand the differences, it\u2019s important to consider things like cost, durability, and performance.\n\n## Cost\n\nThe cost of a wooden bat vs a plastic bat is substantial. Wooden bats can range from $20 to $4"
+  },
+  {
+    "Prompt": "Calculate the area of a right triangle with base length of 5 cm and height of 3 cm.",
+    "Completion": "\n\nSince it's a right triangle, the area can be calculated using the formula:\n\nArea = (base * height) / 2\n\nSubstitute the given values for base and height into the formula:\n\nArea = (5 cm * 3 cm) / 2\n\nNow, multiply the base and height:\n\nArea = 15 square cm\n\nFinally, divide the result by 2:\n\nArea = 7"
+  },
+  {
+    "Prompt": "Identify the continents with the most carnivores.",
+    "Completion": "\n\nWhile each continent has carnivores, Africa and South America possess the most varied carnivores on each continent. Africa has a diverse collection of large carnivores like the African lion and the leopard. South America, on the other hand, is home to big cats such as the jaguar and the puma."
+  },
+  {
+    "Prompt": "Explain the difference between a primary and secondary source.",
+    "Completion": "\n\nA primary source is a document or object that provides direct evidence about a topic. Primary sources can include letters, speeches, diaries, photographs, interviews, artifacts, or legal documents. These sources were created during the time period being studied and provide a firsthand account of an event or experience.\n\nA secondary source is a document or object that interprets or analyzes primary sources. Secondary sources can include books, articles, essays, or documentaries. These"
+  },
+  {
+    "Prompt": "Explain the purpose of hypertext markup language (HTML).",
+    "Completion": " How is HTML used to reference multimedia objects such as images or videos? What is the difference between Intranet and Internet?\n\nHTML stands for Hypertext Markup Language. HTML is used to create web pages by giving them a structure or a layout to follow. It is used as a basis to create web content that is viewable on the web. HTML is written in English, using less than 100 keywords or tags. HTML allows you to split the document into"
+  },
+  {
+    "Prompt": "Describe the differences between a substantive and procedural law.",
+    "Completion": "\n\nSubstantive law defines what our criminal and civil obligations and rights are, such as theft being against the law or the right to vote. Procedural law, on the other hand, outlines how the court process should be conducted. Procedural law establishes the process for in which the court conducts trials as well as the steps to be taken when an individual files a legal action against an offender.\n\n3. What is a multijurisdictional"
+  },
+  {
+    "Prompt": "Suggest three methods for recycling paper.",
+    "Completion": "\n\n1. Curbside Recycling Programs: Many local waste management services offer curbside recycling programs for paper. Residents can place their paper waste in specially marked bins or bags, which are then collected by waste management personnel and transported to recycling facilities for processing.\n\n2. Drop-off Recycling Centers: For those who do not have access to curbside recycling programs, drop-off recycling centers provide an alternative option"
+  },
+  {
+    "Prompt": "Describe the color pink.",
+    "Completion": " To what words would you attach it? Delicate, sweet, romantic. It soothes, it flatters, it distresses not. When decorating, it winks at grown-up glamour while sneaking in touches of little girls' tea parties. However you choose to look at it, pink evokes a potent mix of innocence and sophistication.\n\nThroughout Valerie Steele's (director, chief curator and curator of fashion at"
+  },
+  {
+    "Prompt": "Generate a rate for a driver for a ride sharing app for $5.",
+    "Completion": "55 to travel 29.25 miles.\nIn a ride sharing app, the rate paid for a ride approximately is the result of a base fare and a fare per mile multiplied by the number of miles traveled. This could also be expressed as the following function:\n\n\\$Rate=BaseFare+FarePerMile*MilesTraveled\n\nThe problem statement, however, does not offer any information about the base fare for the ride. This"
+  },
+  {
+    "Prompt": "Come up with a social media campaign slogan.",
+    "Completion": " Choose from the phrases below.\n\n1. Together We Can End Human Trafficking\n2. Putting an End to Modern Day Slavery\n3. Make Violence Disappear\n4. Change is Possible \u2026 One Person at a Time\n5. More Than Just a Snuggle\n6. End It: Awareness = Action\n7. Awareness Can Make a Difference\n8. Join the Fight to Protect Children from Trafficking"
+  },
+  {
+    "Prompt": "Write a tweet about customer service.",
+    "Completion": "\n\n\"Great customer service can turn a one-time buyer into a lifelong customer. Remember, it's not just about solving the problem, it's about making the customer feel valued and heard. #customerservice #cx\""
+  },
+  {
+    "Prompt": "Generate a sound effect for a car passing by.",
+    "Completion": "\n\nThis effect was created using Logic Pro X. Here is how I made it.\n\n#### GarageBand Sound Library\n\nGarageBand comes with a huge Sound Library full of sounds to create any type of music or podcast you want. Stacks of guitars lick, from Hip Hop beats to Gregorian Chants. Learn more about recording, mixing, and polishing sound effects here.\n\n#### Finding Inspiration\n\nRecreate"
+  },
+  {
+    "Prompt": "Name a planet from our solar system.",
+    "Completion": "\n\nA short poem for twilight.\n\nA life lesson you have learned.\n\nThree photos that describe myself.\n\n1.\n\n2.\n\n3.\n\nName a historical person I admire.\n\nMy English teacher ich liebe dich \u2764\n\nThree travel destinations.\n\n- West Coast USA\n- Denmark \u2764\n- Island\n\nDescribe a perfect weekend.\n\nWhat recipe am I craving right now.\n"
+  },
+  {
+    "Prompt": "Come up with a creative tagline for a beauty product.",
+    "Completion": "\n\n\"Elevate Your Glow: Dare to be You-tiful.\"\n\nThis tagline combines the ideas of elevating one's beauty and embracing individuality. \"Elevate Your Glow\" suggests enhancing and highlighting one's natural beauty, while \"Dare to be You-tiful\" encourages customers to feel confident and unique in their own skin. Using the play on words \"You-tiful\" also adds a touch"
+  },
+  {
+    "Prompt": "Describe how quantum computers work.",
+    "Completion": " Quantum computers use the principles of quantum mechanics, such as superposition and entanglement, to perform operations on data. Quantum bits, or qubits, can exist in multiple states simultaneously, allowing quantum computers to perform many calculations at once. Quantum algorithms, such as Shor's algorithm for factoring large numbers, take advantage of this property to solve problems that are difficult or impossible for classical computers. Quantum computers are still in the early stages of development and are not yet widely"
+  },
+  {
+    "Prompt": "Generate a memorable quote from Albert Einstein.",
+    "Completion": "\n\n> Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.\n> - Albert Einstein"
+  },
+  {
+    "Prompt": "Transform the following sentence using the past perfect tense: Yesterday they opened the door.",
+    "Completion": "\nYesterday they had opened the door.\nWhat does it mean for a verb to be active or passive?\nIt means that the verb shows whether the subject is doing the action or receiving the action.\nCorrect or incorrect: \"The hamburger eaten by James.\"\nCorrect\nCorrect or incorrect: \"James ate the hamburger.\"\nCorrect\nTransform the following sentence using the passive voice: The dog will bite the man.\nThe man"
+  },
+  {
+    "Prompt": "Explain the uses of artificial intelligence.",
+    "Completion": "\n\nArtificial Intelligence (AI) is the study of how to make computers perform tasks that would normally require human intelligence. AI is used in many different ways and it has a number of different applications. Here are some of the uses of AI:\n\n1. Natural Language Processing (NLP): NLP is a field of AI that deals with the interaction between computers and human language. NLP enables computers to understand, interpret, and generate human language in a valuable way. It is"
+  },
+  {
+    "Prompt": "Describe a scenario in which blockchain technology could be successfully applied.",
+    "Completion": "\n\nBlockchain technology is a great solution for scenarios involving multiple parties with potentially conflicting interests. A perfect example is supply chain management.\n\nToday, tracking goods as they move through a supply chain is often a manual, error-prone process. Companies spend countless hours reconciling records from different sources, trying to gather reliable data about the status and location of an asset.\n\nWith a blockchain-powered supply chain, each step in a product's journey can be"
+  },
+  {
+    "Prompt": "Complete the following analogy: Loud is to quiet as day is to",
+    "Completion": " ________.\n\nAn apple\n\nNight\n\nLight\n\nDark\n\nnight\n\nThis analogy compares two pairs of opposites: loud and quiet, as well as day and night. Since night normally follows day and is the counterpart to it, night is the correct answer."
+  },
+  {
+    "Prompt": "Create an example of alliteration.",
+    "Completion": "\n\n\"Daring Dan danced and drove down the dangerous, darkened, dirt driveway, deviously determined to destroy Daddy's dilapidated Dodge.\"\n\nAlliteration is a stylistic device in which a series of words in a row (or close to a row) have the same first consonant sound. It is commonly used in poetry, but can also be used in prose. In the example above, the repetition of the \"d"
+  },
+  {
+    "Prompt": "Classify the following words by their grammatical categories: walk, interesting, quickly",
+    "Completion": ", wind, remembers, kindness, read, hundreds, soft, clear, frequency\n\nwalk - verb\ninteresting - adjective\nquickly - adverb\nwind - noun\nremembers - verb\nkindness - noun\nread - verb\nhundreds - noun\nsoft - adjective\nclear - adjective\nfrequency - noun"
+  },
+  {
+    "Prompt": "Come up with a riddle",
+    "Completion": ", any riddle! If you spend half a year trying to guess it, then you would need to try a bit more than another year to have one-third more success in solving it than you had before. How long was the riddle kept a secret, in days?\n\nWhen you've spent six months trying to solve a riddle, you have one-half a year's worth of effort put in. To increase this by one-third, you'd need to"
+  },
+  {
+    "Prompt": "Identify the conjugation of the verb: I will have helped",
+    "Completion": "\n\nThe conjugation of the verb is will have helped. This is the future perfect tense of the verb to help. It indicates an action that will be completed before some point in the future. For example, \"I will have helped you finish the project by tomorrow.\""
+  },
+  {
+    "Prompt": "What is the first rule of storytelling?",
+    "Completion": "\n\nShow, don\u2019t tell.\n\nThe first rule of email marketing?\n\nSegment. Segment. Segment.\n\nBefore you look at the why behind this rule, you need to understand how to segment your audience. From our experience, there are three levels of segmentation. They scale from \u201cEasy but not good enough\u201d to \u201cHard but gold standard.\u201d\n\n1. Broad Segmentation: Categorizing customers into basic segments such as age,"
+  },
+  {
+    "Prompt": "Rewrite the sentence into more descriptive form:\nThe food was delicious.",
+    "Completion": "\n\nThe splendid feast of tender roasted chicken, crisp golden potatoes, and vibrant saut\u00e9ed vegetables satiated my hunger and delighted my taste buds with every savory bite."
+  },
+  {
+    "Prompt": "Name 5 emotional states",
+    "Completion": ".\n\n1. Happiness\n2. Sadness\n3. Anger\n4. Excitement\n5. Fear\n\nWhat is an extreme emotion?\n\nAn extreme emotion is one which is very intense in its manner.  The emotion takes over the body and consumes the individual\u2019s whole being, changing the face, demeanor, behavior, and rational state.  They might be very short or very long lasting, and always cause rapid changes in"
+  },
+  {
+    "Prompt": "Create a funny one-liner.",
+    "Completion": "\n\nMy dog has a better vocabulary than my cat. Of course, being strangled is a very effective way to get someone's attention.\n\n-shoewolf\n\n--\n\nIf a man is standing in the middle of the forest speaking and there is no woman around to hear him, is he still wrong?\n\n-Gordon Zola (http://www.gordonzola.com/)\n\n--\n\nThe secret of creativity is knowing"
+  },
+  {
+    "Prompt": "Generate a list of fashion trends for Spring 2021.",
+    "Completion": "\n\n1. Bold Colors: Bright, bold colors are making a statement this spring. From vibrant yellows and oranges to electric blues and pinks, expect to see an array of eye-catching hues on the runway and in street style.\n2. Puffed Sleeves: This trend adds a romantic and feminine touch to any outfit. Puffed sleeves can be found on dresses, blouses, and even jackets this season."
+  },
+  {
+    "Prompt": "What is the impact of deforestation on wildlife?",
+    "Completion": " Deforestation has a significant impact on wildlife.\u2026\n\nAurogra is a popular drug used to treat erectile dysfunction in men. It is a prescription medication that\u2026\n\nErectile dysfunction (ED) is a common condition that affects many men. It is the inability to achieve or maintain\u2026\n\nWhat is Cenforce 100? Cenforce 100 is a medication used to treat erectile dysfunction (ED)"
+  },
+  {
+    "Prompt": "Explain economics with an example.",
+    "Completion": "\n\nEconomics is the study of how individuals, businesses, and society as a whole make choices about how to allocate limited resources to meet their unlimited wants.\n\nFor example, consider a college student who has a limited amount of money to spend on food each week. The student has unlimited wants for food, including pizza, burgers, salads, and more. To make the most of their limited resources, the student must make choices about how to allocate their money to"
+  },
+  {
+    "Prompt": "Provide me a list of diseases that can be caused by smoking.",
+    "Completion": "\n\nListed diseases:\n\n1. Cardiovascular diseases\n\t* Atherosclerosis/arteriosclerosis - deposits of fatty substances, cholesterol, cellular waste products, calcium and fibrin in the inner layer of an artery\n\t* Coronary artery disease - narrowing of the coronary arteries which can result in angina (chest pain), shortness of breath, or heart attack"
+  },
+  {
+    "Prompt": "What is the difference between machine learning and deep learning?",
+    "Completion": "\n\nDifficult to define machine learning (ML) and deep learning (DL) within a single definition, you can understand the difference between the two by understanding the concepts and their principles of operations.\n\nOf course, these concepts are intertwined because deep learning is a subfield of machine learning within the broader definition\u2014artificial intelligence.\n\nIn summary, machine learning is a kind of artificial intelligence that allows a system to learn from data through experience. Deep learning is a subfield"
+  },
+  {
+    "Prompt": "Describe a typical workday for a barista.",
+    "Completion": " What does it take to be a barista?\n\nA typical workday for a barista usually starts early in the morning, around 5 or 6 am, to prepare the coffee shop for the day ahead. The first task is to brew fresh coffee and make sure all the equipment is clean and in good working order.\n\nOnce the shop opens, the barista will take orders from customers, make drinks, and handle payments. This requires excellent customer service skills, as well as"
+  },
+  {
+    "Prompt": "How does the human brain remember information?",
+    "Completion": " In this activity, you will learn about the neural basis behind information processing by constructing a simple model of a neuron that can \"learn\" to represent specific input information.\n1. Gather materials.\n2. Construct the circuit (Figure 1).\n    - Connect the LED to the long lead of the resistor (10,000 ohm or 10K resistor).\n    - Connect the 9-volt battery to the electrical circuit by touching"
+  },
+  {
+    "Prompt": "How does the internet of things (IoT) work?",
+    "Completion": " Ways IoT is working\n\nHow does the internet of things (IoT) work? Ways IoT is working\n\nOne of the ways that IoT works is that it allows communication is between objects and devices that otherwise wouldn\u2019t be able to connect. A smartphone can be made \u201csmarter\u201d by adding a small IoT device that can monitor and interact with the device\u2019s settings.\n\nIoT devices use technology to send and receive data wirelessly."
+  },
+  {
+    "Prompt": "Give me an example of a conflict resolution technique.",
+    "Completion": "\n\nOne conflict resolution technique is known as the \"win-win\" strategy. This method places emphasis on mutually beneficial resolutions, where all parties involved benefit. Instead of striving for a single-minded victory (win-lose), all parties work together to achieve a result that satisfies everyone involved (win-win). It is important to acknowledge each other's interests, and find a solution that meets everyone's needs. This way, conflicts can be resolved in a positive and"
+  },
+  {
+    "Prompt": "Identify a programming language suitable for game development.",
+    "Completion": "\n\nSome popular programming languages for game development include:\n\n1. C++: This is a powerful and fast language that is commonly used for developing AAA games. It is the language of choice for many game engines, such as Unreal Engine and CryEngine.\n2. C#: This is a popular language for game development, particularly for Windows and mobile games. It is the language used in the Unity game engine, which is widely used for both 2D and "
+  },
+  {
+    "Prompt": "Make a list of different types of cryptocurrencies.",
+    "Completion": " Make a separate list of the initial strength and then the present value of each. Compare the two lists to analyze the stability of cryptocurrencies in general and your findings in particular.\n\nYou will be writing a mini-report for your analyst at K.E.Y Investments after conducting some initial research into cryptocurrencies. Your supervisor would like you to consider the following points for inclusion in the report:\n\n* Types of cryptocurrencies (minimum of"
+  },
+  {
+    "Prompt": "Derive the mathematical equation for a straight line.",
+    "Completion": "\n\nLet's consider a straight line L in the two-dimensional Cartesian coordinate system, as shown in the figure below. The line L intersects the y-axis at a point with coordinates (0, b) and has a slope of m.\n\n![Straight line in the Cartesian coordinate system](https://i.imgur.com/SnPg6mj.png)\n\nWe can find the equation of the line using the slope-inter"
+  },
+  {
+    "Prompt": "Describe the physical features of a tiger.",
+    "Completion": "\n\nPhysical features of a tiger include a heavy, muscular body; powerful legs; and a long, bushy tail. Its coat is the most recognized feature-a beautiful orange color with dark, vertical stripes. These stripes are unique to each tiger and seen as a sort of \"fingerprint\". Tigers have a large head and a narrow nose, as well as round ears that are set high on the head. White tigers have a gene mutation"
+  },
+  {
+    "Prompt": "Generate ideas for a fiction story.",
+    "Completion": " Need help creating one in the mystery genre. Or something similar to this. I want the beginning sorted. Those parts are most necessary for me to start composing. I love detail, so the rest can come over time also I am very much interested in beginning sorted. Those parts are most necessary for me to start composing. I love detail, so the rest can come over time. Or something similar to this. I want the beginning sorted. Those parts are most necessary for me to start compos"
+  },
+  {
+    "Prompt": "Describe the Renaissance period.",
+    "Completion": " When was this period? Why is this period significant? Describe the works of art from this period. Describe three artists from this period and their works of art.\n\nThe Renaissance period is a time of great cultural rebirth that occurred between the 14th and 17th centuries, particularly in Italy. This period marked a significant departure from the Middle Ages and saw a renewed interest in classical learning and values. The Renaissance is significant because it saw the emergence of"
+  },
+  {
+    "Prompt": "List 5 items of personal protective equipment.",
+    "Completion": "\n\n1. Hard hats\n2. Safety goggles\n3. Steel-toed boots\n4. Gloves\n5. Ear plugs or other hearing protection\n\nWhat does the acronym PPE mean?\n\nPPE stands for personal protective equipment.\n\nWhat is the purpose of PPE?\n\nThe purpose of PPE is to protect workers from injury or illness on the job. This can include protection from physical hazards like falling objects"
+  },
+  {
+    "Prompt": "Construct plumbing diagrams for a two-story house",
+    "Completion": " that will have a full basement of masonry construction. The house will include a bathroom and a kitchen located on the first floor, and a bathroom on the second floor.\n\nThe plumbing system will employ well water. A water pump will be installed in the basement next to the hot water heater. This hot water heater will be of the instantaneous type.\n\nFirst Drawing\n\nFor the first drawing, it will be necessary to consider the location of the toilet,"
+  },
+  {
+    "Prompt": "Compare student debt crisis in the US and Canada.",
+    "Completion": " In both countries, the student debt crisis is a result of increasing university tuition, student enrolment and lack of government funding in post-secondary education. The consequences of this crisis in both countries are having detrimental effects on the future of the economy and the next generation but to different extents. The US is at a greater disadvantage because of its for-profit university system and high interest rates on student loans. By comparison, Canada has a publicly funded post-secondary system and dr"
+  },
+  {
+    "Prompt": "List the benefits of Amazon Web Services.",
+    "Completion": "\n\nAmazon Web Services (AWS) is a comprehensive cloud computing platform that offers a wide variety of benefits, including:\n\n1. Cost savings: AWS offers flexible and cost-effective pricing models, including pay-as-you-go and reserved instances, which can help businesses save money compared to traditional on-premises solutions.\n2. Scalability: AWS provides the ability to quickly and easily scale up or down resources as needed, making it an ideal solution for businesses"
+  },
+  {
+    "Prompt": "Generate a limerick poem about a lemur.",
+    "Completion": " A limerick is a five-line poem with the following structure:\n\n1. The first, second, and fifth lines rhyme with one another and are usually written in anapestic trimeter, a rhythmic pattern consisting of two short stressed syllables followed by a longer stressed syllable.\n2. The third and fourth lines rhyme with each other and are usually written in anapestic dimeter, a rhythmic pattern consisting of two short stressed syllables"
+  },
+  {
+    "Prompt": "Describe the functions of the Endoplasmic Reticulum.",
+    "Completion": "\n\nThe Endoplasmic Reticulum (ER) has two main functions in the cell. The first is to serve as a site for protein synthesis. New proteins are produced by ribosomes on the ER, which then adds the proteins to the ER membrane for further processing or transport.\n\nThe second function of the ER is to store and process calcium ions, a vital role in the signaling function of many types of cells. The smooth endopl"
+  },
+  {
+    "Prompt": "Summarize the industrial revolution.",
+    "Completion": " In 1760, the Industrial Revolution began in Great Britain. In 1840, it gained pace in Western nations. One of the causes for the revolution was the large population growth in the 18th century. The people needed more products and this meant that companies needed more factories and more mechanized methods to produce products. Thus the Industrial Revolution started, which turned society from an agrarian society to a commercial society. Two key 19th century historic"
+  },
+  {
+    "Prompt": "Select the correct term for the phrase \u2018the art of making things\u2019",
+    "Completion": " or write your own description of this idea.\n\ncraft\nthe skill of making things by hand and usually involving a creative process\n\nmaking or producing something with skill and often using hands, special tools, and sometimes technical knowledge\n\nI think the art of making things is the skill to produce something manually that often includes a creative process. There are also some special tools needed in order to craft something"
+  },
+  {
+    "Prompt": "Explain the concept of net neutrality.",
+    "Completion": "\n\nNet neutrality is the concept that internet service providers (ISPs) must treat all data on the internet equally and without discrimination or preferential treatment. This means that ISPs should not charge more for faster access to certain websites or services, nor should they block or slow down access to others. Net neutrality is intended to ensure a level playing field for all internet users, from individual subscribers to large businesses, and to prevent ISPs from using their control over access to the internet"
+  },
+  {
+    "Prompt": "Brainstorm creative ideas for designing a conference room.",
+    "Completion": "\n\nDesigning a conference room is a chance to bring together the best in productivity, innovation, and comfort. While the room must serve its intended business purpose, it\u2019s also important to keep creativity, user experience, and aesthetics at the forefront. The goal is to inspire the best work while ensuring that every presentation and meeting runs smoothly and successfully. Here are our top five ideas for designing a conference room that encapsulates these concepts.\n\n1. Technology\n\nCon"
+  },
+  {
+    "Prompt": "Calculate the area of a square with the sides of 10cm.",
+    "Completion": "\n\nGiven theexample, we know that each side of a square labeled as A is 10cm long. The area of the square is then calculated by multiplying the sides as in a rectangle:\n\nA = A * A\n\nSubstituting the given length on the formula:\n\nA = 10cm * 10cm\n\nA = 100 square centimeters\n\nThe final calculation shows that the area of the square"
+  },
+  {
+    "Prompt": "List the countries that are in the Schengen area.",
+    "Completion": " There are 26 countries in that are in the Schengen area.\nAustria\nBelgium\nCzech Republic\nDenmark\nEstonia\nFinland\nFrance\nGermany\nGreece\nHungary\nIceland\nItaly\nLatvia\nLiechtenstein\nLithuania\nLuxembourg\nMalta\nNetherlands\nNorway\nPoland\nPortugal\nSlovak"
+  },
+  {
+    "Prompt": "Describe the form and structure of a haiku poem.",
+    "Completion": "\n\nA haiku is a traditional form of Japanese poetry. It consists of three lines with a 5-7-5 syllable count, respectively. This means that the first line will have five syllables, the second line will have seven syllables, and the third line will have five syllables. A haiku often focuses on nature or seasons and typically includes a \"kireji,\" or cutting word, and a \"kigo,\" or seasonal reference."
+  },
+  {
+    "Prompt": "Explain how a random forest algorithm achieves higher accuracy than individual decision trees.",
+    "Completion": " This is a question that often appears in predictive modeling interviews and exams. Sure, I'd be happy to help you understand this concept.\n\nA random forest algorithm is an ensemble machine learning method that combines multiple decision trees to improve the accuracy and stability of the model. The idea behind this algorithm is that a group of weak learners (i.e., individual decision trees) can come together to form a strong learner (i.e., the random forest).\n\n"
+  },
+  {
+    "Prompt": "Give an example of a place where an endangered species of animal might be found.",
+    "Completion": "\n\nThe Amazon Rainforest in Brazil is home to several endangered species, including the Black-faced Black Spider Monkey, White-cheeked Spider Monkey and the Giant Otter. The Endangered Species Coalition also notes that the South American jaguar could be found here. The Amphibian Ark adds that this region also provides shelter to more than 500 endangered amphibians. However, these animals are highly"
+  },
+  {
+    "Prompt": "Create a pop quiz about clouds.",
+    "Completion": "\n\n#### Quiz\n\n1. What are the names of the three main cloud types?\n\nA. Cumulus, Stratus, Ciro\n\nB. Cirrus, Stratus, Nimbus\n\nC. Cumulus, Stratus, Ciro\n\nD. Cirrus, Status, Nimbus\n\n2. Name the correct combination of adjective/ cloud type to complete the four separate stages of Cumulonimbus cloud"
+  },
+  {
+    "Prompt": "Explain why trade protectionism can hurt the economy of a country.",
+    "Completion": " The concept of trade protectionism is utilized by a nation to shield its domestic market and stop the influx of foreign competitors. Trade protectionism can generate several adverse economic effects on a nation, such as:\n\n1. Lower Productivity and Efficiency: Trade protectionism can result in reduced competition, resulting in less motivation for domestic firms to enhance productivity and efficiency.\n\n2. Increased Costs for Consumers: By limiting foreign competition, domestic firms may use their market power"
+  }
+]
