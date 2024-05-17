@@ -1,0 +1,402 @@
+[
+  {
+    "Prompt": "Describe the benefits of having a mentor.",
+    "Completion": "Describe the benefits of having a mentor.\nHaving a mentor can be incredibly beneficial for personal and professional growth. A mentor can provide guidance, advice, and support, helping you to navigate challenges and make informed decisions. They can also share their knowledge and experience, offering insights and perspectives that you may not have considered. Additionally, a mentor can help to hold you accountable, providing motivation and encouragement to help you achieve your goals. Overall, having a mentor can help you to develop skills, build confidence,"
+  },
+  {
+    "Prompt": "List the steps to write a 10-page essay.",
+    "Completion": "List the steps to write a 10-page essay.\n\n1. Choose a topic: Select a subject that interests you and is relevant to the assignment.\n2. Conduct research: Gather information from reliable sources such as books, articles, and academic databases.\n3. Develop a thesis statement: Create a clear and concise argument that will guide your essay.\n4. Create an outline: Organize your ideas and supporting evidence in a logical and coherent manner.\n5. Write a rough draft: Begin writing your essay"
+  },
+  {
+    "Prompt": "Identify a tool that can be used to calculate risk.",
+    "Completion": "Identify a tool that can be used to calculate risk. Examples might be something that converts the incidence and prevalence of a disease or statistical calculations programs such as SPSS. You do not necessarily need to test the tool, but rather give a thorough analysis of what it does, if it has been used/tested in research or publications, the advantages and disadvantages of using such a tool, and if a license/cost is required.\n\nCompare your identified tool to another risk assessment tool found through research. Again, you do not"
+  },
+  {
+    "Prompt": "Suggest a method to optimize a website\u2019s performance.",
+    "Completion": "Suggest a method to optimize a website\u2019s performance.\n\nTo optimize a website\u2019s performance, you can follow these steps:\n\n1. Use a Content Delivery Network (CDN): A CDN is a distributed network of servers that delivers content to users based on their geographical location. By using a CDN, you can reduce the load time of your website by serving content from servers that are closer to your users.\n2. Optimize images: Images are often the largest files on a webpage, and optim"
+  },
+  {
+    "Prompt": "Present an argument for why writing a cover letter is important.",
+    "Completion": "Present an argument for why writing a cover letter is important.\n\nA cover letter is a critical component of the job application process. It is a written communication that accompanies resumes and represents an opportunity for job seekers to highlight their qualifications, skills, and experiences that are relevant to the position they are applying for. Writing a cover letter is important for several reasons:\n\n1. Introducing Yourself: A cover letter is often the first opportunity to introduce yourself to potential employers. It provides an opportunity to make a good impression and show"
+  },
+  {
+    "Prompt": "Propose a strategy to build an effective landing page.",
+    "Completion": "Propose a strategy to build an effective landing page.\n\nTo build an effective landing page, follow these steps:\n\n1. Define your target audience and their needs.\n2. Clearly state the value proposition and benefits of your offering.\n3. Use a simple and clean layout with a clear hierarchy of information.\n4. Include a prominent call-to-action (CTA) button and make it easy to convert.\n5. Use social proof, such as customer testimonials and trust badges.\n6."
+  },
+  {
+    "Prompt": "Explain the differences between a variable and a constant.",
+    "Completion": "Explain the differences between a variable and a constant.\n\n* **A variable** is a symbol that can be assigned a value or location in memory that is expected to change. For instance, in a formula piece of programming code, perhaps you are using a symbol for someone's age. Over the course of the program, that value will likely be increased as time passes within the application. After all, people do get older with each passing minute!\n* **A constant** is a symbol that is not going to change. For instance,"
+  },
+  {
+    "Prompt": "Describe the role of a project manager",
+    "Completion": "Describe the role of a project manager.\nProject manager is a person who is hired to plan, coordinate and supervise all parts of a project from its beginning to its end. This includes projectscope management, project resource management and project risk management (51). Project managers probably do not dig post holes by hand, but they're responsible for making sure that the post hole gets dug and used properly. To put it much more simply, project managers are managers. But they're also responsible for making sure that their projects"
+  },
+  {
+    "Prompt": "Come up with a use case for an AI-driven chatbot",
+    "Completion": "Come up with a use case for an AI-driven chatbot.\n\nUse case for an AI chatbot:\n\nA healthcare organization wants to provide its patients with a convenient way to access information about their health, schedule appointments, and receive reminders for medications and upcoming visits. The organization decides to implement an AI-driven chatbot on its website and mobile app.\n\nThe chatbot is trained to understand and respond to a wide range of healthcare-related questions and requests. Patients can ask the chatbot about symptoms, find information on"
+  },
+  {
+    "Prompt": "Outline the key differences between the Linux and Windows operating systems.",
+    "Completion": "Outline the key differences between the Linux and Windows operating systems.\n\nLinux and Windows are both popular operating systems, but they have several key differences:\n\n1. Open Source vs. Proprietary: Linux is an open-source operating system, which means that its source code is freely available to the public and can be modified and distributed by anyone. In contrast, Windows is a proprietary operating system, which means that its source code is owned and controlled by Microsoft, and it cannot be modified or distributed without permission.\n2. Cost:"
+  },
+  {
+    "Prompt": "Construct a persuasive argument for why a business should invest in SEO.",
+    "Completion": "Construct a persuasive argument for why a business should invest in SEO. Make sure to include information on the following points:\n\n1. Increased website traffic\n2. Improved search engine rankings\n3. Targeted advertising\n4. Better user experience\n5. Cost-effective compared to traditional advertising\n6. Long-term results\n\nIn today's digital age, having a strong online presence is crucial for any business looking to succeed. One of the most effective ways to establish and maintain this presence is through search engine optimization (SEO)."
+  },
+  {
+    "Prompt": "Give an example of a miscommunication between two people.",
+    "Completion": "Give an example of a miscommunication between two people. Explain the miscommunication, the effects and how it could have been prevented or resolved.\n\nIn my previous work place, the management and staff had miscommunication in regards to their expectations about a special project. The management expected the staff to meet the deadline without compromising the quality and quantity of the outputs. However, the staff thought that the management is just giving this project as an added task on top of their usual workloads with no additional incentive. This resulted in low mor"
+  },
+  {
+    "Prompt": "Summarize the ethical implications of using facial recognition technology.",
+    "Completion": "Summarize the ethical implications of using facial recognition technology.\n\nFacial recognition technology has potential for various applications, such as law enforcement, access control, and targeted advertising. However, its use also raises ethical concerns. Here are some of the ethical implications of using facial recognition technology:\n\n1. **Privacy**: Facial recognition technology can be used to track individuals without their consent, infringing on their privacy rights. This can happen in public spaces, where cameras equipped with facial recognition software can identify and track individuals in real-time."
+  },
+  {
+    "Prompt": "Construct a vocab list for an AI-powered chatbot.",
+    "Completion": "Construct a vocab list for an AI-powered chatbot.\n\n100+Word Vocabulary for AI Builder Bot\n\n1. Action\n2. Agent\n3. AI\n4. Algorithm\n5. Analytics\n6. Application\n7. Architecture\n8. Array\n9. Artificial Intelligence\n10. Attribute\n11. Automation\n12. Backpropagation\n13. Bagging\n14. Balancing\n15. Bayesian\n16. Bellman equations\n"
+  },
+  {
+    "Prompt": "Describe the differences between machine and deep learning",
+    "Completion": "Describe the differences between machine and deep learning. Match the listed concepts to the appropriate learning technique (machine or deep learning).\n\n1. Linear Regression\n2. Neural Networks\n3. Logistic Regression\n4. Decision Trees\n5. K-Nearest Neighbors (KNN)\n6. Random Forest\n7. Convolutional Neural Networks (CNN)\n8. Long Short-Term Memory (LSTM)\n9. Support Vector Machines ("
+  },
+  {
+    "Prompt": "Generate a sentence that uses the word \u2018zephyr\u2019",
+    "Completion": "Generate a sentence that uses the word \u2018zephyr\u2019 in a creative and interesting way.\n\nThe zephyr gently whispered secrets to the sunflowers, causing their faces to follow its meandering path to the horizon where the blushing sky held their unspoken promises."
+  },
+  {
+    "Prompt": "Explain the physics concept of projectile motion.",
+    "Completion": "Explain the physics concept of projectile motion.\n\nProjectile motion refers to the motion of an object under the influence of gravity without any other forces acting on it. The path of such objects is called a trajectory. The motion can be separated into vertical and horizontal components. The horizontal component is constant linear motion while the vertical component is accelerated due to gravity, causing it to decrease over time. The path of the projectile is a parabola, which can be determined by the initial velocity of the object and the angle at which"
+  },
+  {
+    "Prompt": "Write a function to convert Fahrenheit to Celsius",
+    "Completion": "Write a function to convert Fahrenheit to Celsius. The formula to convert Fahrenheit to Celsius is:\n\n    C = (F - 32) * (5 / 9)\n\nwhere F is the temperature in Fahrenheit.\n\n_Note: Fahrenheit can take any value but Celsius can never be less than -273.15 which is equal to Absolute Zero in Celsius or Kelvin._\n\nThis is with a recursive condition checker article"
+  },
+  {
+    "Prompt": "Come up with a name for this new product.",
+    "Completion": "Come up with a name for this new product.\n\nA product that will allow consumers to cook, serve, and clean up while instantaneously creating a mess-free kitchen atmosphere, especially beneficial for last-minute dinner guests or unexpected dining experiences.\n\n- Submissions will be accepted through July 15th, 2018\n- The winner will be announced on or about July 31st, 2018\n- One winner will receive a cash prize of $500 (USD"
+  },
+  {
+    "Prompt": "List the most recent five books that Mark Twain wrote.",
+    "Completion": "List the most recent five books that Mark Twain wrote. Most recent written are listed first. The books are:\n\n1. Letters to His Publishers 1867-1894\n2. The Mysterious Stranger\n3. Autobiography of Mark Twain, Volume 1\n4. Captain Stormfield\u2019s Visit to Heaven\n5. Extracts from Adam\u2019s Diary\n\nSome additional detail:\n\nLetters to His Publishers 1867-189"
+  },
+  {
+    "Prompt": "Write an algorithm to find the minimum element in an array.",
+    "Completion": "Write an algorithm to find the minimum element in an array.\n\nHint:\n\nFor an array of n items, the time complexity of your algorithm should be O(n).\n\nTo get you started, here's a skeleton algorithm:\n\nMinimumElement(arr):\n  min = arr[0]\n  for i = 1 to arr.length-1:\n    see if arr[i] < min\n    if yes:\n      min = arr[i]\n\n  return min\n\n"
+  },
+  {
+    "Prompt": "Identify the taxonomic classification for humans.",
+    "Completion": "Identify the taxonomic classification for humans.\n\nDomain: Eukarya\nKingdom: Animalia\nPhylum: Chordata\nClass: Mammalia\nOrder: Primates\nFamily: Hominidae\nGenus: Homo\nSpecies: H. sapiens\n\nWhat is the most important factor influencing how oxygen is transferred from the atmosphere to the cells?\n\nThe most important factor is the difference in partial pressures of inhaled air in the alveoli and in"
+  },
+  {
+    "Prompt": "Translate the phrase \"I love you\" into Spanish.",
+    "Completion": "Translate the phrase \"I love you\" into Spanish. Te quiero.\nThe Normans invaded England in the year 1066, and brought with them some French influences that can be seen in the English language to this day. One thing you learn in any language class, or when you take up learning a new dialect, is that language is more than just a collection of sounds or symbols. Even if you focus on proper grammar and vocabulary, language also holds a bit of cultural value. What we often call words are actually"
+  },
+  {
+    "Prompt": "Write a summary of the book \"The Catcher in the Rye\".",
+    "Completion": "Write a summary of the book \"The Catcher in the Rye\".\n\n\"The Catcher in the Rye\" is a novel written by J.D. Salinger. The story is narrated by a teenager named Holden Caulfield who has been kicked out of his prep school, Pencey Prep, for poor academic performance. The novel is set in the 1950s and follows Holden's experiences over a few days as he wanders around New York City, grappling with his own feelings of alienation"
+  },
+  {
+    "Prompt": "Create a 5-item shopping list for a healthy breakfast.",
+    "Completion": "Create a 5-item shopping list for a healthy breakfast.\n\n1. Whole grain toast or English muffin\n2. Scrambled eggs or egg whites\n3. Avocado or almond butter\n4. Fresh fruit (berries, banana, apple)\n5. Low-fat or non-dairy milk (almond, soy, oat)\n\nWhy is breakfast considered an important meal?\n\nBreakfast is considered an important meal because it breaks the overnight fast and replenishes gl"
+  },
+  {
+    "Prompt": "What is the formula for calculating the area of a triangle?",
+    "Completion": "What is the formula for calculating the area of a triangle? The formula is $A=\\frac{.5bh}{2}$"
+  },
+  {
+    "Prompt": "Suggest 4 entertaining activities one can do with friends on a weekend.",
+    "Completion": "Suggest 4 entertaining activities one can do with friends on a weekend.\n\n1. Outdoor Movie Night: Gather your friends and set up an outdoor movie night in your backyard or a nearby park. Bring comfortable seating, snacks, and a projector to watch your favorite films under the stars.\n\n2. Game Night: Organize a game night with your friends and play board games, card games, or video games. You can make it more competitive by dividing into teams or having individual competitions.\n\n3. Scav"
+  },
+  {
+    "Prompt": "Construct a sentence using the present tense of the verb \"eat\".",
+    "Completion": "Construct a sentence using the present tense of the verb \"eat\".\n\nI love it when you eat my banana bread.\n\nIn one sentence, describe what an adjective is.\n\nAn adjective is a word that modifies a noun or pronoun in a sentence.\n\nConstruct a sentence using a contraction.\n\nJoe and I are going to the store.\n\nIn one sentence, describe what the present perfect tense is.\n\nThe present perfect tense is used to indicate an action that began in"
+  },
+  {
+    "Prompt": "Generate a list of 10 adjectives that describe the color blue.",
+    "Completion": "Generate a list of 10 adjectives that describe the color blue.\n\n1. Azure: A bright shade of blue, often associated with clear skies.\n2. Navy: A dark, rich blue, commonly used in uniforms.\n3. Sapphire: A vibrant, deep blue, similar to the color of a precious gemstone.\n4. Baby Blue: A light, pastel shade of blue, often associated with babies and tranquility.\n5. Powder Blue: A soft, muted blue, re"
+  },
+  {
+    "Prompt": "Explain the significance of the Battle of Gettysburg.",
+    "Completion": "Explain the significance of the Battle of Gettysburg.\nThe Battle of Gettysburg is believed to be the turning point of the Civil War, when military tides began to turn toward northern victory. Although it was a costly battle, it proved to be a watershed moment when Union and Confederacy forces at three thousand the battle. In terms of strength, the numbers overwhelmed the Confederacy with as many as eighty-five thousand Union soldiers.\nThe battle was key to Restoring Union ideals of law, order and the economy"
+  },
+  {
+    "Prompt": "Delete the 2nd, 4th, and 5th element of the following array: [1, 2, 3, 4, 5, 6, 7].",
+    "Completion": "Delete the 2nd, 4th, and 5th element of the following array: [1, 2, 3, 4, 5, 6, 7].\n\n# My answer\narray = [1, 2, 3, 4, 5, 6, 7]\narray.delete_at(1)\narray.delete_at(3)\narray.delete_at(4)\nprint array # => [1, 3, 5, 6, 7]\n\n# Other answers\narr = [1, 2, 3, 4, 5, "
+  },
+  {
+    "Prompt": "Name two advantages of using a distributed database.",
+    "Completion": "Name two advantages of using a distributed database.\n\n1. In a distributed database, data is stored on multiple servers in different locations instead of a single central server. This allows for the database to handle large amounts of data efficiently. The system will run faster because the data can be divided between multiple servers to decrease the load on any one server. Also, because the data and the workload is shared among several servers, performance can be increased.\n\n2. Furthermore, a distributed database improves data availability and ensures data protection. If"
+  },
+  {
+    "Prompt": "Describe a situation where a chatbot would be more useful than a human assistant.",
+    "Completion": "Describe a situation where a chatbot would be more useful than a human assistant.\n\nWell, I think chatbots can be incredibly useful in customer service situations, particularly when dealing with high volumes of repetitive queries. For instance, if you have a website that receives a lot of traffic and customers often have similar questions about your products or services, a chatbot can be programmed to provide instant answers to these queries, freeing up your human customer service team to handle more complex issues.\n\nMoreover, chatbots can operate 24/7,"
+  },
+  {
+    "Prompt": "Create a dialogue between two colleagues discussing a project they are working on.",
+    "Completion": "Create a dialogue between two colleagues discussing a project they are working on. The project is a movie about a comedian from New York who has moved to Los Angeles for a number of reasons, and is having a hard time adapting to the new lifestyle but who also is becoming well-known. They need to decide what the comedian\u2019s main conflict will be for the plot, and how they will address some of the issues and themes that the move to Los Angeles can bring up for a New Yorker.\n\nColleague 1: Hey,"
+  },
+  {
+    "Prompt": "Name five countries with the most number of UNESCO World Heritage sites.",
+    "Completion": "Name five countries with the most number of UNESCO World Heritage sites.\n\nItaly (53)\n\nChina (52)\n\nSpain (46)\n\nFrance (44)\n\nGermany (41)\n\nWhat do you know about the site with the highest number of UNESCO World Heritage sites which is also the last city to be added to the UNESCO list in 2018 is a city-state that speaks Italian located in southeast Europe?\n\nThe name"
+  },
+  {
+    "Prompt": "Create a recipe for a Creamy Tomato Soup.",
+    "Completion": "Create a recipe for a Creamy Tomato Soup.\n\nRecipe for Creamy Tomato Soup (Serves 4-6 people)\n\nIngredients\n\n* 1 tablespoon olive oil\n* 1 yellow onion, chopped\n* 1 red bell pepper, chopped\n* 2 cloves garlic, minced\n* 1 can (14.5 ounces) diced tomatoes\n* 2 tablespoons tomato paste\n* 1 quart vegetable bro"
+  },
+  {
+    "Prompt": "Describe the economic system of the United States.",
+    "Completion": "Describe the economic system of the United States.\n\nThe economic system of the United States is a mixed economy, meaning that there are aspects of both capitalism and socialism present in the system. The economy is largely privately owned and operated, with businesses competing against each other in the market, which is a characteristic of capitalism. However, the government also plays a significant role in the economy through regulation, taxation, and the provision of certain public goods and services, which are features of socialism. In general, the United States has a"
+  },
+  {
+    "Prompt": "Build a bridge between two islands.",
+    "Completion": "Build a bridge between two islands. You've got a number of construction materials to use to get that pedestrians from one island to the other. Beware, the ocean around the islands is murky and nasty. Sometimes a piece falls out and your bridge sinks a little to the bottom. Will it be enough for the pedestrians? All in all, bridges building game is fun, essential for our brain and the reason they invented engineering.\n\nYou are an architect in the outrageous construction simulation game in"
+  },
+  {
+    "Prompt": "Create a table of ten of the world's wealthiest people.",
+    "Completion": "Create a table of ten of the world's wealthiest people. Define them by name, country of origin, and their estimated net worth. Indicate how they earned their wealth by listing their businesses or industries.\n\n1. Jeff Bezos\n   - Country: United States\n   - Net Worth: $191.9 billion\n   - Industry: E-commerce (Amazon)\n\n2. Elon Musk\n   - Country: United States\n   - Net Worth: $174.7 billion\n  "
+  },
+  {
+    "Prompt": "Tell me about the seasons in the temperate forest biome.",
+    "Completion": "Tell me about the seasons in the temperate forest biome. How does temperature and precipitation change from season to season?\n\nIn the temperate forest biome, there are four distinct seasons: spring, summer, autumn (or fall), and winter.\n\n* Spring: This season typically lasts from March to May in the Northern Hemisphere and from September to November in the Southern Hemisphere. During this time, the temperature begins to warm up, and the forest begins to wake up from its winter dormancy. The trees begin to"
+  },
+  {
+    "Prompt": "Convert 28 cm to inches.",
+    "Completion": "Convert 28 cm to inches.\n\nHere's how:\n1 cm is equal to approximately 0.3937 inches.\nTo convert 28 centimeters to inches, multiply 28 by the conversion factor 0.3937.\n\n28 cm \u00d7 0.3937 = 10.9448 inches\n\nAnswer: 28 cm is equal to 10.9448 inches."
+  },
+  {
+    "Prompt": "Predict the weather in Los Angeles tomorrow.",
+    "Completion": "Predict the weather in Los Angeles tomorrow.\nTomorrow the weather in Los Angeles is expected to be sunny with a high temperature of 75\u00b0F (24\u00b0C) and a low temperature of 55\u00b0F (13\u00b0C). There is no chance of precipitation."
+  },
+  {
+    "Prompt": "Create a plan for a budget-friendly Thanksgiving meal.",
+    "Completion": "Create a plan for a budget-friendly Thanksgiving meal. It is possible to save big on your Thanksgiving meal without cutting corners on quality or taste. The key to a money-saving Thanksgiving is keeping things simple, focusing on delicious and easy-to-make dishes, and being mindful of at-home tips and tricks.\n\nWith careful planning, it is possible to serve a fantastic Thanksgiving meal for less than $50 without sacrificing flavor or tradition. Keep reading to learn how to create a tasty and"
+  },
+  {
+    "Prompt": "Spell the word \"xylophone\".",
+    "Completion": "Spell the word \"xylophone\".\n\nEagle-eyed and eagle-eared readers will be quick to point out that is a \"ph\" not an \"f\" or a \"phth\" as it appears to be here.\n\nIt is a rule that needs to be on the tip of the tongue of anyone writing about words with roots in Greek, including publishers and editors, because, while xylophones aren't heard in Ancient Greek texts, its very name leads to numerous cases"
+  },
+  {
+    "Prompt": "Generate a pseudocode for sorting an array.",
+    "Completion": "Generate a pseudocode for sorting an array.\n```\n1. Declare n as the length of the array\n2. Set the first index as the minIndex and value as the minValue (best value to be at current position)\n3. FOR i in 1 to n-1 DO\n3a. Consider the ith element of the array\n3b. IF the ith element is smaller than the minValue THEN\n3b(i). Set the minIndex as i and the minValue as"
+  },
+  {
+    "Prompt": "Ask the assistant to book a flight from Boston to Miami for June 9th.",
+    "Completion": "Ask the assistant to book a flight from Boston to Miami for June 9th.\n\n Sure, I can help you with that! Here's a flight option from Boston (BOS) to Miami (MIA) on June 9th:\n\nDepart: Boston Logan International Airport (BOS) - 8:00 AM\nArrive: Miami International Airport (MIA) - 11:38 AM\nAirline: American Airlines\nFlight number: 2634\nAircraft: Airbus A320"
+  },
+  {
+    "Prompt": "Give me a synonym for the word 'love'.",
+    "Completion": "Give me a synonym for the word 'love'. There will be countless names. 'Affection', 'tenderness', 'endearment' and so on. Creativity is unbounded to express this single term. But there has always been a tussle to find the one synonym for this very word. The productivity of a woman, unlike that of a man, has been considered as to the one and only synonym of love and care.\n\nThe picture above depicts the scenario in Western countries, but the story"
+  },
+  {
+    "Prompt": "Name two characters in the novel Moby Dick.",
+    "Completion": "Name two characters in the novel Moby Dick.\nCaptain Ahab\nIshmael\nName three of the themes of the novel.\nfate, man and nature, good vs. evil\nName a 20th-century novel that has been led to controversial discussion because of its treatment of sexuality.\nLolita, by Vladimir Nabokov\nDid the Soviets censor the book Animal Farm due to its political views?\nYes\nWhat is not an effect that prompted President Kennedy to"
+  },
+  {
+    "Prompt": "Give me a CSS code to make the font size 20px.",
+    "Completion": "Give me a CSS code to make the font size 20px. Here are two examples of such a line of CSS:\n\n1. `font-size: 20px;`\n2. `font: 20px/20px sans-serif;`\n\nThe last example also contains the line spacing, which is also 20px. You can actually make the line-spacing bigger or smaller than the font-size if you wish \u2013 it's entirely up to you.\n\nIn general you"
+  },
+  {
+    "Prompt": "Define what a neural network is.",
+    "Completion": "Define what a neural network is.\n\nA neural network is a sequence of matrix operations that map inputs to outputs, constrained only by the activations of each node (cell).  These activations ensure that the output of a node is a nonlinear function of its inputs. Each node will output some scalar value y that is often computed according to y = sigmoid(W^T a + b) which is a vector dot product between a row of weight and the incoming activation a, in addition to shifting along a"
+  },
+  {
+    "Prompt": "Create a grammar for the phrase \"a milkshake\".",
+    "Completion": "Create a grammar for the phrase \"a milkshake\". Note that \"a\" is an article (a determiner) and \"milkshake\" is a noun. Say that this particular noun is in the singular infinitive form. Don't say that \"a\" is an adjective or that \"milkshake\" is a verb because this would generate incorrect rules.\n\nHello, I have the same question. I cannot get past the fact that answering \"a\" being an article (determiner) and \""
+  },
+  {
+    "Prompt": "Generate a short story about a scientist in a lab.",
+    "Completion": "Generate a short story about a scientist in a lab. Meet Alex Witten- the scientist- who works in his research lab and tries to invent a brand new serum to fight a rare form of blindness. He is a brilliant scientist, far beyond his time.\n\nIntroduce other characters: Meet Witten\u2019s rival-Dr. Larkin, and the research lab\u2019s head- Dr. Fields.\n\nAlex Witten sat quietly, his brilliant mind far beyond his time. He had spent the better part of"
+  },
+  {
+    "Prompt": "Rewrite the following sentence in a more formal way:\n\n\"I want to learn about this new app.\"",
+    "Completion": "Rewrite the following sentence in a more formal way:\n\n\"I want to learn about this new app.\"\n\nPossible formal rewrite:\n\nI am eager to gain knowledge about this novel application."
+  },
+  {
+    "Prompt": "Generate a funny joke.",
+    "Completion": "Generate a funny joke.\n\nWhy did the tomato turn red?\n\nBecause it saw the salad dressing! Humor is a wonderful way to connect with people and bring joy into their lives. This simple joke is a great way to lighten the mood and put a smile on someone's face. Whether you're sharing it with friends, family, or just practicing your joke-telling skills, this joke is sure to be a hit. So why did the tomato turn red? Because it saw"
+  },
+  {
+    "Prompt": "Provide 3 potential solutions to reduce the amount of plastic waste.",
+    "Completion": "Provide 3 potential solutions to reduce the amount of plastic waste.\n\n1. Implementing a nationwide bottle deposit program: A nationwide bottle deposit program could incentivize individuals to recycle their plastic bottles by offering a small monetary reward for each bottle returned. This program has been successful in other countries, such as Germany, where the recycling rate for plastic bottles is over 90%.\n\n2. Encouraging the use of reusable bags and containers: By promoting the use of reusable bags and containers, we can"
+  },
+  {
+    "Prompt": "Suggest a snack that you can make in under 5 minutes.",
+    "Completion": "Suggest a snack that you can make in under 5 minutes. No fancy kitchen appliances, no blenders, no chopping; just snacking, baby.\n\nCinnamon Toast\n\nToast two slices of bread. Spread butter on the toast. Sprinkle cinnamon (preferably the cinnamon sugar combo) over buttered toast. Enjoy!\n\nI am also a fan of banana tacos, which I learned from my dear friend, Tia, at a very young age. My"
+  },
+  {
+    "Prompt": "Create a mnemonic to remember the eight planets of our solar system.",
+    "Completion": "Create a mnemonic to remember the eight planets of our solar system. A mnemonic is a device that helps you remember the order of things.\n\nExample of a mnemonic that is not related to the solar system:\n\n1. E My Dad Sad Face\n\nRemember the order of sharps in a music key signature: E - F# - G# - A# - B - C# - D#\n\nExample of a mnemonic for solar system planets:\n\nMy Very Energetic Mother"
+  },
+  {
+    "Prompt": "Write an algorithm to calculate the perimeter of a rectangle.",
+    "Completion": "Write an algorithm to calculate the perimeter of a rectangle. Given the length and the width, calculate the perimeter of the rectangle and print the result to the console.\n\nlength = 5\nwidth = 10\nperimeter = (length + width) * 2\nprint(\"perimeter is\", perimeter)\n\nAs an additional challenge: Write the algorithm inside a function and accept the length and width as function parameters.\n\ndef perimeterCalculator(length, width):\n    perimeter = (length +"
+  },
+  {
+    "Prompt": "Design an app interface for a book recommendation system.",
+    "Completion": "Design an app interface for a book recommendation system. When users search the system, display recommended titles based on keywords, genres, and other filters.\n\nHere's a possible design for the book recommendation system app interface:\n\n1. **Home Screen**: The home screen displays a search bar at the top for users to enter their keywords or genres. Below the search bar, there can be a carousel of recommended books based on popular titles or trending genres.\n2. **Search Results**: When users enter their search"
+  },
+  {
+    "Prompt": "Compose a tagline for a mobile game about cooking.",
+    "Completion": "Compose a tagline for a mobile game about cooking.\n\nFlavorville: Chef Supreme\n\nRise to the pinnacle of culinary excellence in a delectable, fast-paced swiping game! Satiate your appetite for challenge as you chop, mix, bake, grill, and decorate your tantalizing dishes to attract discerning customers from all corners of the world. Explore diverse international cuisines, upgrade your skills, and impress visiting master chefs to become the ultimate"
+  },
+  {
+    "Prompt": "Create a question about the consequences of global warming.",
+    "Completion": "Create a question about the consequences of global warming.\n\nHow will global warming impact coastal communities and their infrastructure?\n\nGlobal warming is causing sea levels to rise, which will have significant consequences for coastal communities and their infrastructure. As the oceans warm, they expand, taking up more space and causing sea levels to rise. Additionally, melting glaciers and ice sheets are also contributing to rising sea levels.\n\nCoastal communities are particularly vulnerable to the impacts of sea level rise. As sea levels rise, coastal"
+  },
+  {
+    "Prompt": "State a mathematical equation that describes the relationship between two variables.",
+    "Completion": "State a mathematical equation that describes the relationship between two variables.\n\nLet's take the example of the area of a rectangle. The area (A) of a rectangle can be described as the product of its length (L) and its width (W). We can express this relationship mathematically as:\n\nA = L \u00d7 W\n\nIn this equation, A represents the area, L represents the length, and W represents the width. The multiplication sign (\u00d7) denotes that the area is equal to the product of the length and"
+  },
+  {
+    "Prompt": "Describe a process of cleaning silverware.",
+    "Completion": "Describe a process of cleaning silverware.\n\nYou should say:\n\n- what you are using for cleaning silverware\n- what steps you would take in cleaning silverware\n- how often you would clean silverware\n\nand explain how it works or what benefits it has.\n\n[You will have to talk about the topic for one to two minutes. You have one minute to think about what you are going to say. You can make some notes to help you if you wish.]\n\nModel Answer:\n\n"
+  },
+  {
+    "Prompt": "Give a possible explanation for recent declines in pollinator populations.",
+    "Completion": "Give a possible explanation for recent declines in pollinator populations.\nPollinator populations have recently seen declines due to a combination of factors. Habitat destruction from agriculture and urbanization, as well as an increase in pesticide use, can alter native ecosystems and food resources, putting pollinators at risk. This is especially problematic as native vegetation often relies on specific pollinators for reproduction and pesticides can directly kill pollinators - particularly non-target species.\nPollinators are also very susceptible"
+  },
+  {
+    "Prompt": "Create a rule for proper hand-washing technique.",
+    "Completion": "Create a rule for proper hand-washing technique. Example:Step 1: Wet your hands with clean, running water (warm or cold), turn off the tap, and apply soap.Step 2: Lather your hands by rubbing them together with the soap. Be sure to lather the backs of your hands, between your fingers, and under your nails.Step 3: Scrub your hands for at least 20 seconds. Need a timer? Hum the \"Happy Birthday\" song from beginning to end"
+  },
+  {
+    "Prompt": "Identify and define the parts of a cell.",
+    "Completion": "Identify and define the parts of a cell.\n\nWhen you think of cells, you probably think of tiny organisms swimming around in a drop of pond water. While these are indeed cells, cells are so much more. For instance, the text you are reading from right now was created from cells. Specifically, cells within certain parts of your body produced proteins that formed the ink on the page. Your body is a mass of cells working together to maintain life.\n\nIn fact, cells are the basic building blocks of all"
+  },
+  {
+    "Prompt": "Generate a list of five positive attitudes.",
+    "Completion": "Generate a list of five positive attitudes. After you\u2019ve created your list, do something that assures that these five positive attitudes stay with you throughout your life.\nA list of five positive attitudes that I would like to stay with me throughout my life include:\n1) Optimism \u2013 I would like to look on the bright side and not the bad side of things, believing that good things will always happen\n2) Enthusiasm \u2013 Always have the interest in wanting to learn and engage in something new and exciting\n3"
+  },
+  {
+    "Prompt": "Identify what type of sentence this is: My dog is cuddly and cute.",
+    "Completion": "Identify what type of sentence this is: My dog is cuddly and cute. Declarative statement.\n## CORRECT\n\nDeclarative sentences make a statement or express an opinion. They are the most common type of sentence in English. This sentence is a declarative sentence because it makes a statement about the dog's cuddliness and cuteness."
+  },
+  {
+    "Prompt": "Rewrite the following sentence using a synonym for the word \"impact\": The impact of the pandemic has been devastating.",
+    "Completion": "Rewrite the following sentence using a synonym for the word \"impact\": The impact of the pandemic has been devastating.\nAnswer: The consequence of the pandemic has been devastating."
+  },
+  {
+    "Prompt": "Describe the process of thawing frozen food.",
+    "Completion": "Describe the process of thawing frozen food. Should the microwave ever be used for this?\n\nThawing frozen food is an important step in preparing it for cooking. The United States Department of Agriculture (USDA) provides guidelines for safely thawing food.\n\nThere are three safe methods for thawing frozen food: in the refrigerator, in cold water, and in the microwave.\n\n1. In the refrigerator: This is the safest and most recommended method for thawing"
+  },
+  {
+    "Prompt": "Name three famous figures who were contemporaries of Galileo Galilei.",
+    "Completion": "Name three famous figures who were contemporaries of Galileo Galilei. Include their areas of expertise and a unique contribution (or possible unique contribution) to science.\n\nRen\u00e9 Descartes (1596\u20131650) was a French mathematician, philosopher, and scientist. He is considered the father of modern philosophy and made substantial progress in mathematics, particularly in analytic geometry. He is famously known for his influential philosophical statement, \u201cCogito, ergo sum\u201d or \u201cI think,"
+  },
+  {
+    "Prompt": "What grade did you get in your English class?",
+    "Completion": "What grade did you get in your English class? Well, your child came home with a 90 \u2014 and that\u2019s the way we\u2019re going to grade now because the Douglas County School District has more transparency for students with its new grading scale: 90-100 is an A, 80-89 is a B, 70-79 is a C, 60-69 is a D, and 59 and below is an F.\n\nAubey"
+  },
+  {
+    "Prompt": "Name two component of a computer system.",
+    "Completion": "Name two component of a computer system.\n\nA computer system essential two components: hardware and software. Hardware refers to all the physical parts of a computer, including the central processing unit (CPU), memory, and input/output (I/O) devices. Software, on the other hand, refers to the programs and instructions that run on a computer. This includes operating systems, applications, and other utilities.\n\nHardware and software components work together to allow a computer to function. The hardware provides the essential physical components"
+  },
+  {
+    "Prompt": "Explain how to achieve the American dream in one sentence.",
+    "Completion": "Explain how to achieve the American dream in one sentence.\nBy pleasing the right people, working hard enough and pursuing your own unique interests and goals, you will achieve, if not define, your own personal American dream.\n\nHello there!\n\nAs you may have been able to tell from the title, this blog is all about how to achieve the American dream in one sentence! Basically, this entire next section will be dedicated to explaining this statement, so I hope you enjoy it!\n\n\"By pleasing the right people"
+  },
+  {
+    "Prompt": "Generate an algorithm for a sorting machine.",
+    "Completion": "Generate an algorithm for a sorting machine.\n\nHere are the rules:\n1. It can only use three instructions - TAKE, DROP, and SORT.\n2. It can only operate on a one-dimensional array of items, where each item has some well-defined order (i.e. there is some inherent ordering to the items).\n\nNote: This is a thought problem and not a real programming problem that can be solved in a practical way, since there is no standard interpretation for the T"
+  },
+  {
+    "Prompt": "Develop a pitch for a new technology product that can measure access to healthcare.",
+    "Completion": "Develop a pitch for a new technology product that can measure access to healthcare.\n\nNewHealthPro is a revolutionary technology product that aims to measure access to healthcare. Our product is a comprehensive, user-friendly platform that utilizes cutting-edge artificial intelligence and machine learning algorithms to analyze vast amounts of data from various sources, including electronic health records, insurance claims, and government databases.\n\nNewHealthPro's primary goal is to identify and quantify disparities in healthcare access, particularly in underserved communities, and provide actionable insights to healthcare providers, polic"
+  },
+  {
+    "Prompt": "Create a list of tips to help someone who is new to blogging.",
+    "Completion": "Create a list of tips to help someone who is new to blogging.\n\n1. Define your niche and target audience: Before you start writing, think about what you are passionate about and what you want to write about. This will help you attract a specific group of readers and make it easier for you to come up with content ideas.\n2. Choose a blogging platform: There are many different blogging platforms to choose from, such as WordPress, Blogger, and Medium. Do some research and choose the one that best fits your needs and skill"
+  },
+  {
+    "Prompt": "Generate a recipe for a healthy breakfast.",
+    "Completion": "Generate a recipe for a healthy breakfast. Please keep in mind that healthy food alone does not guarantee good health or loss of weight as lifestyle (too much(processed)food, no exercise, drinking too much alco) or predisposition as well (too much(processed)food, no exercise, drinking too much alco) well or predisposition as well (too much(processed)food, no exercise, drinking too much alco) by factors like genetics, too. The recipe recipe should cater to"
+  },
+  {
+    "Prompt": "Explain the effect that virtual learning has on student performance.",
+    "Completion": "Explain the effect that virtual learning has on student performance. Virtual learning can have various effects on student performance depending on the student\u2019s learning style, motivation, and access to resources. Here are some possible effects of virtual learning on student performance:\n\n1. Flexibility: Virtual learning provides students with flexibility in terms of when and where they can learn. This can be beneficial for students who have other commitments, such as work or family obligations, as they can complete their coursework at their own pace.\n2. Personalized Learning: Virtual"
+  },
+  {
+    "Prompt": "Generate a random password of length 10",
+    "Completion": "Generate a random password of length 10. Default characters are [a-zA-Z0-9!@#$%]. You can pass an optional argument in the form of a list of characters to use instead.\n\nExample\n----------\nWithout argument:\n```lua\n> print(strongpass.create())\nx6w@YDZ7bS\n```\n\nWith argument:\n```lua\n> print(strongpass.create{\"A\", \"B\", \"1\","
+  },
+  {
+    "Prompt": "Explain the concept of information retrieval.",
+    "Completion": "Explain the concept of information retrieval. \n\nInformation retrieval (IR) is the process of locating and accessing relevant information in response to a user query or request. It involves the use of computer algorithms and techniques to search through large collections of data, such as documents, images, videos, and other digital resources, and identify those that are most relevant to the user's needs.\n\nIR systems typically use a combination of indexing, ranking, and query processing techniques to retrieve and present relevant information to the user"
+  },
+  {
+    "Prompt": "Describe the concept of natural language processing.",
+    "Completion": "Describe the concept of natural language processing.\n\nNatural language processing, or NLP, is a branch of artificial intelligence that focuses on the interaction between computing systems and natural languages such as English. NLP can be thought of as the process of 'teaching' a software system to recognize and extract meaning from human language, whether that language is spoken or written.\n\nThe ultimate goal of NLP is improving communications between computers and humans. Some of the major problems that NLP must still solve include:\n\n- True"
+  },
+  {
+    "Prompt": "List the names of four social media platforms.",
+    "Completion": "List the names of four social media platforms. \n\n1. Instagram\n2. TikTok\n3. Snapchat\n4. Twitter\n\nFrom your personal experience, briefly describe the primary focus and user demographic of each of the four platforms you named.\n\n1. Instagram: Instagram is a visual-centric platform that allows users to share photos and videos. Its main focus is on providing a space for users to express their creativity, share their experiences, and connect with others. The user demographic is quite"
+  },
+  {
+    "Prompt": "Create a timeline of the key events surrounding the 2004 Indian Ocean earthquake and tsunami.",
+    "Completion": "Create a timeline of the key events surrounding the 2004 Indian Ocean earthquake and tsunami. March 2004 - Scientists and forecasters suggest that risk of a tsunami in the Indian... more\n\nThe 2004 Indian Ocean earthquake was an undersea megathrust earthquake that occurred at 00:58:53 UTC on Sunday, 26 December 2004, with an epicentre off the west coast of northern Sumatra, Indonesia. The quake itself is known by the scientific community as the"
+  },
+  {
+    "Prompt": "How do you create a pivot table in Excel?",
+    "Completion": "How do you create a pivot table in Excel? The controls in a pivot table only work if you, well, select the pivot controls. If you make changes only to the raw, underlying data on the worksheet, you controls may not work, or only partially work, because you haven\u2019t adjusted the pivot table settings.\n\nFollow the steps below to better understand how to create a pivot table in Excel (after first watching the video tutorial).\n\n## How to Create a Pivot Table in Excel*"
+  },
+  {
+    "Prompt": "Identify the time complexity of the Insertion Sort algorithm.",
+    "Completion": "Identify the time complexity of the Insertion Sort algorithm.\n\nThe time complexity of the Insertion Sort algorithm is O(n^2) in the worst and average case scenarios, where n is the number of items being sorted. The best case scenario for Insertion Sort is O(n) when the input data is already sorted. This is because the sorted portion of the list can increase by at least one element with every pass, thus the number of iterations required to sort the entire list decreases as the list becomes more sorted. Overall,"
+  },
+  {
+    "Prompt": "Name five sites located in the Ancient Near East.",
+    "Completion": "Name five sites located in the Ancient Near East.\n\nFirst, there is \u00c7atal H\u00f6y\u00fck located in modern-day Turkey. Second, is Ur located in modern-day Iraq and the home city to the ancient patriarch Abraham. Third, is ancient Athens Aristotle\u2019s one-time home in the northern part of Greece. Fourth, is Jericho located in modern-day Israel and made famous by Joshua\u2019s battle in the Book of Joshua. Finally, is ancient Alexandria founded by Alexander the Great"
+  },
+  {
+    "Prompt": "Synthesize an argument in support of renewable energy sources.",
+    "Completion": "Synthesize an argument in support of renewable energy sources.\n\nIntroduction:\n\nRenewable energy sources, such as solar, wind, hydro, and geothermal power, are becoming increasingly important as the global community seeks to reduce carbon emissions and move towards a more sustainable energy future. Although there are some challenges associated with renewable energy, the benefits of transitioning to these sources far outweigh the drawbacks. In this argument, I will discuss several reasons why renewable energy sources should be prioritized over non-renew"
+  },
+  {
+    "Prompt": "Develop an algorithm to sort the following numbers: 5, 3, 9, 1.",
+    "Completion": "Develop an algorithm to sort the following numbers: 5, 3, 9, 1.\n\nLet us try the bubble sort algorithm on it.\n\nBubble sort, also known as exchange sort, is an elementary sorting algorithm that repeatedly steps through the list of items to be sorted, comparing each pair of adjacent items and swapping them if they are in the wrong order. The pass through the list is repeated until no more swaps are needed, indicating that the list is sorted.\n\n1. Compare first and second number i.e. 5 and "
+  },
+  {
+    "Prompt": "Describe why you would like to work for this company.",
+    "Completion": "Describe why you would like to work for this company.\n\nI would like to work for Ludlow's Soft Serve because I feel that their values align with my own. I am passionate about providing incredible food and customer service to every single customer. I understand that each person that comes to Ludlow's Soft Serve is important, and that they deserve to leave with a positive experience.\n\nI also appreciate the company culture and work environment that Ludlow's Soft Serve provides. Your core values of Commitment, Creativity"
+  },
+  {
+    "Prompt": "Find a dinosaur species in the Jurassic Period with a name starting with a \"T\".",
+    "Completion": "Find a dinosaur species in the Jurassic Period with a name starting with a \"T\".\n\n- Taopodon (a mammal, but listed in the Jurassic)\n- Taquarana (a mammal, but listed in the Jurassic)\n- Tendaguria (a sauropod)\n- Telmatosaurus\n- Teratophoneus\n- Teudopodina (a mammal, but listed in the Jurassic)\n- Theiophytalia (a herbivorous dinos"
+  },
+  {
+    "Prompt": "Create a non-literal analogy for the process of creating a business.",
+    "Completion": "Create a non-literal analogy for the process of creating a business.\nDeveloping a business is like nurturing a blooming garden. You first need to loosen the soil and plant the seeds, which are your ideas and strategic plans. Then you must give it consistent attention, watering and weeding-out distractions. As time goes on, you'll see sprouts of progress, but it's important to remain patient, as flowers don't bloom overnight. Eventually, with proper care and diligence, your garden"
+  },
+  {
+    "Prompt": "Give a creative title for an article about the use of AI in travel.",
+    "Completion": "Give a creative title for an article about the use of AI in travel.\n\n\"The Future of Travel: How AI is Revolutionizing the Way We Explore the World\"\n\nWrite an opening paragraph for an article about the use of AI in travel.\n\nIn recent years, artificial intelligence has rapidly transformed various industries, from healthcare to finance, and now, it is making significant waves in the travel sector. As travelers increasingly seek personalized and seamless experiences, AI-powered solutions are paving the way for new and innovative approaches to travel booking,"
+  },
+  {
+    "Prompt": "Write a Haiku poem about a sunset.",
+    "Completion": "Write a Haiku poem about a sunset.\n\nOrange horizon glows,\nAs the sun melts beneath the trees.\nNight in colors shows."
+  },
+  {
+    "Prompt": "Write a customer review for a car wash service.",
+    "Completion": "Write a customer review for a car wash service.\n\nTitle: Sparkling Clean and Shiny New Look\n\nRating: \u2b50\u2b50\u2b50\u2b50\u2b50\n\nI recently took my car to this car wash service and I couldn't be happier with the results. From the moment I arrived, the staff were friendly and welcoming, making sure I felt comfortable and at ease.\n\nThe car wash itself was nothing short of amazing. My car was absolutely covered in dirt and grime, but after just a few minutes"
+  },
+  {
+    "Prompt": "Find the area of a square shape with side length 5 cm.",
+    "Completion": "Find the area of a square shape with side length 5 cm. Use both the perimeter formula and the area formula to determine the answer.\n\nFirst, use the formula for the perimeter of a square: Perimeter = 4 * side length\nPerimeter = 4 * 5 cm\nPerimeter = 20 cm\n\nHowever, the perimeter is not the same as the area. The formula for the area of a square is: Area = side length^2\nArea = (5 cm)^2\nArea = 2"
+  },
+  {
+    "Prompt": "Write a short story about a visit to a museum.",
+    "Completion": "Write a short story about a visit to a museum.\nWhen we went to the museum it looked a bit scary and old but when we got inside I saw many paintings by famous artists. A friendly guide showed us around the museum and told us about the history of the art. There were also a lot of sculptures made out of different materials. One sculpture looked a bit strange until the guide explained to us it was a representation of thousand-year-old girl from a legend called EGuLGuG. Her eyes really looked true to life"
+  },
+  {
+    "Prompt": "Describe the sound of a train passing by.",
+    "Completion": "Describe the sound of a train passing by.\n\nAs a train approaches, the sound gradually grows louder. It might start as a faint rumble, but soon you can hear the clicking of the tracks and the roaring of the engine. The noise is a powerful, relentless force, sometimes making the air around you tremble. A train is a living thing that breaths and growls as it moves.\n\nAs the train draws nearer, you feel the cadence of its movement. The noise increases steadily"
+  },
+  {
+    "Prompt": "Describe the taste of an apple.",
+    "Completion": "Describe the taste of an apple. Is that a simple task for you, dear reader? I suppose it is, though it may be difficult to accurately articulate and transfer the taste sensation from your mouth to my mind. This relationship (or lack thereof) between the qualities of an experience and the words we use to describe them, is at the heart of a recent article I came across in the Chronicle of Higher Education (thanks John!) called The Problem With How We Teach Critical Thinking\u2014 one might say"
+  },
+  {
+    "Prompt": "Explain how a relay works.",
+    "Completion": "Explain how a relay works.\nA relay is an electromechanical switch. When the electrical contacts of a relay open or close, the flow of an electrical power to an electric circuit is \u2026... more\n\nExplain the concept of firing research (ignition research)?\nThe concept of firing research is common in the automobile industry. firing research (ignition research) is the process of optimizing the ignition timin\u2026... more\n\nExplain the function of the automotive body electrical system.\n"
+  }
+]

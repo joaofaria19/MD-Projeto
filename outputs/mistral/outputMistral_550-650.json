@@ -1,0 +1,402 @@
+[
+  {
+    "Prompt": "Construct an argument supporting the implementation of green energy.",
+    "Completion": "Construct an argument supporting the implementation of green energy.  Use at least 4 different ethos, pathos, and/or logos appeals from your public arguments text.\n\nAmerica needs to change the way it powers our homes.  We can no longer ignore the sustainability of our environment for the same antiquated, dirty, expensive sources of energy on which we currently rely.  Renewable energy sources, known as green energy, offer several benefits over fossil fuels and should be carefully considered for American homes and business"
+  },
+  {
+    "Prompt": "Edit the following sentence to make it more concise: \"The cat was sitting on the fence and meowing loudly\".",
+    "Completion": "Edit the following sentence to make it more concise: \"The cat was sitting on the fence and meowing loudly\". The revised sentence: \"The cat meowed loudly from the fence\" or \"On the fence, the cat meowed loudly.\"\n\nHere are some suggested revisions for the original sentence:\n\n* \"The cat meowed loudly on the fence.\"\n* \"On the fence, the cat was meowing loudly.\"\n* \"The cat sat on the fence, meowing loudly.\"\n* \"The cat, perched on the fence, meowed loudly.\"\n*"
+  },
+  {
+    "Prompt": "Describe some of the benefits of a vegetarian diet.",
+    "Completion": "Describe some of the benefits of a vegetarian diet.\n\nA vegetarian diet is made up primarily of vegetables, grains, nuts, and fruits. This diet provides numerous health benefits and can even increase longevity. A vegetarian diet is naturally low in saturated fat, high in fiber, and often contains more vitamins and minerals than a diet that includes meat. Furthermore, a vegetarian diet reduces the chances of developing heart disease, stroke, cancer, and other diet-related diseases. Lowered rates of ob"
+  },
+  {
+    "Prompt": "Print all the prime numbers between 1 and 50.",
+    "Completion": "Print all the prime numbers between 1 and 50.\n\nVocabulary\n- for loop\n- if statement\n- range\n- prime\n\nStarter\nRun this example that prints all the numbers between 1 and 10.\n>>> for number in range(1, 10):\n\tprint(number)\n\nReflect\nWhat program did you run?\nWhat did that program do?\nHow did the program do this thing?\n\nTalk\nDiscuss: How could you change this program"
+  },
+  {
+    "Prompt": "Explain what is an algorithmic trading.",
+    "Completion": "Explain what is an algorithmic trading.\n\nAlgorithmic trading or algo-trading is basically the process of using computer programs to follow a defined set of instructions (an algorithm) for placing a trade. It requires a trading strategy and it is about coding your idea into a machine language and letting your computer run it. The computer program will calculate the factors you have defined in the algorithm (for example volume, price, timing\u2026) and it will execute your trade based on these calculations. Algo-trading can be used instead"
+  },
+  {
+    "Prompt": "Arrange the following words to make a meaningful sentence: selling do investors to advice trust.",
+    "Completion": "Arrange the following words to make a meaningful sentence: selling do investors to advice trust.\n\nTrust investors to advice selling.\n\nLet\u2019s explore the different combinations to see how we arrive at this sentence:\n\n1. Selling investors to advice trust.\n\u201cSelling investors\u201d doesn\u2019t make sense here. Also, \u201cto\u201d should not separate \u201cadvice\u201d and \u201ctrust.\u201d\n2. Investors selling to advice trust.\nAgain, \u201cselling\u201d doesn\u2019t fit well after \u201cinvestors.\u201d The correct order should"
+  },
+  {
+    "Prompt": "Split the following sentence into two declarative sentences: \"The food was delicious and the service was excellent\".",
+    "Completion": "Split the following sentence into two declarative sentences: \"The food was delicious and the service was excellent\".\n\nThe food was delicious. The service was excellent.\n\n\n\nsuch as, , , , , , , , , , , \n\n For example: \"Here, , , , ,  [you will find]  the best food in Mexico; don't miss the ,  [on]  Sundays).\" For this example, the completed expansion is: \"Here, you will find the best food in Mexico; don't miss the tacos on"
+  },
+  {
+    "Prompt": "Explain how neural networks can be used to predict stock prices.",
+    "Completion": "Explain how neural networks can be used to predict stock prices. Also discuss the limitations of using neural networks to predict stock prices.\n\nNeural networks can be used to predict stock prices by training them on historical stock price data. The neural network learns patterns and relationships in the data that can be used to make predictions about future stock prices.\n\nFirst, the historical stock price data is preprocessed and normalized. This step is important because neural networks are sensitive to the scale of the input data.\n\nNext, the neural network is trained on"
+  },
+  {
+    "Prompt": "Name the 6 most populous cities in China.",
+    "Completion": "Name the 6 most populous cities in China.\nShanghai\nBeijing\nChongqing\nTianjin\nGuangzhou\nShenzhen\n\nThe population of Shijiazhuang is 10 million, but includes how many ________ people?\npermanent\nIncludes permanent residents living in Shijiazhuang.\nSource: thebeijinger.com 12/14/2015\n\nThese are three ways the population in China"
+  },
+  {
+    "Prompt": "Compare and contrast the effects of individual and societal performance",
+    "Completion": "Compare and contrast the effects of individual and societal performance enhancement:\n\nIndividuals may aim to improve their performance for various reasons including increased productivity, less stress and better health. For example, a student might use a learning technique like the Pomodoro technique to help them focus and study more efficiently. Similarly, an athlete may use strength and conditioning exercises to reduce the risk of injury.\n\nOn the other hand, societal performance enhancement aims to improve the overall functioning of a society. This can include policies that encourage healthy behaviors,"
+  },
+  {
+    "Prompt": "What challenges will an AI system face while trying to play chess?",
+    "Completion": "What challenges will an AI system face while trying to play chess?\n\nAn AI system playing chess will face several challenges. First, the system must understand the rules of the game and be able to accurately model the current state of the board. This includes recognizing the pieces, understanding their movements, and accounting for any special rules such as castling or en passant.\n\nNext, the AI system must be able to evaluate the current state of the game and determine which moves are likely to be beneficial. This involves assessing the value of each piece"
+  },
+  {
+    "Prompt": "Generate two interesting facts about potatoes.",
+    "Completion": "Generate two interesting facts about potatoes.  Potatoes originated in South America, probably in Peru.  For at least 6,000 years people have been growing potatoes. Today potatoes are the world's fourth largest food crop in terms of weight, after rice, wheat and corn.  Potatoes are about 80 percent water and 20 percent solid matter. According to the USDA, a 5.3-ounce medium-size potato has just 110 calories, no fat,"
+  },
+  {
+    "Prompt": "Write a detailed introduction to the subject of machine learning.",
+    "Completion": "Write a detailed introduction to the subject of machine learning. Title the section\n\u201cAn Overview of Machine Learning.\u201d\n\nMachine learning is a subset of artificial intelligence that enables computer systems to automatically learn and improve from experience without being explicitly programmed. It focuses on the development of algorithms and statistical models that facilitate prediction, decision-making, and pattern recognition in complex and large-scale data sets.\n\nAt its core, machine learning is about extracting knowledge and insights from data. The discipline involves the application of various mathematical and computational techniques,"
+  },
+  {
+    "Prompt": "What is the main benefit of using a natural language processing (NLP) system?",
+    "Completion": "What is the main benefit of using a natural language processing (NLP) system?\n\nA. Consistent and accurate typographic error correction\nB. Transformation of data into insightful information\nC. Permission to collect and store user-profile data on secured servers\nD. Centralization of organizational data assets via big data systems\n\n## The main benefit of using a natural language processing (NLP) system is the transformation of data into insightful information.\n\nThis is the main benefit because NLP systems can analyze and interpret human languages, enabling them"
+  },
+  {
+    "Prompt": "How does unsupervised learning work?",
+    "Completion": "How does unsupervised learning work? This tutorial is the third in the series onunsupervised learning. Previously, we've talked about our tool of choice,unsupervised-inferece. That series of posts is great if you haven't been following along, otherwise, this post will take what we've learned and apply it to another dataset: the [MusicNet dataset](https://labrosa.ee.columbia.edu/projects/musicnet/)\n\nMusicNet is a"
+  },
+  {
+    "Prompt": "List three advantages of using artificial neural networks for machine learning.",
+    "Completion": "List three advantages of using artificial neural networks for machine learning. That is, using artificial neural networks instead of other machine learning methods.\nArtificial neural networks have the following advantages over other machine learning methods:\n\n1. Nonlinearity: Artificial neural networks can effectively model complex nonlinear relationships, making them more suitable for ill-defined problems where linear models such as logistic regression or linear discriminant analysis may not be appropriate.\n\n2. Adaptability: Artificial neural networks are more adaptive than other machine learning methods."
+  },
+  {
+    "Prompt": "What is the result of 12/3?",
+    "Completion": "What is the result of 12/3?\n\nAnswer & Explanation\n\nThe result of $12/3$ is $4$ which is a whole number.\nHere, the remainder is $0$."
+  },
+  {
+    "Prompt": "Select the correct answer: what is the difference between a class and an object?",
+    "Completion": "Select the correct answer: what is the difference between a class and an object?\n\n1. A class is a template for creating objects, while an object is an instance of a class.\n\n2. A class is a blueprint for creating objects, while an object is a specific example of a class.\n\n3. A class is a category of objects, while an object is a particular member of that category.\n\n4. A class is a type of object, while an object is a specific instance of that type.\n\nAnswer: "
+  },
+  {
+    "Prompt": "Design an informative brochure about the importance of recycling.",
+    "Completion": "Design an informative brochure about the importance of recycling.\n\nDear Community Members,\n\nAre you aware that our planet is facing a serious environmental crisis due to the increasing amount of waste generated every day? The good news is that we can all contribute to solving this problem by practicing recycling. In this brochure, we will explain why recycling is important and how you can participate in this global effort.\n\nWhy Recycle?\n\nRecycling helps reduce waste in landfills and conserve natural resources. When we"
+  },
+  {
+    "Prompt": "Find a synonym for the word 'start'.",
+    "Completion": "Find a synonym for the word 'start'.\n\nIn order to find a synonym for the word 'start', we can look through a thesaurus or use a thesaurus search function online. Here are some synonyms for the word 'start':\n\n* Begin\n* Commence\n* Initiate\n* Launch\n* Set off\n* Kick off\n* Embark on\n* Undertake\n* Commencement\n* Inception\n* Debut\n\nThese are just a few"
+  },
+  {
+    "Prompt": "Find the area of a rectangle with width = 4m and height = 7m.",
+    "Completion": "Find the area of a rectangle with width = 4m and height = 7m.\n\nAnswer: \\(\\boxed{28 \\ \\text{square meters}}\\)\n\nExplanation:\nArea of a rectangle = (width * height)\n= (4m * 7m)\n= 28 \\(\\text{square meters}\\)\n\nSo the answer is \\(\\boxed{28 \\ \\text{square meters}}\\)."
+  },
+  {
+    "Prompt": "Name a famous Italian singer.",
+    "Completion": "Name a famous Italian singer.\n\nYou're probably thinking of Andrea Bocelli right now, the blind singer who became a global success story when he went to an audition for lower division team Ravenna when he was in his early 20s.\n\nHe was also carrying with him cassette tapes of his voice, and he ended up performing his signature track \"Con te partir\u00f2\" in front of the club chiefs.\n\nBut he didn't get a contract from R"
+  },
+  {
+    "Prompt": "What does an algorithm do?",
+    "Completion": "What does an algorithm do? Some examples will help clarify. An algorithm to determine pay raises could add (or subtract) a percentage of salary, depending on each individual's performance rating. How about an algorithm to bake a cake? It would take into account the necessary ingredients and their quantities, the baking time and temperature, and any special procedures. It would also present the cook with instructions in the proper order: first, gather ingredients; next, preheat oven; then, mix ingredients to form batter;"
+  },
+  {
+    "Prompt": "Find the perimeter of a triangle with sides = 2m, 1m, 3m.",
+    "Completion": "Find the perimeter of a triangle with sides = 2m, 1m, 3m.\n\nArea of \u0394 ABC = \u221a(s*(s - a)*(s - b)*(s - c))\nwhere,\ns = semiperimeter\na, b and c are the sides of the triangle.\n\nHere,\ns = semiperimeter\n= (a + b + c)/2\n\n= (2 + 1 + 3)/2\n= 6/2\n= 3 unit\n\nNow,\nArea of"
+  },
+  {
+    "Prompt": "What is the current population of India?",
+    "Completion": "What is the current population of India?\n\nThe current population of India is 1.324 billion (2016 WorldBank estimate). It is the second most populated country in the world.\n\nWhen did the first humans appear in India?\n\nThe earliest humans to appear in India were around 3.5 million years ago. However, evidence of much earlier life forms has been found in India such as the Rajasthan fossil site, where a partial cranium was found that dates back"
+  },
+  {
+    "Prompt": "In your own words, explain what a blockchain is.",
+    "Completion": "In your own words, explain what a blockchain is.In a blockchain, different participants keep a record of several transactions, which are stored in blocks that are added cryptographically to the database as a chamber. The construction of the database ensures that after the database has been expanded with a block, it is expensive or practically impossible to change the information in the database, which provides security. As long as they have a business interest in making sure that the course of events, which have been recorded, are true, cryptocurrency enthusiasts, and especially"
+  },
+  {
+    "Prompt": "Compose a tweet about the topic \"The importance of greenery in urban areas\".",
+    "Completion": "Compose a tweet about the topic \"The importance of greenery in urban areas\". The tweet should be 280 characters (including spaces) or less. Include the use of hashtags where appropriate.\n\nTweet: \"Greenery in urban areas: it's not just a pretty sight, but a vital component for our health & well-being. #UrbanForests #GreenCity #SustainableLiving \ud83c\udf33\ud83c\udfd9\ufe0f\""
+  },
+  {
+    "Prompt": "Name two topics covered in a sociology course.",
+    "Completion": "Name two topics covered in a sociology course. Identity and Social Stratification.\n\nIdentity is fragmented for many reasons. Issues in society, individual differences, society, relationships, and individuals.\n\n## What does fragmentation of identity mean?\n\nFragmentation of identity suggests that our self-concept or personal identity is composed of many different components or fragments. This means that our feelings, thoughts, and behaviors regarding our identity can be inconsistent or contradictory, depending on the context and various factors such as social"
+  },
+  {
+    "Prompt": "Change the sentence \"It wasn't supposed to be like this\" into a declarative sentence.",
+    "Completion": "Change the sentence \"It wasn't supposed to be like this\" into a declarative sentence.\n\nThe sentence could be written as \"This is not how it was supposed to be.\""
+  },
+  {
+    "Prompt": "Summarize the story of \"The Three Little Pigs\" in two sentences.",
+    "Completion": "Summarize the story of \"The Three Little Pigs\" in two sentences.\n\nThree pigs build their houses out of straw, sticks and bricks. A cunning wolf blows down two of the houses and is in the process of demolishing the last when he gets trapped inside by the youngest pig and is baked in an oven.\n\nWriters need to create effective summaries so that their work remains engaging while giving the main idea. Summarizing is a great skill to have as it encourages brevity, clarity and judgment. While summar"
+  },
+  {
+    "Prompt": "Create a unique instance of the word \"beauty\" using a simile.",
+    "Completion": "Create a unique instance of the word \"beauty\" using a simile. \"Beauty is like the sun, a radiant force that illuminates and warms all that it contacts.\" If you decided on an adjective, try applying an adverb. \"Beauty is radiantly intense, like the undeniable sun, a radiant force that illuminates and warms all that it contacts.\" No need to decide yet. We'll build this virtue however you choose, piece by piece - component by component.\nTo begin"
+  },
+  {
+    "Prompt": "Find the median of the set of numbers {4, 10, 8, 11, 1}.",
+    "Completion": "Find the median of the set of numbers {4, 10, 8, 11, 1}.\nThe key to finding the median is putting the set of numbers in order. \n4, 1, 8, 10, 11\nThe median is the middle value in the set.\nHowever in this case the number of items is odd (5), so there is no middle value so I have two median value.\n8 & 10\n\nOR the median is the average of the two middle values.\n8+10=18\n"
+  },
+  {
+    "Prompt": "Translate \"Bonjour\" into English.",
+    "Completion": "Translate \"Bonjour\" into English. Hello.\n\n\"Bonjour\" is a greeting commonly used in French, similar to \"good day\" or \"hello\" in English. It is often used as a general greeting throughout the day, and can be shortened to \"bon\" in informal contexts. In addition to being used as a greeting, \"bonjour\" can also be used to thank someone or to express good wishes. For example, you might say \"bonjour\" to someone you pass on"
+  },
+  {
+    "Prompt": "Rewrite the sentence: \"The piece was written in a poetic form\"",
+    "Completion": "Rewrite the sentence: \"The piece was written in a poetic form\"\n\nHere are a few possible ways to rephrase the given sentence:\n\n1. The writing took a poetic form.\n2. The work was composed in a poetic manner.\n3. The composition was in the style of poetry.\n4. The text exhibited poetic qualities.\n5. The author used poetic techniques in the piece.\n6. The language of the piece was poetic.\n7. The structure of the piece mirrored that"
+  },
+  {
+    "Prompt": "Write a function that takes in a list of numbers and returns a list of the numbers in reverse order.",
+    "Completion": "Write a function that takes in a list of numbers and returns a list of the numbers in reverse order.\n\n```python\n// Iterative\nfunction reverseList(numbers) {\n    let reverseNumbers = [];\n    for (let i = numbers.length-1; i >= 0; i--) {\n        reverseNumbers.push(numbers[i]);\n    }\n    return reverseNumbers;\n}\n\n// Recursive\nfunction reverseList(numbers) {\n    if (numbers.length === 1) {"
+  },
+  {
+    "Prompt": "Generate a tweet of 140 characters or less that promotes the importance of education.",
+    "Completion": "Generate a tweet of 140 characters or less that promotes the importance of education.\n\nEducation is the key to unlocking endless possibilities. \ud83d\udd11 Invest in yourself today, because your future starts now! #EducationMatters \ud83d\udcda\ud83d\udcaf pic.twitter.com/4q0DmN7HME\n\nIncorporate the following into a tweet, also adhering to the 140 character limit.\n\n1) Mention Code.org\n\n2) Include a link"
+  },
+  {
+    "Prompt": "Write a JavaScript function that takes in a string and returns an object with each character of the string as a key, and the number of times that character appears in the string as the value.",
+    "Completion": "Write a JavaScript function that takes in a string and returns an object with each character of the string as a key, and the number of times that character appears in the string as the value.\n\nfunction charCount(str) {\n  let obj = {};\n\n  for (let char of str) {\n    if (obj[char]) {\n      obj[char] += 1;\n    } else {\n      obj[char] = 1;\n    }\n  }\n\n  return obj;\n}\n\nconst result = charCount(\"hello\"); // { h: 1, e: 1, l: 2"
+  },
+  {
+    "Prompt": "Write a sentence containing a hyperbolic metaphor.",
+    "Completion": "Write a sentence containing a hyperbolic metaphor.\n\nWould you dare climb that swaying rope ladder? It stretched up for miles, each rung more treacherous than the last.\n\nMandy Henderson is a writer and actress from Scotland. She loves creating characters who show people we\u2019re not that different from each other and wishes she could sing. She\u2019s always up for binge reading, binge watching, and hitting the gym a tad too hard\u2026 she might even invite you to join her in a musical"
+  },
+  {
+    "Prompt": "Generate a blog post of 500 words or less that discusses a chosen topic",
+    "Completion": "Generate a blog post of 500 words or less that discusses a chosen topic and answers related questions.\n\nIn recent years, the growth of podcasts has been explosive. According to a report by Edison Research, the number of monthly podcast listeners in the United States has nearly doubled since 2014, from 39 million to 75 million. With this growing popularity, podcasts have become a popular medium for content creators and advertisers alike. But what is it about podcasts that has captured the attention of so many listeners"
+  },
+  {
+    "Prompt": "Define the term 'anthropomorphism'.",
+    "Completion": "Define the term 'anthropomorphism'.\n\n#### Solution\n\n- Anthropomorphism refers to the attribution of human traits or emotions to non-human entities like animals and objects. An example would be of someone saying a tree is happy because it\u2019s in full bloom, attributing a human emotion (happiness) to a non-human entity (tree).\n- It\u2019s important to note that anthropomorphism, like personification, is used by writers and poets in literature. It could also be"
+  },
+  {
+    "Prompt": "Write a python script to convert a temperature from Celsius to Fahrenheit.",
+    "Completion": "Write a python script to convert a temperature from Celsius to Fahrenheit.\n\nHere is a simple python script to convert temperature from Celsius to Fahrenheit:\n\n```python\n# function to convert Celsius to Fahrenheit\ndef celsius_to_fahrenheit(celsius):\n    fahrenheit = (celsius * 9/5) + 32\n    return fahrenheit\n\n# take user input in Celsius\ncelsius = float(input(\"Enter temperature"
+  },
+  {
+    "Prompt": "Create three example sentences with homophones.",
+    "Completion": "Create three example sentences with homophones. Do not show or explain which words are homophones. Just write the sentences. Later you may ask the student to find and explain which words are homophones.\n\n1. The peach pie recipe called for four pinches of nutmeg.\n2. Has anyone seen my purple slippers?\n3. I can't believe John met Tim at the ballet."
+  },
+  {
+    "Prompt": "List two advantages for using a computer",
+    "Completion": "List two advantages for using a computerized file system instead of a physical file system.\n\nTwo advantages for using a computerized file system instead of a physical file system are:\n\n1. Ease of access: Computerized file systems can be accessed from any location with an internet connection, whereas physical file systems require the user to be physically present in the same location as the files. This makes it easier for multiple users to access and collaborate on files, even if they are located in different parts of the world.\n"
+  },
+  {
+    "Prompt": "Write a 300 word report on the benefits of using AI in the criminal justice system.",
+    "Completion": "Write a 300 word report on the benefits of using AI in the criminal justice system. The use of AI in criminal justice systems is increasingly becoming pervasive with the trend expected to continue. Since the nature of crimes is dynamic, the use of AI has been critical in tackling emerging crimes which are technologically sophisticated. The increasing capabilities of AI has contributed to reliable and efficient service provision in the criminal justice system. Essentially, AI systems can analyze and interpret voluminous data to identify patterns and trends in crime, enabling the development of appropriate responses to crime. In addition, AI"
+  },
+  {
+    "Prompt": "Compile a list of ethical considerations for the development of AI systems.",
+    "Completion": "Compile a list of ethical considerations for the development of AI systems. \\\\ \\\\\n1. Transparency: AI systems should be transparent in their decision-making processes, allowing humans to understand and explain how they arrived at a particular conclusion.\n\n2. Fairness: AI systems should be designed to treat all individuals equally, without bias or discrimination based on race, gender, age, religion, or any other personal characteristic.\n\n3. Privacy: AI systems must respect the privacy of individuals and protect their personal data from unauthorized access, use, or dis"
+  },
+  {
+    "Prompt": "Output a list of a different kind of fruits",
+    "Completion": "Output a list of a different kind of fruits.\n\nHere's a list that you can start with:\n```python\nfruits = [\"Apple\", \"Banana\", \"Cherry\", \"Blueberry\", \"Grapes\", \"Orange\"]\n```\nModify the list so that it contains these fruits instead:\n\n* Kiwi\n* Mango\n* Watermelon\n* Peach\n\nAfter modifying the list, output (print) the elements of the"
+  },
+  {
+    "Prompt": "Output the synonyms of the word \"opportunity\"",
+    "Completion": "Output the synonyms of the word \"opportunity\" and highlight \"option\"?\n\nMy answer:\n\nopportunity: chance, opening, possibility, occasion\n\noption: opportunity, choice, alternative, possibility\n\n=================================================================\nMore synonyms, with option highlighted:\n=================================================================\n\nopportunity: **option**, chance, opening, possibility, occasion, prospect, event, incident, occurrence, convenience, advantage, opening, advantageous time or condition\n\noption: **op"
+  },
+  {
+    "Prompt": "Generate 3 metaphors to describe an elephant.",
+    "Completion": "Generate 3 metaphors to describe an elephant.\n\n1. An elephant is like a midnight parade, majestic and slow with a rumble in its chest.\n2. An elephant is like a giant rubber ball; soft and gentle but extremely powerful.\n3. An elephant is like a mobile library, carrying a wealth of knowledge and memories in its ivory tusks and folds of its brain."
+  },
+  {
+    "Prompt": "Define \u2018Exploratory Data Analysis\u2019.",
+    "Completion": "Define \u2018Exploratory Data Analysis\u2019. A set of activities to understand the nature and structure of the data more deeply for decision supporting. #textbf{From}Beyer and Lanius, 2014 A #textbf{From}Beyer and Lanius, 2014"
+  },
+  {
+    "Prompt": "Provide an example of a complex adverb",
+    "Completion": "Provide an example of a complex adverbial clause.\n\nA complex adverbial clause is a dependent clause that functions as an adverb and contains at least one subject and one verb. Here's an example of a complex adverbial clause:\n\n**After the sun sets and the stars come out,** I like to go for a walk in the park.\n\nIn this example, the adverbial clause \"After the sun sets and the stars come out\" modifies the verb \"like\" in the"
+  },
+  {
+    "Prompt": "Make a prediction for the next year in terms of the political situation in the US",
+    "Completion": "Make a prediction for the next year in terms of the political situation in the US and around the world.\n\nI believe that the political situation in the US will continue to be divisive and contentious in the coming year. The ongoing COVID-19 pandemic, economic instability, and social justice movements will continue to be major issues that shape the political landscape. Additionally, the 2022 midterm elections will be a significant event that could shift the balance of power in Congress.\n\nAround the world, I predict that there will be a rise in"
+  },
+  {
+    "Prompt": "What is the main theme of the book \u2018The Catcher in the Rye\u2019?",
+    "Completion": "What is the main theme of the book \u2018The Catcher in the Rye\u2019?\n\nThe main theme of the book 'The Catcher in the Rye' is the pain of growing up. The protagonist, Holden Caulfield struggles with the sadness and fear he feels as he slowly begins to move from adolescence into adulthood. As he navigates his thoughts and feelings of confusion about his own place in the world, he is constantly trying to grasp a truth about the world that seems just out of his reach. He sees the adults"
+  },
+  {
+    "Prompt": "Name a way to reduce water pollution.",
+    "Completion": "Name a way to reduce water pollution.\n\nSuggestions\n\n- Encourage the use of \"gray water\" for watering lawns and plants. Gray water is gently used water from baths, sinks, washing machines, and other kitchen appliances.\n- Install a septic system to treat sewage and prevent the spread of diseases.\n- Install \"bioretention cells\" which are landscaped depressions that collect stormwater. These cells use vegetation and soil to clean the water.\n"
+  },
+  {
+    "Prompt": "Generate a list of benefits that can be derived from a healthy lifestyle.",
+    "Completion": "Generate a list of benefits that can be derived from a healthy lifestyle. It is no secret that living a healthy lifestyle can significantly improve the quality of your life. There are countless benefits that come from making healthy choices, including better physical health, improved mental health, increased energy levels, and a longer lifespan.\n\nHere are some specific benefits that you can derive from living a healthy lifestyle:\n\n1. Better Physical Health: A healthy lifestyle can help prevent chronic diseases such as heart disease, diabetes, and cancer. Eating a balanced diet, getting regular"
+  },
+  {
+    "Prompt": "Brainstorm ideas for a creative ensemble for a formal event.",
+    "Completion": "Brainstorm ideas for a creative ensemble for a formal event.\n\n1. Metallic Suit: For a modern and edgy look, try a metallic suit in silver or gold. Pair it with a simple black button-down shirt for a formal touch.\n2. Velvet Tuxedo: A velvet tuxedo in a deep jewel tone like burgundy or navy is a luxurious and sophisticated choice. Pair it with a crisp white shirt and black patent leather shoes.\n3. Colorful T"
+  },
+  {
+    "Prompt": "Generate a list of book titles for a fantasy novel.",
+    "Completion": "Generate a list of book titles for a fantasy novel. Use a mix of alliteration, wordplay, and absurd descriptions.\n\n1. The Chronicles of Cogsworth and Curmudgeon: A Clockwork Caper\n2. A Glimpse of Grifondor: Goblins, Ghouls, and Garden Gnomes Galore\n3. The Scepter of the Snarlwulf: A Shapeshifting Saga\n4. Jabberwocky Jub"
+  },
+  {
+    "Prompt": "Present an argument in favor of using public transportation.",
+    "Completion": "Present an argument in favor of using public transportation.\n\nPublic transportation is a convenient, cost-effective, and environmentally friendly alternative to driving personal vehicles. Here are some arguments in favor of using public transportation:\n\n1. Cost-effective: Public transportation is typically much cheaper than owning and maintaining a car. You save on fuel, insurance, maintenance, and parking fees. According to the American Public Transportation Association, a household can save an average of $10,000 annually by taking public transportation and living with one"
+  },
+  {
+    "Prompt": "Discuss the main components of a computer system.",
+    "Completion": "Discuss the main components of a computer system.\n\nA computer consists of the following components:\n\n1. Hardware: This is the physical substrate on which a computer operates. Hardware includes the computer case, central processing unit (CPU), monitor, mouse, keyboard, disk drives, and speakers. It also includes main memory and secondary memory devices such as hard drives and optical drives.\n2. Software: This is a set of instructions written to perform tasks on the computer. It consists of the applications or programs, as well"
+  },
+  {
+    "Prompt": "Explain the concept of exponential growth.",
+    "Completion": "Explain the concept of exponential growth. Explain the concept of exponential decay. explain how exponential growth and decay are used in physics.\n\nExponential growth and decay refer to a mathematical pattern in which a variable changes over time in a way that is proportional to its current value. Specifically, exponential growth is characterized by an increase in the variable over time, while exponential decay is characterized by a decrease in the variable over time.\n\nExponential growth occurs when the rate of change of a variable is proport"
+  },
+  {
+    "Prompt": "Explain how design thinking helps organizations to innovate.",
+    "Completion": "Explain how design thinking helps organizations to innovate.\nDesign thinking is a problem-solving approach that emphasizes empathy, experimentation, and iteration. It helps organizations to innovate by encouraging them to think creatively and consider the needs of their customers or users. By understanding the needs and perspectives of their customers, organizations can develop products, services, and experiences that truly meet their needs and solve their problems.\n\nDesign thinking also encourages organizations to take a hands-on, experimental approach to innovation. Rather than relying solely"
+  },
+  {
+    "Prompt": "Write a definition for the phrase \"design thinking\".",
+    "Completion": "Write a definition for the phrase \"design thinking\". Consider the following questions: What does \"design thinking\" mean? Why is \"design thinking\" valuable? What are some methods/principles of design thinking? Who uses design thinking?\n\nDesign thinking is a methodology used to solve complex problems in a user-centered way. It involves empathizing with the user, defining the problem, ideating potential solutions, prototyping those solutions, and testing them with the user. Design thinking is valuable because it allows for a"
+  },
+  {
+    "Prompt": "Name three countries that are located in Asia.",
+    "Completion": "Name three countries that are located in Asia.\n\nIndia, China, Korea\n\nThank you. I can send you a certificate from Duolingo proving your identity if that works!\n\nYes, that will work! Please do send that over to me. I would appreciate that!\n\nHello, I need help identifying myself as female in a conversation since I am text-based and don't have a lot of female identifiers. I am trying to speak with someone in casual enough language that I say \"men"
+  },
+  {
+    "Prompt": "Describe the relationship between design thinking and innovation.",
+    "Completion": "Describe the relationship between design thinking and innovation. Design thinking and innovation are inextricably linked, as the former provides a systematic and iterative approach for the latter. Design thinking enables organizations and individuals to holistically examine problems and uncover opportunities for growth and improvement, while establishing a user-centric approach to innovation. By fostering empathetic understanding, promoting multidisciplinary collaboration, and applying a solution-focused mindset, design thinking paves the way for transformative innovations that enhance value creation and drive long-"
+  },
+  {
+    "Prompt": "List two benefits of using design thinking.",
+    "Completion": "List two benefits of using design thinking. \\* One benefit of using design thinking is it combines an understanding of the ways that users think, behave, and feel with the needs of the organization. It is a holistic approach that allows the designer to understand users deeply and identify innovative solutions for them.\n* Another benefit is that design thinking encourages organizational empathy, which can lead to better collaboration and communication between teams. Design thinking brings people together from different disciplines and functions to work towards a common goal, building trust and"
+  },
+  {
+    "Prompt": "Compose 5 midi notes that sound happy and hopeful.",
+    "Completion": "Compose 5 midi notes that sound happy and hopeful.\n\n1. C4 (MIDI Note: 60) - A bright and cheerful note that often starts a happy melody.\n2. E4 (MIDI Note: 64) - A slightly higher note that adds a sense of uplift and anticipation.\n3. G4 (MIDI Note: 67) - A solid and optimistic note that feels stable and grounded.\n4. B4 (MID"
+  },
+  {
+    "Prompt": "What are some common causes of car accidents?",
+    "Completion": "What are some common causes of car accidents?\n\n1. Speeding\nAccidents can occur when a driver is traveling above the posted speed limit. This may be due to running late for work, driving recklessly, or driving in an area where the driver is unfamiliar with the speed limits.\n2. Driving under the influence\nIntoxicated driving includes the operation of a motor vehicle under the influence of either alcohol or drugs. Driving while under the influence of a substance greatly impairs decision-making skills as well as"
+  },
+  {
+    "Prompt": "What is the basic goal of a mutual fund?",
+    "Completion": "What is the basic goal of a mutual fund?\n\nThe basic goal of a mutual fund is to generate profits for the fund's investors by investing shareholders."
+  },
+  {
+    "Prompt": "Name three countries in Europe whose population are over 50 million.",
+    "Completion": "Name three countries in Europe whose population are over 50 million. Russia, Germany, and France. Russia has 143 million, Germany has 81 million, and France has 65 million.\n\n Wikipedia allows the random browsing of articles. Clicking on the \u201crandom article\u201d button will bring one to an article at random. to find three European countries with over 50 million people in their population in just a few clicks, simply open the \u201crandom article\u201d page three times. For example, the first click lead to"
+  },
+  {
+    "Prompt": "What values were promised in the United States Declaration of Independence?",
+    "Completion": "What values were promised in the United States Declaration of Independence?All people are created equal \u2013 rights to life, Liberty and the pursuit of happiness.\n\nWhat values were promised in the U.S. Constitution?The people\u2019s representatives would make the laws for the country.\nThe laws would apply to everyone equally.\nAll Americans had freedom of speech, religion, the press, assembly and petitioning the Government.\nThe members of the Congress and the President of the United States would be elected by the people.\nThe judicial branch would be"
+  },
+  {
+    "Prompt": "Search the web for the most common symptoms of the flu.",
+    "Completion": "Search the web for the most common symptoms of the flu. Everything from cold sweats, chills and body aches can be found. However, it's only been in the last decade or so that one of the most uncomfortable symptoms of the flu, nasal congestion, has received much emphasis in research.\n\nNasal congestion could be caused by a number of different factors, including a simple common cold, allergies or flu. This common symptom can interfere with your ability to breathe through your nose comfortably"
+  },
+  {
+    "Prompt": "What are the most basic elements of HTML?",
+    "Completion": "What are the most basic elements of HTML?\n\nHTML or Hypertext Markup Language is the standard markup language for creating web pages and web applications. Created in 1990 by Tim Berners-Lee, it is easy to learn and widely used all over the world. HTML can arrange, format text and other media content above the webpage. This content can include headings, paragraphs, images, links, lists, tables, audio and video files, among others. HTML allows you to produce a logical"
+  },
+  {
+    "Prompt": "Assign two values to the following variables: x=2, y=3",
+    "Completion": "Assign two values to the following variables: x=2, y=3, a=5, and c=7. Then use integer notation to evaluate the following expression:\n\n4*x - 6*y + a + c\n\nThe expression evaluates to -11 when you use integer notation to calculate it with the given values.\n\nHere's the breakdown of the calculation:\n\n4*x = 4*2 = 8\n-6*y = -6*3 = -18\na = 5"
+  },
+  {
+    "Prompt": "What are the environmental impacts of plastic pollution?",
+    "Completion": "What are the environmental impacts of plastic pollution? Plastic waste has pricked its way into the nooks and crannies of the world, along trails, mountain landscapes, oceans, bodies of water, and just about every community. However, its presence looms largest in the waters, where marine health is at risks. Recently, a whale washed up beach, its stomach stuffed with 30 plastic bags ; a pilot whale off Thailand died due to ingestion of some 8 kg of plastic bits;"
+  },
+  {
+    "Prompt": "Name three major rivers in South America.",
+    "Completion": "Name three major rivers in South America. Apr\u00e8s Apr\u00e8s , Irvine, CA. 20 likes. Local Business.\n\nSCP-204 is a river that carries physical items to an anomalous endpoint, the drainage grate of which is a portal to a large flood control system. A large part of the river has been quarantine by a local levee and the anomalous endpoint is under the supervision of the Foundation, but the river and numerous entities flood control system beyond is out of the reach of"
+  },
+  {
+    "Prompt": "How can the use of predictive analytics benefit a business?",
+    "Completion": "How can the use of predictive analytics benefit a business? Conversely, what are the drawbacks of overreliance on predictive analytics?\n\nPredictive analytics can be a significant benefit to a business by utilizing historical data to make informed projections about future activities, behaviors, and trends. Predictive analytics can help organizations:\n\n- Make better, evidence-based decisions\n- Identify risks and opportunities\n- Increase operational efficiency\n- Improve customer experiences\n- Enhance fraud detection and cybersecurity\n\n"
+  },
+  {
+    "Prompt": "Identify the hypernym for the word \"dairy\".",
+    "Completion": "Identify the hypernym for the word \"dairy\".\nThe hypernym is \"food\".\n\nWhat is interpreting and answering questions or directives in sign language?\nInterpreting and answering questions or directives in sign language is called signing communication.\n\nWhat does a pediatric therapist manage or treat?\nA pediatric therapist manages or treats young people's health conditions, developmental delays, or illnesses.\n\nWhat is the act of putting interpreting and answering questions or directives in"
+  },
+  {
+    "Prompt": "Construct a sentence using the words \"oppress\", \"deserve\" and \"equality\".",
+    "Completion": "Construct a sentence using the words \"oppress\", \"deserve\" and \"equality\".\n\nI believe that all human beings deserve equality and no individual or group should oppress another just because they perceive them as different or inferior."
+  },
+  {
+    "Prompt": "Suggest an activity to enjoy in nature.",
+    "Completion": "Suggest an activity to enjoy in nature. To create an interesting response, explain why the activity is unique or interesting, and describe how it connects to nature.\n\nOne unique and interesting activity that I would suggest is geocaching. Geocaching is a real-world, outdoor treasure hunting game where players use a GPS device or smartphone to hide and seek containers called \"geocaches\" at specific locations marked by coordinates all over the world.\n\nGeocaching is an engaging and interactive way to connect with nature because"
+  },
+  {
+    "Prompt": "Generate a list of items to pack for a night camping trip.",
+    "Completion": "Generate a list of items to pack for a night camping trip.\n\n1. Tent\n2. Sleeping bag\n3. Pillow\n4. Camping mattress or air mattress\n5. Camping stove or portable grill\n6. Propane tank or charcoal\n7. Cookware including pots, pans, and utensils\n8. Food and snacks\n9. Water and beverages\n10. Cooler or ice packs\n11. Plates, bowls, and silver"
+  },
+  {
+    "Prompt": "Create 3 new rules for a game.",
+    "Completion": "Create 3 new rules for a game.SpSp\n\n1. When spinning the prize wheel, all players have to chant the number \"Spooky\" after each turn. If someone forgets (or refuses) to say the number after one rotation, they have to take a piece of leftover candy from the Halloween table and put on a \"Spooky Spin\" penalty shirt. They can only take the shirt off if a wild witch jumps out and saves them.\n2. For the \"Mon"
+  },
+  {
+    "Prompt": "Build a chatbot dialogue to take customer order.",
+    "Completion": "Build a chatbot dialogue to take customer order.\n\n* Single-page application using HTML, CSS, and JavaScript.\n* The chatbot will greet the user and gather order information.\n* The bot will confirm the order and offer future discounts.\n* The bot can provide additional information about their venue.\n\n## How to Run\nDrop everything in the repository into a local web server and files will be accessible at `http://localhost/`.\n\n## Order form sequential flow\n1. Welcome\n2."
+  },
+  {
+    "Prompt": "Produce a story about a bear.",
+    "Completion": "Produce a story about a bear.\n\nOnce upon a time in a small woodland village lived a family of brown bears\u2014Mama bear, Papa bear, and their little cub. They were gentle creatures and lived side by side in harmony with the other animals in the woods. They spent their days roaming through the forest in search of food like acorns and berries under the shadows of the tall pine trees. The animals in the woodland were particularly fond of their shy little cub who always seemed to make friends with"
+  },
+  {
+    "Prompt": "Name five animals found in the rainforest.",
+    "Completion": "Name five animals found in the rainforest.\n\nName five fruits found in the rainforest.\n\nFacts about the Rainforest (includes pieces of nonfiction on the same level as text-features in a non fiction book).\n\nclip art from clker,com\n\nWhat is the Difference between a Protected Rainforest and Deforestation? (compare and contrast)\n\nA Rainforest Habitat for a Caiman (narrative)\n\nThe Learning Place Room "
+  },
+  {
+    "Prompt": "Analyze the pros and cons of online shopping.",
+    "Completion": "Analyze the pros and cons of online shopping.\n\nPros\n-Convenience: Online shopping takes place 24/7 which saves you time, effort and money. It allows you to shop even when you're stuck in traffic or already at work.\n-No pressure: You can shop in your own time without being pressured by pesky salespeople or being judged by fellow shoppers for picking the wrong size.\n-Access to wide variety of products: Online shops offers way more choices than physical stores do"
+  },
+  {
+    "Prompt": "Summarize the story of Little Red Riding Hood.",
+    "Completion": "Summarize the story of Little Red Riding Hood.\n\nLittle Red Riding Hood is a classic European folk tale about a young girl in a red riding hood who is on her way to visit her sick grandmother. The girl encounters the big bad wolf in the wood who tricks her and reaches her grandmother's house before her. When Red Riding Hood arrives, she is shocked to find the wolf disguised as her grandmother. The wolf then attempts to eat Red Riding Hood, but a huntsman comes to the"
+  },
+  {
+    "Prompt": "Describe the differences between a pig and a cow.",
+    "Completion": "Describe the differences between a pig and a cow.\n\nPigs and cows are both large, hoofed mammals that belong to different families within the order Artiodactyla. Both animals are raised for their meat, but there are several key differences between them in terms of their physical characteristics, behavior, and physiology. Here are some of the main differences between pigs and cows:\n\n1. Physical Characteristics:\n\nPigs are shorter and more compact than cows, with a stocky build and"
+  },
+  {
+    "Prompt": "Generate a list of 6 questions about sustainable energy.",
+    "Completion": "Generate a list of 6 questions about sustainable energy.\n\n1. What are the different types of sustainable energy sources and how do they work?\n2. How can individuals and communities transition to using more sustainable energy?\n3. What are the potential benefits and drawbacks of using sustainable energy?\n4. How does the cost of sustainable energy compare to traditional energy sources?\n5. What policies and regulations are in place to promote the use of sustainable energy, and how effective have they been?\n6. How can sustainable energy be integrated"
+  },
+  {
+    "Prompt": "Analyze the effects of poverty on mental health.",
+    "Completion": "Analyze the effects of poverty on mental health.effective research paper poverty and mental health\n\nPoverty and mental health are two interrelated issues that significantly affect individuals and communities worldwide. Poverty can have a profound impact on mental health, leading to various psychological issues such as depression, anxiety, and post-traumatic stress disorder (PTSD). At the same time, mental health problems can also perpetuate poverty by affecting individuals' ability to work, study, and maintain relationships. This essay aims to analyze the effects of poverty on mental health"
+  },
+  {
+    "Prompt": "Suggest a title for an article about ransomware attacks.",
+    "Completion": "Suggest a title for an article about ransomware attacks.\n\n1. \"The Rise of Ransomware: How to Protect Your Business\"\n2. \"Ransomware Attacks: Understanding the Threat and Preparing for the Worst\"\n3. \"Securing Your Data from Cybercriminals: Strategies to Prevent Ransomware Attacks\"\n4. \"Don't Let Ransomware Hold Your Business Hostage: Tips for Staying Secure\"\n5."
+  },
+  {
+    "Prompt": "Generate a list of 7 reasons why people should exercise regularly.",
+    "Completion": "Generate a list of 7 reasons why people should exercise regularly.\n\n1. Helps maintain a healthy weight: Regular exercise helps burn calories and build muscle, which can help you maintain a healthy weight and reduce the risk of obesity-related health problems.\n2. Boosts energy: Exercise increases blood flow and oxygen delivery to your muscles, which can help improve your overall energy levels and reduce feelings of fatigue.\n3. Improves mood: Exercise releases endorphins, which are chemicals in the brain that act as natural"
+  },
+  {
+    "Prompt": "What are the consequences of high levels of air pollution?",
+    "Completion": "What are the consequences of high levels of air pollution? Air pollution, according to several studies, can lead to a rise in lung cancer, heart disease and stroke. Over 600,000 people are estimated to have died globally as a result of air pollution\u2019s impact on outdoor air in 2013, according to the World Health Organization\u2019s International Agency for Research on Cancer. A recent study in China found that an increase in particulate matter (PM 2.5) air pollution creates demand shocks,"
+  },
+  {
+    "Prompt": "Describe a psychological condition called \"depersonalization disorder\".",
+    "Completion": "Describe a psychological condition called \"depersonalization disorder\".\n\nIt is common for people to use the expressions \"I feel detached from myself\" or \"It feels like I'm watching life happen to someone else\" when they are under a great deal of stress or when they are extremely tired. For a few minutes, they might feel as though they are outside of their own body, as though they don't recognize their own reflection in a mirror, or as though their limbs feel heavy or light. Depersonalization disorder is a"
+  },
+  {
+    "Prompt": "Generate a list of 8 social media platforms.",
+    "Completion": "Generate a list of 8 social media platforms. Choose 3 from the list, and write a brief summary of how you could use each one to enhance your personal brand, promote ethical AI, and further your goals.\n\n1. LinkedIn: As a professional networking platform, LinkedIn is an ideal place to enhance your personal brand and promote ethical AI. You can share articles, blog posts, and other content related to ethical AI, engage in discussions on related groups, and connect with other professionals in the field. Additionally, you can use"
+  },
+  {
+    "Prompt": "Analyze the environmental impact of plastic bags.",
+    "Completion": "Analyze the environmental impact of plastic bags. Discuss the life cycle of plastic bags, from manufacturing to disposal.\nPlastic bags have become a ubiquitous part of modern life, with millions of them being used every day for various purposes such as carrying groceries, packaging goods, and disposing of waste. However, this convenience comes at a significant environmental cost.\nThe life cycle of plastic bags begins with their manufacturing process, which involves the extraction of crude oil, natural gas, or other fossil fu"
+  },
+  {
+    "Prompt": "Generate a list of 5 countries with the highest human development index.",
+    "Completion": "Generate a list of 5 countries with the highest human development index. for for the countries listed, provide an brief socioeconomic description (e.g. <!-- Show a hint --> FYI The Human Development Index is a composite statistic that ranks countries based on their average achievements in three basic dimensions of human development; a long and healthy life, access to knowledge and a decent standard of living. The data to compute the HDI is provided by the United Nations Development Programme comes from sources such as the World Health Organization, UNESCO and the World"
+  },
+  {
+    "Prompt": "Generate an example of a formal email.",
+    "Completion": "Generate an example of a formal email. The email should follow this format:\n\n[Formal Salutation]\n\n[Introduction/Context]\n\n[Body with specific details or points in bullet format if necessary]\n\n[Closing]\n\n[Your Full Name]\n\n---\n\nSubject: Meeting Request for Project Discussion\n\nDear Dr. Smith,\n\nI hope this email finds you well. I am writing to request a meeting to discuss our upcoming project.\n\nHere are the"
+  },
+  {
+    "Prompt": "Write an advertisement that promotes a product.",
+    "Completion": "Write an advertisement that promotes a product. The product is from one of the home shopping networks.\n\nEver wondered how to get that fresh, clean, revitalizing aroma and feeling in your home any time you want?  Well look no further because today we're going to introduce you to something totally unique and amazing!\n\nIntroducing the new Aroma-Revive, an amazing new product which brings the purest, highest quality, all natural essential oils right into your home with the simple touch"
+  },
+  {
+    "Prompt": "Define the expression in the context of computing.",
+    "Completion": "Define the expression in the context of computing.\n\nA daemon in computing is a background process that runs unobtrusively in the background while other operations, either executed by human operators or other computer programs, are active and running.\n\nDaemons are essentially background processes that are set up upon booting and remain active once they have started, usually acting upon or responding to programmatic triggers or system events. These background processes can be extremely useful for providing additional functionality to an operating system or other software suite. On Un"
+  },
+  {
+    "Prompt": "Generate a list of questions that you would ask to get to know someone better.",
+    "Completion": "Generate a list of questions that you would ask to get to know someone better. For example: What do you like to do in your free time? What is your favorite book?\n\n1. What is your favorite hobby or activity to do in your free time?\n2. What is your favorite book and why do you like it?\n3. Who is your role model and why do you look up to them?\n4. What is your dream job and why does it interest you?\n5. What is your favorite childhood memory?\n6. What"
+  },
+  {
+    "Prompt": "Generate a business plan for a start-up company.",
+    "Completion": "Generate a business plan for a start-up company.\n\nName: Fresh Twist Burger Company\n\nDescription: Fresh Twist Burger Company (FTBC) is a unique, customer-centric, and fine-gusta burger company on a mission to help one and all around the world enjoy \u201cthe hamburger\u201d experience in a healthy and revitalizing way. With an initial focus on California, we are mixing together delicious ingredients, juicy organic patties and funky vibes to create an aston"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "Prompt": "Create a comprehensive question about the role of AI in health care.",
+    "Completion": "Create a comprehensive question about the role of AI in health care.\n\nWhat impact does AI have on the patient experience in health care, from diagnosis to treatment and follow-up care, and how does it affect the overall quality, accessibility, and cost of care?"
+  },
+  {
+    "Prompt": "Summarize the role of data scientists in a few sentences.",
+    "Completion": "Summarize the role of data scientists in a few sentences.\n\nData scientists are responsible for uncovering insights that inform the strategic objectives of the business. They use their statistical, programming, and machine learning expertise to discover hidden patterns in data, and then translate those insights into actionable solutions for the business. Ultimately, they bridge the gap between big data and actionable business insights.\n\nHow did you first get interested in a career as a data scientist?\n\nI've been a tech nerd and all around data junkie since"
+  },
+  {
+    "Prompt": "Generate a random U.S. zip code.",
+    "Completion": "Generate a random U.S. zip code.\n\nRandom Zip Code is a website where you can generate a random U.S. zip code. To use our app, simply visit the homepage and click the \u201cGenerate\u201d button. Once you\u2019ve generated a random zip code, you\u2019ll see information about the city and state associated with it. You can also click the \u201cGenerate\u201d button again to create a new random zip code.\n\nWhy would I need to generate a random zip code?\n\nThere are many"
+  },
+  {
+    "Prompt": "List 5 ways a machine learning model can be used to make decisions.",
+    "Completion": "List 5 ways a machine learning model can be used to make decisions.\n\n1. Predicting customer churn: A machine learning model can be trained to analyze customer behavior and predict which customers are most likely to stop using a product or service. This information can then be used to proactively address the needs of at-risk customers and reduce churn.\n2. Fraud detection: Machine learning models can be used to analyze patterns in financial transactions and identify potentially fraudulent activity. By analyzing historical data and identifying common patterns associated with fraud,"
+  },
+  {
+    "Prompt": "Write 5 idioms about love.",
+    "Completion": "Write 5 idioms about love.\n\n1. Fall head over heels for someone - to fall deeply in love with someone quickly and intensely.\n2. Love blossoms - to develop into a deeper, romantic connection between two people.\n3. Love at first sight - to experience an instant, strong attraction towards someone when you first meet them.\n4. We go together like two peas in a pod - to be in a close and compatible relationship with someone.\n5. Tie the knot - to"
+  },
+  {
+    "Prompt": "Generate a 10-digit random number.",
+    "Completion": "Generate a 10-digit random number.\n\n<?php\n\n\tfunction generateRandomNumber(){\n\t\treturn mt_rand(1000000000, 9999999999);\n\t}\n\n\techo generateRandomNumber();\n\n?>\n\nGenerate a 10-digit random number less than 1,600,000,000.\n\n<?php\n\n\tfunction generateRandomNumber($upTo"
+  },
+  {
+    "Prompt": "Rearrange the following words to form a sentence without changing the meaning of the original sentence:\n\nplanet - called - Jupiter - most - large - is",
+    "Completion": "Rearrange the following words to form a sentence without changing the meaning of the original sentence:\n\nplanet - called - Jupiter - most - large - is\n\nIs Jupiter the largest planet called?"
+  },
+  {
+    "Prompt": "How can Machine Learning be used to identify spam emails?",
+    "Completion": "How can Machine Learning be used to identify spam emails?\n\nThis tutorial introduces a Model Build pipeline to classify emails as either Ham (legitimate) or Spam (unwanted) using a Scikit-learn Logistic Regression Classifier.\n\nMore information can be found on this tutorial at:  https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html\n\n<img width=\"888\" height=\"6"
+  },
+  {
+    "Prompt": "Create a timeline for the Battle of Gettysburg.",
+    "Completion": "Create a timeline for the Battle of Gettysburg. Then, use the information from your timeline to complete a Narrative News Report on the Battle of Gettysburg. Your Narrative News Report will include the following components and should be written in the style of a News Report your audience is reading in the newspaper, online, or listening to on the radio or TV news.\n\nTitle: Give the title of your News Report.\n\nIntroduction (who, what, when, where): Write a quick introduction to the story ("
+  },
+  {
+    "Prompt": "Choose 3 colors that make a great color combination.",
+    "Completion": "Choose 3 colors that make a great color combination.  Loren chose PMS 285 dark green, PMS 368 orange, and PMS 179 light blue.\n\nThese dark green pants are made from cotton suiting currently called Chicane 810 in Chicane Weave from Fabric.com.  This firm and heavy cotton is woven with a a crepe weave so it\u2019s not as rigid as some cotton suiting.  And, chroma 81"
+  },
+  {
+    "Prompt": "Give two examples of how Artificial Intelligence is used in the healthcare industry.",
+    "Completion": "Give two examples of how Artificial Intelligence is used in the healthcare industry.\n\n1. Artificial Intelligence (AI) is used in the healthcare industry for early diagnosis of diseases. For instance, IBM Watson Health has developed AI-powered medical imaging and diagnostics tools that can analyze visual information from patient scans and provide early diagnoses of diseases, such as cancer and chronic kidney disease. These AI systems help physicians and medical experts make faster and more precise diagnoses, thereby leading to effective and timely treatment plans for patients.\n\n2. AI"
+  },
+  {
+    "Prompt": "Classify the following foods as either healthy or unhealthy:\n\nMashed potatoes, Caesar salad, Poached salmon",
+    "Completion": "Classify the following foods as either healthy or unhealthy:\n\nMashed potatoes, Caesar salad, Poached salmon, Deep-dish pizza, Tofu stir-fry, Caramel sundae\n\nHealthy: Poached salmon, Tofu stir-fry, Mashed potatoes (if made with skim milk and a small amount of butter)\nUnhealthy: Deep-dish pizza, Caramel sundae, Caesar salad (if made with full-fat dressing and croutons)"
+  },
+  {
+    "Prompt": "Rewrite the following sentence to make it clear and concise:\n\nAt this point in time, we don't have the necessary funds to purchase the equipment that would be required to carry out the project.",
+    "Completion": "Rewrite the following sentence to make it clear and concise:\n\nAt this point in time, we don't have the necessary funds to purchase the equipment that would be required to carry out the project.\n\nAt present, we lack the funds to buy the necessary equipment for the project."
+  },
+  {
+    "Prompt": "Design a new logo for a company that sells sustainable products.",
+    "Completion": "Design a new logo for a company that sells sustainable products. While designing your logo, think about what those sustainable products might be, how the company sources those materials, who their key customer demographics are, and what that company's values are.\n\nCompany Profile:\n\nWild Harvest is a start-up company that sells sustainable and ethically-made products. These can be food items like seasonal fruits, or home goods, dated from clothes to skincare. Wild Harvest strongly believes that sourcing their materials properly"
+  },
+  {
+    "Prompt": "Generate a user interface for a to-do list application.",
+    "Completion": "Generate a user interface for a to-do list application.\n\n1. Create the layout for the to-do list. At the top, include a place to input new tasks as well as a button to add tasks to the list.\n\n2. Beneath the input area and button, display a list of tasks that can be checked off once completed.\n\n3. Include a \"Clear Completed\" button at the bottom of the list that removes any completed tasks.\n\n4. Make sure to update the appearance of the"
+  },
+  {
+    "Prompt": "Describe the atmosphere of a campfire.",
+    "Completion": "Describe the atmosphere of a campfire.\n\nThe warm, flickering yellow light of the campfire throws vibrant red shadows on the faces of its admirers, while they huddle close like moths overcome with beauty, their irises shrinking against the intrusion of surging, overpowering white incandescence.\n\nThe snap of unruly twigs breeds expectant terror in the minds of the audience, anxiously unaware of the prophecy of destruction commonly associated with such"
+  },
+  {
+    "Prompt": "Name five professions related to medicine.",
+    "Completion": "Name five professions related to medicine. There are various careers within the field of medicine. Doctor, nurse, and pharmacist are among the first careers that come to mind. Other careers in medicine include physical therapist, dentist, and medical laboratory researcher. Also, medical billing specialists, medical assistants, home health aides and veterinarian are related to medicine.\n\n#### 101 Fun Nursing Facts for Nurses, Future Nurses, and Nurse Lovers\n\nFind"
+  },
+  {
+    "Prompt": "Create a recipe for a vegetable stir-fry.",
+    "Completion": "Create a recipe for a vegetable stir-fry. Select the name, ingredients, quantities, and preparation method.\n\nRecipe Name: Colorful Vegetable Stir-Fry\n\nIngredients:\n\n* 1 bell pepper, sliced\n* 1 medium onion, chopped\n* 2 carrots, peeled and sliced\n* 1 medium zucchini, sliced\n* 1 head of broccoli, cut into florets\n* 1 cup of"
+  },
+  {
+    "Prompt": "Find the definition of the phrase \"machine learning\"",
+    "Completion": "Find the definition of the phrase \"machine learning\" at webopedia>. Simply, machine learning is a type of artificial intelligence (AI) that provides computers the ability to learn without being explicitly programmed.\n\nMachine learning focuses on the development of computer programs that can access data and use it to learn for themselves. The process of learning begins with observations and examples, such as data, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. The primary aim"
+  },
+  {
+    "Prompt": "Generate a set of instructions for making a sandwich",
+    "Completion": "Generate a set of instructions for making a sandwich. Ensure the instructions are detailed enough for a first-grader.\n\n1. Gather all the ingredients you will need for your sandwich.\n   - Two slices of bread\n   - Butter or margarine\n   - Peanut butter (if you like)\n   - Jelly or jam (if you like)\n   - Lettuce (if you like)\n   - Tomato (if you like)\n   \n2. Wash your hands"
+  },
+  {
+    "Prompt": "Name two characteristics of a robot",
+    "Completion": "Name two characteristics of a robot.\nAutonomous and responsive.\n\nName three robotics researchers at Carnegie Mellon University cited in a news article.\nMatt Mason, Siddarth Srinivasa and Priya Narasimhan.\n\nName at least three fields that overlap with robotics.\nComputer science, electrical engineering, mechanical engineering.\n\nWhat is the definition of a wobbly robot?\nThe term wobbly robot is not cited in a news"
+  },
+  {
+    "Prompt": "Generate a list of 5 things everyone should know about history",
+    "Completion": "Generate a list of 5 things everyone should know about history \u2013 from your perspective as a historian.\n\n1. History is not an absolute truth, but rather an interpretation that has evolved over time. Historians have different perspectives and methodologies that shape the stories they tell.\n2. History is about people, their actions and decisions, and the impact of those choices. It\u2019s important to understand the individual and collective experiences that have contributed to the world we know today.\n3. Understanding history can help us better understand current events and"
+  },
+  {
+    "Prompt": "Assign the following percentage grades: 90%, 80%, 75%",
+    "Completion": "Assign the following percentage grades: 90%, 80%, 75% and 70% on the 5-point grading scale.\n\nA+\n\n90\u2013100\n\nA (Excellent)\n\n80\u201389\n\nB (Good)\n\n75\u201379\n\nC (Satisfactory)\n\n70\u201374"
+  },
+  {
+    "Prompt": "Explain the benefits of using technology in the classroom",
+    "Completion": "Explain the benefits of using technology in the classroom. Many educators (teachers, professors, education administrators, etc.) are recognizing the important role technology plays in the classroom, and here\u2019s why:\n\n1. Technology increases student engagement. With technology in the classroom, teachers can capture students\u2019 attention and present academic information in a more interesting way than traditional methods.\n\n2. Technology allows for personalized learning. Technology allows each student to learn in their own unique way. Students can work at their own pace,"
+  },
+  {
+    "Prompt": "What is the safest online behavior for children?",
+    "Completion": "What is the safest online behavior for children? The answer to this question is not simply about making good choices or having eyes in the back of parents' heads. It's more about kids understanding how to protect themselves, and, how to behave wisely online.\n\nChildren need to learn about private information, security, personal image and content that they should and shouldn't share online -- and why. But, many children are not yet capable of fully understanding privacy issues or safety risks.\n\nSafety for our children has always"
+  },
+  {
+    "Prompt": "Generate a recipe for gumbo",
+    "Completion": "Generate a recipe for gumbo using the word strengths in the ingredients list.\n\nSt bold ingredients list:\n\n2 strength celery stalks, diced\n\n1 strong onion, diced\n\n1 strong green bell pepper, diced\n\n3 cloves strong garlic, minced\n\n1 lb strongAndouille sausage, sliced\n\n1 lb strongshrimp, peeled and deveined\n\n2 tbsp strongorange zest\n\n1 strongbay"
+  },
+  {
+    "Prompt": "How many times can the letter \"a\" appear in the English alphabet?",
+    "Completion": "How many times can the letter \"a\" appear in the English alphabet?\n\nOnce\nI don't see the letter \"a\" mentioned anywhere. Most of the time I just see \"alphabet.\"\n\nI'm misinterpreting this question entirely. How many times do I see the word \"alphabet\" written here? Disregard the first answer.\n\nPerhaps someone else can misinterpret the question in their own way.\n\nFour\nI see four apostrophe's throughout this post. Count the letter \""
+  },
+  {
+    "Prompt": "How old is the Statue of Liberty?",
+    "Completion": "How old is the Statue of Liberty? The Statue of Liberty was dedicated on October 28, 1886, when President Grover Cleveland pressed a button in Washington, D.C., that triggered the ignition of a torch held aloft by a flame. The statue, erected at Liberty Island in New York Harbor, has since become one of the most iconic symbols of the United States.\n\nThe idea for the Statue of Liberty originated with Edouard de Laboulaye, a French"
+  },
+  {
+    "Prompt": "Come up with a list of ten adjectives that describe your grandmother.",
+    "Completion": "Come up with a list of ten adjectives that describe your grandmother. I asked my friend DeAnne what words would she use to describe her own special grandmother\u2026 who, by the way turned 100 years old in October. While I listened, DeAnne\u2019s words distracted me a bit as a taking notes, I became mesmerized by what she was telling me. She said her grandmother represented\u2026 \u201cLove, Kindness, Laughter, She was a lady, elegant, determined, fun, resilient, selfless, smart"
+  },
+  {
+    "Prompt": "Create a design for a new t-shirt.",
+    "Completion": "Create a design for a new t-shirt.\n\nCreate a collection for a streetwear brand focused on technology and social media use.\n\nCreate the look for an e-commerce store for shoe brand Aquatalia.\n\nCreate layouts for a recipe website.\n\nDesign the interior for a furniture and design shop in New York City.\n\nCreate a color palette, typography, and layout system for the Whole Foods Market brand.\n\nCreate artwork to be used at a New York\u2013based streetwear"
+  },
+  {
+    "Prompt": "Write a letter to the editor of a local newspaper expressing your opinion on a current issue.",
+    "Completion": "Write a letter to the editor of a local newspaper expressing your opinion on a current issue. In your letter, be sure to\n\n- Clearly state your opinion\n- Explain your reasoning\n- Suggest a solution to the problem or issue\n\n[Your Name]\n[Your Address]\n[City, State, Zip Code]\n[Email Address]\n[Today\u2019s Date]\n\n[Editor\u2019s Name]\n[Newspaper Name]\n[Newspaper Address]\n[City, State, Zip Code]\n\nD"
+  },
+  {
+    "Prompt": "Design a poster to advertise a product.",
+    "Completion": "Design a poster to advertise a product. This product can be anything you like - a familiar object, an imagined invention or an existing product. This can be created by hand or with computer software, depending on what you are most comfortable using.\nThe creation of this poster involved me first to think of an idea of what product I wanted to make a poster for. I decided to choose my recent created product i did for my product design, it\u2019s called the Eclipse Watch. So I already had illustrator\u2019s papers ready to"
+  },
+  {
+    "Prompt": "Find the derivative of x2.",
+    "Completion": "Find the derivative of x2.\n\nAnswer & Explanation\n\nThe derivative is 2x.\n\nWe use the power rule of differentiation for this: if dy/dx =nx^(n-1), then the derivative of x^2 is (2)(1)x^(2-1) = 2x."
+  },
+  {
+    "Prompt": "Classify the type of point (maximum, minimum, or none) at the critical point of the differential equation y=3x^3 + 10x^2 + 5.",
+    "Completion": "Classify the type of point (maximum, minimum, or none) at the critical point of the differential equation y=3x^3 + 10x^2 + 5.\nLet's find the critical points by solving d/dx (y) = 0 for x.\nd/dx (y) = d/dx (3x^3 + 10x^2 + 5).\nUsing the power rule, we have \nd/dx (3x^3) = 3 * (d/dx (x^3)) = 3 * 3x^2 = 9x^2,\nd/"
+  },
+  {
+    "Prompt": "Create a function to check if a given year is a leap year.",
+    "Completion": "Create a function to check if a given year is a leap year.\nA leap year is exactly divisible by 4 except for century years (years ending with 00). The century year is a leap year only if it is perfectly divisible by 400.\n\nSo check the given year and return true if it's a leap year and false if not.\n\nfunction isLeapYear(year) {\n    if (year % 4 === 0 && year % 100 !== 0) {"
+  },
+  {
+    "Prompt": "Convert 100 grams to pounds.",
+    "Completion": "Convert 100 grams to pounds.\n\nHere's the formula required:\n\nWeight in pounds = Weight in grams * 0.00220462\n\nLet's convert 100 grams to pounds using this formula:\n\nWeight in pounds = 100 * 0.00220462 = 0.22 pounds\n\nSo, 100 grams equals 0.22 pounds. If you're"
+  },
+  {
+    "Prompt": "What is the average rainfall in California in the month of June?",
+    "Completion": "What is the average rainfall in California in the month of June?\n\nCalifornia's average rainfall in June is around 0.15 inches, but it varies by region. Coastal areas typically receive more rainfall than inland and desert regions. Keep in mind that these are historical averages and actual rainfall can vary from year to year. It's always a good idea to check with local weather forecasts to get a more accurate idea of the rainfall for a specific period."
+  },
+  {
+    "Prompt": "Determine the absolute value of -6.",
+    "Completion": "Determine the absolute value of -6.\n\nTo find the absolute value of a number, we take the positive value of the number regardless of its sign.\n\nSo, the absolute value of -6 is |-6| = 6.\n\nAnswer: The absolute value of -6 is 6."
+  },
+  {
+    "Prompt": "Give an example of a company that gives back to the community.",
+    "Completion": "Give an example of a company that gives back to the community.\n\nHere's an example:\n\nTOMS Shoes is a company that is well-known for its commitment to giving back to the community. For every pair of shoes that the company sells, it donates a pair of shoes to a child in need. To date, TOMS has donated over 60 million pairs of shoes to children in over 70 countries.\n\nIn addition to its shoe donation program, TOMS also has a number of other"
+  },
+  {
+    "Prompt": "Make up a sentence using the following words:  vegetable, powerful, unable",
+    "Completion": "Make up a sentence using the following words:  vegetable, powerful, unable, recommended, country, king, musician,\n\nThe powerful country king was unable to perform in concert because he choked on a raw carrot; his personal physician recommended a vegetable-free diet and a tour was postponed indefinitely.  The disappointed musician's fans in the US were devastated since tickets had been sold out for months!  The long-haired rock star felt his career was over at last.\nnb:  I had to make the sentence"
+  },
+  {
+    "Prompt": "Name an animal that is commonly kept as a pet.",
+    "Completion": "Name an animal that is commonly kept as a pet. Many people would probably say a cat or a dog, which are certainly two well-loved household pets. But surprisingly, there are actually scores of animals that are (or have been) raised as pets, including some you may have never expected. Here are just 10 examples of animals that are sometimes kept as pets\u2014but probably not by you:\n\n## Capybara\n\nCapybaras are rodents\u2014the largest rodents in the world, in fact. Grow"
+  },
+  {
+    "Prompt": "Describe the sky in three words.",
+    "Completion": "Describe the sky in three words.\n\nFilled with stars.\n\nEach night I begged \u2013\n\nDon\u2019t fall asleep, don\u2019t close your eyes,\n\nPlease, just a couple more moments,\n\nFilled with stars.\n\nEach night I begged \u2013\n\nDon\u2019t fall asleep, don\u2019t close your eyes,\n\nPlease, just a couple more moments,\n\nWhile outside, couples walked under,\n\nFilled with stars.\n\nEach night"
+  },
+  {
+    "Prompt": "Give an example of a phrase that includes the word \"gargantuan\".",
+    "Completion": "Give an example of a phrase that includes the word \"gargantuan\".\n\nThe gargantuan size of the whale impressed us all as it surfaced alongside our tiny boat."
+  },
+  {
+    "Prompt": "Create a metaphor that compares the speed of light to something else.",
+    "Completion": "Create a metaphor that compares the speed of light to something else.\n\nThe speed of light is like a cosmic cheetah, racing through the universe with unmatched swiftness, leaving even the swiftest stars in its dust.\n\nIt's like a express train that never stops, hurtling through the vacuum of space at a mind-boggling speed, never slowing down or taking a break.\n\nThe speed of light is like a river that flows at an impossible pace, carrying along everything in its path as it races"
+  },
+  {
+    "Prompt": "Write a story about a talking dog.",
+    "Completion": "Write a story about a talking dog.\n\nBarkley the toy poodle was not your average dog. Sure, he played fetch, he snuggled, and he loved treats just like all the other dogs in the neighborhood, but that\u2019s where the similarities ended. You see, Barkley wasn\u2019t just any ordinary canine, he was a talking dog.\n\nIt had all started on a Thursday afternoon when Barkley\u2019s owner, Emily, was making lunch in the kitchen. All of a"
+  },
+  {
+    "Prompt": "Find the next 3 terms in the following sequence: 4, 6, 9, 12",
+    "Completion": "Find the next 3 terms in the following sequence: 4, 6, 9, 12, ...\nAnswer: 15, 18, 21\n\nExplantation:\nIn this arithmetic sequence, each term increases by a constant difference of 2. The first term is 4, and the third term is 9. The fifth term is 14. The next three terms in the sequence are 15, 18, and 21."
+  },
+  {
+    "Prompt": "Provide two of the most common uses for a hammer.",
+    "Completion": "Provide two of the most common uses for a hammer.\n\nThe most common uses for a hammer are driving nails into materials, such as wood, and pulling nails out.\n\nProvide two of the most common uses for a hand saw.\n\nThe uses for a hand saw are cutting materials such as wood and plastic, and it can also be used for carving.\n\nProvide two of the most common uses for a screw driver.\n\nTwo common uses for a screwdriver are to turn screws in with a Phillips screw"
+  },
+  {
+    "Prompt": "Generate a travel route from London to Moscow.",
+    "Completion": "Generate a travel route from London to Moscow. You can choose which cities to visit along the way as well. One possible route:\n\n1. London, England\n2. Brussels, Belgium\n3. Amsterdam, Netherlands\n4. Berlin, Germany\n5. Warsaw, Poland\n6. Minsk, Belarus\n7. Moscow, Russia\n\nThis route goes through six countries and includes a mix of major European capitals and lesser-visited cities. It also spans a variety of cultures and"
+  },
+  {
+    "Prompt": "Construct a triangle using the following lengths: 12 cm, 12 cm and 16 cm.",
+    "Completion": "Construct a triangle using the following lengths: 12 cm, 12 cm and 16 cm. Use the Ruler Postulate to justify that this is a triangle. Then use the Same Angle Conclusion to explain why the other order for the measures would have also worked. Solve for the measure of angle A.\n\n### Guidance\n\nIn Part 1, you proved that if $a \\ne b$ , $\\angle A \\cong \\angle B$ , and ray $\\overrightarrow{AC}$ are given, then there is a unique point, $C$"
+  },
+  {
+    "Prompt": "Provide an example of a slant rhyme from a poem.",
+    "Completion": "Provide an example of a slant rhyme from a poem.\n\nSlant rhyme is also known as half rhyme, near rhyme, oblique rhyme, off rhyme, and sprung rhyme, and it is a form of rhyme in which the words share a similar but not identical sound. For instance, words that rhyme because of their assonance (similar vowel sounds) but have different ending consonants could be considered slant rhymes. To provide an example of a slant rhyme"
+  },
+  {
+    "Prompt": "Find the midpoints of a line segment joining the points (3, 4) and (11, 10).",
+    "Completion": "Find the midpoints of a line segment joining the points (3, 4) and (11, 10).\n\nA line segment is formed by joining two points on the graph. The midpoint of this line segment is the halfway point. It splits the line segment into two equal halves.\n\nThere are two ways to find the midpoint of a line segment:\n1. Use the midpoint formula: (x\u2081 + x\u2082/2, y\u2081 + y\u2082/2)\n2. Plot the points, draw the line, count the spaces, and divide the count"
+  },
+  {
+    "Prompt": "Elaborate on the principle of the lever using appropriate physics terminology.",
+    "Completion": "Elaborate on the principle of the lever using appropriate physics terminology.\n\nThe principle of the lever is governed by Newton's second law, which states that the force applied to an object is equal to the mass of the object multiplied by its acceleration (F=ma). In the case of a lever, a force (F1) is applied at one point on the lever, causing a force (F2) to be exerted at another point on the lever. The ratio of the forces is equal to the ratio of the distances from the"
+  },
+  {
+    "Prompt": "Give me the capital of Japan.",
+    "Completion": "Give me the capital of Japan.\n\nTokyo is the capital of Japan. It is the largest city in Japan and the most populous metropolitan area in the world. Tokyo is a major commercial, cultural and political centre of Japan and is home to many financial institutions and huge companies. It is one of the world's leading cities in technology, business, entertainment, fashion, education, culture, tourism and sport. Tokyo has been a member of the Organisation of World Heritage Cities since 2011"
+  },
+  {
+    "Prompt": "Tell me something interesting about pandas.",
+    "Completion": "Tell me something interesting about pandas.\n\nPandas are native to south central China. The panda's black-and-white fur is similar to the yin and yang symbol, which represents balance and harmony in Chinese. Pandas have been the symbol of the World Wildlife Fund since its foundation in 1961.\n\nGiant pandas have a special thumb-like appendage. They use it to help them grip and tear bamboo shoots, their main food source. Giant"
+  },
+  {
+    "Prompt": "How do you calculate the surface area of a cube?",
+    "Completion": "How do you calculate the surface area of a cube?\n\nsurface area of a cube= 6times (side length)^{2}\nTo find the surface area of a cube, you cuadr your side length and multiply the result times 6.\n\nWhat is the surface area of a cube?\n\nA cube has 6 square faces, and every square face has the same side length. So, you can find the surface area of a cube by calculating the area of one face and multiply"
+  },
+  {
+    "Prompt": "Name five common methods of data analysis.",
+    "Completion": "Name five common methods of data analysis.\n\nFive common methods of data analysis are descriptive analysis, inferential analysis, predictive analysis, text analysis and statistical analysis.\n\nDescriptive analysis is used to describe and summarize data, often for the purpose of understanding the basic features of a data set. Inferential analysis is used to make predictions or draw conclusions about a population based on a sample of data from that population. Predictive analysis is used to identify patterns and trends in data and use them to"
+  },
+  {
+    "Prompt": "Generate a title for a blog post about productivity tips.",
+    "Completion": "Generate a title for a blog post about productivity tips.\n\nNote: The title must use the word \"Unleashing\" to indicate that we're revealing hidden or untapped productivity potential.\n\n\"Unleashing Your Full Productivity Potential: Top Tips and Tricks for a More Efficient Workday\""
+  },
+  {
+    "Prompt": "Write a story that includes the following words: vase, lighthouse, sparrow.",
+    "Completion": "Write a story that includes the following words: vase, lighthouse, sparrow.\n\n---\n\nThe rain fell as if the sky was suddenly out of breath, sniffling itself away. It was a bothered stormy day and it made Vivienne feel, somehow, at ease within her own cabin - an even better writing atmosphere she\u2019d say. As she stood at the window she saw a sparrow flying, he seemed out of place on such a stormy day like this. She smiled at the sight. Even the sparrows got their own g"
+  },
+  {
+    "Prompt": "Make a list of the following items: lamp, table, chair",
+    "Completion": "Make a list of the following items: lamp, table, chair, pen, desk, notebook, computer, phone, rug, waste basket, lighting fixtures, paintings, sculptures, office supplies, telephone, window, wall, door.\n\nThe list includes several categories of items found in an office: office furniture (lamp, table, chair, desk), office supplies (pen, notebook, wall, door), entertainment (phone, rug, lighting fixtures, paintings, sculptures), technology (computer, telephone), and lighting (lamp"
+  },
+  {
+    "Prompt": "Write a poem about the moon.",
+    "Completion": "Write a poem about the moon. What does it inspire in you or what does it remind you of? What voice does the moon have in your poem?\n\nMoonlight Sonata\n\nWhispers of solitude\nencode themselves in silver stripes,\nfractal patterns etching a path\nacross glistening water.\n\nThe moon casts its vast fishnet\nupon the slumbering earth\nwith a gentle one-two shuffle\nof tireless steps above.\n\n"
+  },
+  {
+    "Prompt": "Name 4 common types of trees.",
+    "Completion": "Name 4 common types of trees.\nOak,\nPine,\nMaple,\nBirch\n\nWhat are the two main classifications of days in regard to a calendar?\n\nWeekdays,\nWeekends\n\nWhat are the common measurements for length?\n\nMeters,\nCentimeters,\nMillimeters,\nKilometers,\nInches,\nFeet,\nYards,\nMiles\n\nWhat are the two broad categories of liquids?\n"
+  },
+  {
+    "Prompt": "Describe a happy memory.",
+    "Completion": "Describe a happy memory.\n\nIn response to: https://6thspace.com/forum/showthread.php?tid=50414\n\nOne of the happiest of all the memories of my early boyhood was that of the summer we spent in the old farm house on the river. Everything was different there from our life in the city, and, best of all, things that adults treated as duties and tasks had somehow become amusements and adventures for me.\n\nThe"
+  },
+  {
+    "Prompt": "Generate a list of five tips to save money on groceries.",
+    "Completion": "Generate a list of five tips to save money on groceries.\n\n1. Make a shopping list and stick to it to avoid impulse purchases.\n2. Use coupons and take advantage of sales and discounts.\n3. Buy in bulk and freeze perishable items to avoid waste.\n4. Shop at discount grocery stores or consider ordering online to save on transportation costs.\n5. Cook meals from scratch instead of buying pre-packaged or take-out food."
+  },
+  {
+    "Prompt": "Describe a scenario where someone could be accused of plagiarism.",
+    "Completion": "Describe a scenario where someone could be accused of plagiarism.\n\nHere's a sample scenario, involving a student and a professor, that could result in an accusation of plagiarism:\n\nImagine a student named Sarah who is taking a college-level literature course. The professor assigns a research paper on a famous author's works and requires Sarah to use at least five sources in her paper.\n\nSarah starts by doing some research online and comes across a well-written and informative article about the author'"
+  },
+  {
+    "Prompt": "Gather key facts about the history of the Death Penalty in the United States.",
+    "Completion": "Gather key facts about the history of the Death Penalty in the United States. Then, make a decision on your beliefs about capital punishment.\n\nEvery year, Americans go to sleep knowing that the state has condemned someone to death. The death sentence is carried out by lethal injection, electrocution, poison gas, hanging, and firing squad. These are all considered legal forms of punishment in the U.S. in 2020. In fact, the U.S. is one of 55 countries worldwide that still administers the death penalty"
+  },
+  {
+    "Prompt": "Compare and contrast the views on the death penalty of conservatives and liberals.",
+    "Completion": "Compare and contrast the views on the death penalty of conservatives and liberals. Liberal support opposition liberal values of rehabilitation, as conservatives their conservatism, views of retribution, protection, and deterrence. Liberals view the death penalty more as a matter of personal rights, against it because of possibility of error or misconduct, but conservatives view it more as a public security issue, in favor of it because of high level of success rate in executions. Since conservatives are for it and place importance in law and order and protection, they view"
+  },
+  {
+    "Prompt": "Propose a solution to the issue of overcrowding prisons in the US.",
+    "Completion": "Propose a solution to the issue of overcrowding prisons in the US.\nOne potential solution to address the issue of overcrowding prisons in the US is to reform the criminal justice system by reducing the number of non-violent offenders that are incarcerated, particularly for drug-related offenses. This could be achieved through policies such as decriminalization or legalization of marijuana, expanding the use of drug courts that offer alternatives to incarceration for individuals with substance abuse issues, and increasing the availability of treatment programs for individuals with"
+  },
+  {
+    "Prompt": "Explain the process of natural selection.",
+    "Completion": "Explain the process of natural selection.\n\nNatural selection is a process involving four basic steps guided by nature that represents the shaping of biological populations and their evolution via mutation, reproduction, survival, competition for resources, and death. The three principles of natural selection state that each population has a finite amount of resources, members randomly vary their genes, and offspring inherit variations in traits. Largely through the work of Charles Darwin, the process of natural selection is broken down to include the following:\n\n1"
+  },
+  {
+    "Prompt": "Identify a way to reduce greenhouse gas emissions.",
+    "Completion": "Identify a way to reduce greenhouse gas emissions.\n\nOne way to reduce greenhouse gas emissions is to invest in and transition to clean, renewable energy sources such as solar, wind, geothermal, and hydroelectric power. Fossil fuels such as coal, oil, and natural gas produce a significant amount of greenhouse gases, including carbon dioxide and methane, when they are burned for electricity and heat. By transitioning to clean, renewable energy sources, we can significantly reduce the amount of green"
+  },
+  {
+    "Prompt": "Explain what a \"food desert\" is and why they are a problem.",
+    "Completion": "Explain what a \"food desert\" is and why they are a problem. A food desert is defined as urban neighborhoods and rural towns without ready access to fresh, healthy, and affordable food. The US Department of Agriculture (USDA) defines \u201clow access communities\u201d as census tracts where a substantial number of residents live more than one mile away from a supermarket, supercenter, or large grocery store (i.e., big-box retailer) in urban areas, or more than 10 miles in rural areas. This lack of access to nut"
+  },
+  {
+    "Prompt": "Describe the process for getting a loan for a home purchase.",
+    "Completion": "Describe the process for getting a loan for a home purchase.\nThe process for getting a loan for a home purchase typically begins with pre-qualification, which involves providing a lender with your financial information, including your income, debts, and assets. The lender will then provide you with an estimate of how much you can afford to borrow.\n\nNext, you will need to find a home that meets your needs and is within your budget. Once you have found a home, you will make an offer and negotiate the purchase price. If"
+  },
+  {
+    "Prompt": "Design a system to mitigate the effects of climate change.",
+    "Completion": "Design a system to mitigate the effects of climate change.\n\nA system to mitigate the effects of climate change should tackle the following areas:\n\n1. Reduce greenhouse gas emissions:\n- Implement renewable energy sources such as wind, solar, and hydro power to replace fossil fuels.\n- Promote energy efficiency in buildings, transportation, and industrial processes.\n- Encourage the use of electric vehicles and public transportation to reduce emissions from transportation.\n- Implement carbon pricing mechanisms to incentivize businesses and individuals to"
+  },
+  {
+    "Prompt": "Develop a plan for how to de-escalate a dispute between two people.",
+    "Completion": "Develop a plan for how to de-escalate a dispute between two people. Consider the behaviors and interventions you would adopt at each level of escalation from a low to a potentially violent level.\n\nDe-escalation is a critical skill in conflict resolution, particularly when the situation has the potential to become violent. The overarching goal of de-escalation is to reduce tension and hostility, promote understanding, and facilitate a peaceful resolution. Below is a step-by-step plan for de-escalating a dispute between two people at each"
+  },
+  {
+    "Prompt": "Describe the immigration process to the US.",
+    "Completion": "Describe the immigration process to the US.\n\n1. The first step in the U.S. immigration process is to determine which immigration category best fits your situation. Common categories include family-based immigration, employment-based immigration, refugee or asylee status, and diversity visa lottery.\n\n2. Next, you will need to file an immigrant petition with the United States Citizenship and Immigration Services (USCIS). This petition may be filed by a family member, employer, or in some"
+  },
+  {
+    "Prompt": "Design a safety plan for schools in the event of an armed intruder.",
+    "Completion": "Design a safety plan for schools in the event of an armed intruder.\n\nThis safety plan should include elements such as lockdown procedures, communication methods, evacuation routes, and training for staff and students. It is important to consider the unique needs and resources of each school when designing this plan.\n\n1. Lockdown procedures: In the event of an armed intruder, it is crucial to have a clear and concise lockdown procedure in place. This should include instructions for quickly securing doors and windows, turning off lights, and moving to a"
+  },
+  {
+    "Prompt": "Describe a time when you received excellent customer service.",
+    "Completion": "Describe a time when you received excellent customer service.\n\nYou should say:\n\n- when it was\n- what the situation was\n- who provided the service\n\nand explain why you think the customer service was excellent.\n\n[You will have to talk about the topic for one to two minutes. You have one minute to think about what you\u2019re going to say. You can make some notes to help you if you wish.]\n\nSample Answer:\nAround two months ago, I was at a coffee shop with"
+  },
+  {
+    "Prompt": "Summarize your last week.",
+    "Completion": "Summarize your last week.\n\nIn the last week, I finally got a hold of a copy of a book to start doing some reading! The book is \"Get Better\" by Todd Herman. It is fantastic and it is my second time reading through it. I have started implementing the concepts from the book into my life and it feels great to work on me first.\n\nWhat positive habits did you develop?\n\nI have stepped up my water intake big time in the last week. I am drinking"
+  },
+  {
+    "Prompt": "What questions should be asked to evaluate a customer service representative?",
+    "Completion": "What questions should be asked to evaluate a customer service representative?\n\n1. Can you share an example of how you have turned a dissatisfied customer into a satisfied one?\n2. What methods do you use to manage multiple customer inquiries at once?\n3. How do you handle difficult customers or situations?\n4. Can you describe a time when you went above and beyond to provide excellent customer service?\n5. How do you stay up-to-date on our products and services to ensure you can accurately answer customer questions?"
+  },
+  {
+    "Prompt": "Think of a solution to reduce water consumption.",
+    "Completion": "Think of a solution to reduce water consumption.\n\nYou can save water by fixing leaky taps and faucets. It\u2019s a simple but effective solution that can save a significant amount of water over time. You can also install water-saving devices like low-flow showerheads and dual-flush toilets. Try to be mindful of your water usage throughout the day, and turn off the tap when you\u2019re not actively using it, such as when brushing your teeth or washing dishes. Additionally, you can"
+  },
+  {
+    "Prompt": "What strategies can be used to conserve energy in the home?",
+    "Completion": "What strategies can be used to conserve energy in the home?\n\n##### Solution\n\nThere are several strategies that can be used to conserve energy in the home:\n\n1. Insulation: Properly insulating your home can help to keep it warm in the winter and cool in the summer, reducing the need for heating and cooling.\n2. Sealing air leaks: Sealing air leaks around windows, doors, and other openings can help to keep conditioned air inside your home, reducing the amount of energy needed"
+  },
+  {
+    "Prompt": "Explain why a goal setting plan is important.",
+    "Completion": "Explain why a goal setting plan is important. Why does it work?\n\nA goal setting plan is important because it helps you accomplish your objectives in different areas of your life. These goals can be related to personal growth, business efficiency, or professional development. There are, however, different thoughts on how goal setting works. According to an article I read on Forbes by James Clear, a behavioral psychologist, goals can help you focus on what you want and allow you to measure if you finally achieved them or not. Once your goals"
+  },
+  {
+    "Prompt": "What is the purpose of a business plan?",
+    "Completion": "What is the purpose of a business plan?\n\nThe purpose of a business plan is to define the strategies and tactics that will be employed to ensure a business is successful and competitive, and gives a detailed account of every area of the business including management, marketing, finance, operations, and research and development.\n\nThe process of developing a business plan allows the owner(s) to think through every aspect of their business and helps assess its viability. It also provides a reference document to measure achievements against predetermined goals, as"
+  },
+  {
+    "Prompt": "Describe the content of the novel \"The Great Gatsby\".",
+    "Completion": "Describe the content of the novel \"The Great Gatsby\".\n\nThe Great Gatsby by F. Scott Fitzgerald is a novel set in the 1920s on Long Island, New York. The story is narrated by Nick Carraway, a Yale graduate and World War I veteran who moves to Long Island to work in the bond business. He lives in the West Egg district, which is populated by the newly rich. Across the bay in the more fashionable East Egg district live the more established wealthy"
+  },
+  {
+    "Prompt": "Sources predict that the stock price for Company A will either stay the same or go up for the next 10 trading days. Pick a strategy for if the price will go up or stay the same.",
+    "Completion": "Sources predict that the stock price for Company A will either stay the same or go up for the next 10 trading days. Pick a strategy for if the price will go up or stay the same. Write not more than one single-spaced page, using 12-point font, for your strategy regarding your choice, whether up or stay.\n\nStrategy if price stays the same\n\nThe share price of company A over the last one month and a half has been trending relatively sideways, trading within a narrow range of $115 \u2013 $125; the median stock price of $120 is the stock\u2019s 50-day moving average"
+  },
+  {
+    "Prompt": "Discuss two key features of the painting \u201cThe Starry Night\u201d by Vincent Van Gogh.",
+    "Completion": "Discuss two key features of the painting \u201cThe Starry Night\u201d by Vincent Van Gogh.\n\nTitle: The Starry Night\nArtist: Vincent Van Gogh\nYear: 1889\nType: Oil on canvas\nSize: 29 x 36.5 inches\nLocation: Museum of Modern Art, New York City, USA\n\nTwo statements about The Starry Night by Vincent Van Gogh\n\n1. The adjoining village, valued for its rural scenery and centenarian church, is adorned with"
+  },
+  {
+    "Prompt": "Design a program that simulates an animal's habitat.",
+    "Completion": "Design a program that simulates an animal's habitat. Touch Touch Touch\nThe program should present a user interface that looks like an animal habitat. Use pseudocode to present your design, and replace descriptive words with appropriate domain-specific language when possible.\n\nAnimals roam around the habitat, but certain animals do not roam into other animals' territories. Each animal has a custom behavior\u2014dogs wag their tails, lions roar, etc. Certain animals will eat other animals; ensuring the consumption is added"
+  },
+  {
+    "Prompt": "Name five qualities of an efficient manager.",
+    "Completion": "Name five qualities of an efficient manager.\n\n1. Communication Skills: Managers must be able to articulate effectively in both written and verbal forms. They should be able to clearly communicate objectives, goals, assignments, expectations, and feedback with their team members.\n\n2. Leadership: Managers should possess strong leadership qualities and inspire confidence and motivation among their team members.\n\n3. Decision-Making Skills: Managers are often required to make critical decisions and must be able to weigh the"
+  },
+  {
+    "Prompt": "Design a UI interface for a grocery store checkout system.",
+    "Completion": "Design a UI interface for a grocery store checkout system. This is an iPad based system that helps customer\u2019s check out their groceries by showing products\nas a list and QR code scanner. This system will have three main views: product list, QR code scanner, and profile.\n\n1. Products List\n   This view allows users to view items they\u2019ve already scanned and\n   add those items to their cart. The user should be able to\n   search for an item using the search bar, and"
+  },
+  {
+    "Prompt": "Design a logo for a new coffee shop.",
+    "Completion": "Design a logo for a new coffee shop. Come up with a clever name that plays off the idea of a \u201cnerd\u201d or geek culture (eg: Nerd Bean) and use that to inspire your logo.\n\nWrite down three names for your new coffee shop:\n\n1. Nerd Imbibition\n2. Caffeine Junkie\n3. Geek Beans\n\nSketch out a rough draft of your logo concept:\n\nFor the logo concept, I would use the name"
+  },
+  {
+    "Prompt": "List three possible methods for improving a website's search engine optimization.",
+    "Completion": "List three possible methods for improving a website's search engine optimization.\n\n1. Use descriptive keywords in the title tags and meta descriptions of web pages.\n2. Create high-quality, original content that is relevant to your target audience.\n3. Earn inbound links from other reputable websites to your site.\n\nHow do search engines determine the relevance of a web page to a search query?\n\nSearch engines use complex algorithms to analyze various factors such as the presence of relevant keywords, the structure of the website, and"
+  },
+  {
+    "Prompt": "List three Best Practices for collecting user data.",
+    "Completion": "List three Best Practices for collecting user data.\n\n*\tUse a clear and easy-to-understand privacy policy that explains what data is being collected, how it will be used, and with whom it will be shared.\n\n*\tOnly collect the minimum amount of data necessary to achieve your specific purpose.\n\n*\tRegularly review and delete any data that is no longer necessary for the intended purpose."
+  },
+  {
+    "Prompt": "Suggest a tagline for a product that sells eco-friendly reusable bags.",
+    "Completion": "Suggest a tagline for a product that sells eco-friendly reusable bags.\n\n\"Sustainable Style for Your Everyday\" \n\n\"Reduce, Reuse, Refashion\"\n\n\"Make Every Bag Count: Go Green with Reusable Bags\"\n\n\"Reusable Bags: A Small Change, A Big Impact\"\n\n\"Invest in the Future: Switch to Reusable Bags\"\n\n\"Elevate Your Eco-Friendly Game with Reusable Bags\"\n\n\"Do"
+  },
+  {
+    "Prompt": "Generate a list of 10 marketing tips for a new e-commerce store.",
+    "Completion": "Generate a list of 10 marketing tips for a new e-commerce store.\n\n1. Understand your target audience: Before launching your e-commerce store, it's important to understand the needs and interests of your target audience. Research their demographics, preferences, and pain points to tailor your marketing strategies accordingly.\n2. Optimize your website for conversions: A well-designed website can help increase sales and improve user experience. Optimize your website for mobile devices, use clear calls-to-action, and provide detailed product descriptions"
+  },
+  {
+    "Prompt": "Write a synopsis of a movie about a talking dog who saves the world.",
+    "Completion": "Write a synopsis of a movie about a talking dog who saves the world. One day a young boy named Timothy hears a voice in his head that sounds an awful lot like a dog. After investigating, Timothy finds a talking dog named Rex who has extraordinary intelligence and abilities. Timothy learns that Rex is a genetically modified dog who was created by a secret government organization. Timothy and Rex become fast friends and quickly realize that they must work together to stop a global catastrophe. It turns out that the secret government organization"
+  },
+  {
+    "Prompt": "Generate an outline for a 10-minute speech about a futuristic city.",
+    "Completion": "Generate an outline for a 10-minute speech about a futuristic city.\n\nI. Introduction\n   A. Hook: Imagine a city where the streets are clean, the air is pure, and everything runs smoothly and efficiently.\n   B. Introduce the topic: In this speech, I will be discussing a futuristic city and what it might look like.\n   C. Thesis statement: This city of the future will be a utopia, made possible by advanced technology and sustainable practices.\n\nII. Transportation\n   A"
+  },
+  {
+    "Prompt": "What do you think is the biggest challenge facing the hospitality industry right now?",
+    "Completion": "What do you think is the biggest challenge facing the hospitality industry right now?\n\nStaffing! There is a severe labor shortage currently facing our industry due to many reasons including immigration policies, the American workforce\u2019s desire for a work-life balance, and the need for a living wage. We need new strategies that foster partnerships with local schools, promote skills training and redefine full-time work for a new generation of workers.\n\nWhat role do you think hotels can play in helping with their communities\u2019 environmental and social sustainability efforts?\n"
+  },
+  {
+    "Prompt": "Title a creative blog post about the power of storytelling.",
+    "Completion": "Title a creative blog post about the power of storytelling.\n\nOnce upon a time, there was a magical thing called storytelling. It had the power to transport us to different worlds, to make us feel emotions we never knew existed, and to teach us lessons that would stay with us forever. From the moment we were born, stories were a part of our lives, and they shaped us into the people we are today.\n\nThe power of storytelling lies in its ability to connect us with one another. When we hear a story"
+  },
+  {
+    "Prompt": "Give an example of a use case for using a GPT language model.",
+    "Completion": "Give an example of a use case for using a GPT language model.\n\nOne example of a use case for using a GPT language model is automated customer service chatbots. These chatbots can understand and respond to customer inquiries in a natural and conversational manner, providing a more personalized and efficient customer service experience.\n\nAnother use case is content generation, such as generating product descriptions, social media posts, or even entire articles. The GPT model can be trained on specific context or style to generate high quality content that is consistent"
+  },
+  {
+    "Prompt": "Provide a way to classify tweets according to the sentiment.",
+    "Completion": "Provide a way to classify tweets according to the sentiment.\n\nThe sentiment of a tweet primarily depends on the text and words used. This text can be classified according to the wording:\n\n- Positive words or negative words\n- Positive emotion or negative emotion\n\nIn order to classify tweets for the sentiment, Quid analysis is used to cluster a number of representative tweets and determine their sentiment. This clustered group is used as representative of the greater data mass and used for the classification.\n\n### Class"
+  },
+  {
+    "Prompt": "Create a list of five topics to discuss at a meeting about customer service.",
+    "Completion": "Create a list of five topics to discuss at a meeting about customer service.\n\n1. Improving communication skills: Discuss the importance of clear and effective communication in providing excellent customer service. Share tips and strategies for active listening, asking open-ended questions, and expressing empathy.\n2. Managing customer expectations: Explore ways to set realistic expectations for customers, and how to handle situations where those expectations are not met. Discuss the role of clear and concise communication in setting expectations, as well as the importance of managing customer perceptions.\n"
+  }
+]

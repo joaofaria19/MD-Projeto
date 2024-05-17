@@ -1,0 +1,402 @@
+[
+  {
+    "Prompt": "What is the gravitational potential energy of a 5-kilogram object at height 10 meters?",
+    "Completion": "What is the gravitational potential energy of a 5-kilogram object at height 10 meters? The acceleration due to gravity is 9.8 meters per square second.\n\nTo find the gravitational potential energy (GPE) of an object, you can use the formula:\n\nGPE = mass \u00d7 acceleration due to gravity \u00d7 height\n\nGPE = 5 kg \u00d7 9.8 m/s^2 \u00d7 10 m\nGPE = 5 \u00d7 9.8 \u00d7 10\nGPE = 490 J"
+  },
+  {
+    "Prompt": "Compare and contrast water and oil.",
+    "Completion": "Compare and contrast water and oil.\n\nWater and oil are two common substances that have different properties and behavior due to their molecular structure and bonding. Here, I will compare and contrast water and oil based on their molecular structure, chemical properties, physical properties, and applications.\n\nMolecular Structure:\nWater (H2O) is a polar molecule consisting of two hydrogen atoms bonded to one oxygen atom. The oxygen atom has a partial negative charge, and the hydrogen atoms have a partial"
+  },
+  {
+    "Prompt": "Create a logo for a shoe company.",
+    "Completion": "Create a logo for a shoe company.\n\nI am not the one knowing what I want exactly :/ I uploaded a folder of my photography where you can find inspiration from I guess?\nThe shoes are HANDMADE and my main target group is 16-35 years old!\n\nI am not expecting you to print /engineer these logos, only coloring would be cool if you happen to have some spare time playing on PlayStation. Haha.\n\nI might use them on my"
+  },
+  {
+    "Prompt": "Analyze the popularity of the term 'artificial intelligence' in the last five years",
+    "Completion": "Analyze the popularity of the term 'artificial intelligence' in the last five years by visualizing the comparison of Google search queries from 2015 to 2019.\n\n![AI Popularity](AI_Popularity.png)\n\nThis bar graph shows the comparative popularity of the term 'artificial intelligence' in Google search queries from 2015 to 2019. The y-axis represents the average monthly search volume, while the x-axis displays the year and month.\n\nObservations:\n"
+  },
+  {
+    "Prompt": "Generate a story about a child's first day of school",
+    "Completion": "Generate a story about a child's first day of school, where they get lost and team up with a new student who helps them find their classroom.\n\nIt was the first day of school for six-year-old Mia. She was nervously excited as she walked to the bus stop, holding her mother's hand. Her mother gave her a reassuring smile and said, \"Have a great first day, sweetie! Remember, if you get lost, just ask someone for help.\"\n\nMia nodded, took a deep"
+  },
+  {
+    "Prompt": "Suggest a way to make physical activity a part of your daily routine.",
+    "Completion": "Suggest a way to make physical activity a part of your daily routine. One way that physical activity can be fit into your daily routine is through active commuting. By cycling or walking to and from work, this automatically gives you thirty minutes of moderate physical activity twice a day. Alternatively, you can try and fit in exercise before or after your work day; setting up reminders or joining fitness classes can help you stick to this regular exercise schedule. Additionally, changing your environment can help make activity the norm, such as taking the stairs instead of the lift, or"
+  },
+  {
+    "Prompt": "Explain what is foreshadowing.",
+    "Completion": "Explain what is foreshadowing. When was it first used, and how has it changed since its first known use?\n\nForeshadowing is a way of hinting at or giving a clue about events that will happen in a narrative. It is a literary device that is used for many different purposes, including to build suspense, create tension, and develop the plot. Foreshadowing is often used to provide a sense of structure and unity to a narrative, as it helps to link together different events and create"
+  },
+  {
+    "Prompt": "Come up with 3 tips for writing effective dialogue.",
+    "Completion": "Come up with 3 tips for writing effective dialogue.\n\nDialogue is a tricky mistress. Done poorly, it can stop a reader dead in their tracks and cause them to abandon the book entirely. Done well, and the reader doesn't even realize it's there.\n\nBlending character voice with a clear, informative message can be walk a fine line, but if you follow these three tips, you should be able to breathe life into your dialogue.\n\n1. Ditch the Narrative Sum"
+  },
+  {
+    "Prompt": "Generate a headline for a news article about the rising cost of healthcare.",
+    "Completion": "Generate a headline for a news article about the rising cost of healthcare.\n\n\"Healthcare Costs Skyrocket, Leaving Patients Struggling to Afford Care\"\n\nWrite a lead paragraph for the same news article.\n\nIn the midst of a global pandemic, the cost of healthcare continues to rise at an alarming rate. According to a recent report from the Department of Health and Human Services, healthcare costs have increased by an average of 4.6% annually over the past decade. For many Americans, this increase has made it"
+  },
+  {
+    "Prompt": "Suggest an algorithm to classify musical composition as \u2018romantic\u2019 or \u2018modern\u2019.",
+    "Completion": "Suggest an algorithm to classify musical composition as \u2018romantic\u2019 or \u2018modern\u2019. It could be a very simple algorithm which is likely correct just a small fraction of the time. Here are a few guidelines that might help.\n\n- Classify the style of a single instrument using its pitch, volume, timbre, number of repeat notes and note duration.\n- Build several hundred training examples by providing a human-generated tag (romantic or modern) along with features extracted from audio files.\n- Perform dimensionality reduction on the features using PCA (Principal"
+  },
+  {
+    "Prompt": "Explain Schrodinger's wave equation.",
+    "Completion": "Explain Schrodinger's wave equation. Give an example.\n\nSchrodinger's wave equation is the fundamental equation describing quantum mechanics. It was developed by the Austrian physicist Erwin Schrodinger in 1926 and describes the time evolution of a particle's quantum state. It states that the wave function \u03a8, which is a mathematical function that describes the state of a quantum system, evolves according to the partial differential equation:\n\ni\u0127\u2202\u03a8/\u2202t = -"
+  },
+  {
+    "Prompt": "Construct a database system to store customer records in a car dealership.",
+    "Completion": "Construct a database system to store customer records in a car dealership. The database should include the following tables-\n\nCUSTOMER\n\nFields: CustomerID, FirstName, LastName-This is the number used to identify each customer, format XXXX.\nFields: Street, City, State, ZipCode-This would capture customers residential information.\nFields: Phone, Email-This would capture customers contact information.\n\nA customer can buy multiple CARS.\n\nCAR\n\nFields: CarID, Make, Model"
+  },
+  {
+    "Prompt": "Sort the following numbers in ascending order: 12, 26, 83, 19.",
+    "Completion": "Sort the following numbers in ascending order: 12, 26, 83, 19.\n19, 12, 26, 83\n\nSuppose we have 3 apples and2 pears in a basket and we want to give 2 fruits to a friend.\nThen we will have 1 apple and 2 pears left in the basket.\n\nThere are 6 green boxes and 2 red boxes on the table.\nWhat is the total amount of boxes on the table?\nThe total amount of boxes on the table"
+  },
+  {
+    "Prompt": "Generate a catchy slogan for a new restaurant.",
+    "Completion": "Generate a catchy slogan for a new restaurant.\n\n1. \"Feast on the Best!\"\n2. \"Savor the Flavor!\"\n3. \"Dine in Style!\"\n4. \"Taste the Difference!\"\n5. \"A Culinary Adventure Awaits!\"\n6. \"Experience Epicurean Excellence!\"\n7. \"Food for Thought... and Taste!\"\n8. \"A Palate-Pleasing Paradise!\"\n9. \"Satisf"
+  },
+  {
+    "Prompt": "Create a persona for a fictional e-commerce store selling sports equipment.",
+    "Completion": "Create a persona for a fictional e-commerce store selling sports equipment. Think about whom the target audience is for this store, what their needs are, what motivates and interests them, and what type of language they use. Using this information, imagine a typical day in this persona\u2019s life and write a short story about it.\n\nMeet Jake, a 25-year-old recent college graduate who has just started his first job as a software developer at a tech company. In his free time, Jake loves staying active and playing sports. He"
+  },
+  {
+    "Prompt": "Write a paragraph describing a meeting between two friends.",
+    "Completion": "Write a paragraph describing a meeting between two friends.\n\nTwo old friends, Maria and Lena, met for coffee on a sunny Saturday afternoon. The caf\u00e9 was bustling with the midday crowd, but the women managed to find a cozy corner table by the window. After ordering their drinks \u2013 Maria a latte and Lena a cappuccino \u2013 they eagerly caught up on each other's lives. Maria shared news of her recent promotion at work, while Lena talked about her new puppy and the challenges of"
+  },
+  {
+    "Prompt": "Formulate a marketing plan for a new mobile app.",
+    "Completion": "Formulate a marketing plan for a new mobile app.\n\nIntroduction:\nThe mobile app market is highly competitive, and to succeed, a well-crafted marketing plan is essential. In this plan, we will outline the steps to launch and promote a new mobile app called \"FitLife,\" a fitness tracking app designed to help users achieve their health and wellness goals.\n\nObjective:\nTo successfully launch FitLife and gain a significant market share within the first six months. Our target is to acquire 100,"
+  },
+  {
+    "Prompt": "Write a review for a book of your choice.",
+    "Completion": "Write a review for a book of your choice. (You are not required to purchase this title.)\n\nBe advised that I have received no monetary compensation or goods in kind for the following review. The book title I have chosen for review is:\n\nMental Toughness Conditioning for Golf\n\nAs you may have guessed, the book is primarily aimed at golfers, and has achieved a 4 1/2 star Amazon rating. A synopsis and free samples are available by visiting the \u2018Look Inside\u2019 facility on"
+  },
+  {
+    "Prompt": "Design a logo for a child care center.",
+    "Completion": "Design a logo for a child care center.\n\nTarget Audience: Parents; Grandparents; Guardians\n\nApproach: In this child care logo, we feature happy, playful children of various ethnic backgrounds. Each color signifies something fun and relevant to child care. Red-represents the heart-nurturing environment. Lavender color signifies the fun and calming learning atmosphere. Green color signifies growth and learning. Blue color signifies trust, safety, and communication.\n\nThe typface in"
+  },
+  {
+    "Prompt": "Create an outline for a presentation about the current state of the world economy.",
+    "Completion": "Create an outline for a presentation about the current state of the world economy.\n\nI. Introduction\n   A. Brief overview of the world economy\n   B. Importance of understanding the current state of the world economy\n\nII. Global Economic Trends\n   A. Growth rates of major economies\n   B. Trade patterns and policies\n   C. Impact of technology and automation on employment\n   D. Demographic changes and their effects on the economy\n\nIII. Major Economic Challenges\n   A. Income inequality"
+  },
+  {
+    "Prompt": "Make a suggestion for a topic for a persuasive essay.",
+    "Completion": "Make a suggestion for a topic for a persuasive essay.\n\nA warrant officer is a critical officer ranking above competently trained non-commissioned officers but well below commissioned officers in the Army and other military organizations. They are given the required responsibility of leading, organizing, and training staff. The jobs he does include supervising training documentation, evaluating individual and staff needs, ensuring equipment readiness, and enforcing Army policies and standards. To prospective officers and professionals in other sectors, I wish to persuade you to consider a"
+  },
+  {
+    "Prompt": "Explain why it is important to stay hydrated.",
+    "Completion": "Explain why it is important to stay hydrated.\n\nHydration is extremely important for good health. Water makes up about 60% of your body weight. It is in all of your cells, organs and tissues. It helps your body digest food, absorb nutrients, and then flush out toxins. Water is also necessary to make saliva and other bodily fluids.\n\nStaying hydrated keeps your body functioning at its best. When you don't have enough water it can"
+  },
+  {
+    "Prompt": "Additionally, give me a entertaining story about a conversation with a stranger on a bus.",
+    "Completion": "Additionally, give me a entertaining story about a conversation with a stranger on a bus.\n\nBy nature, I have always been an introvert who prefers the company of my books over humans. However, I had a strange but very interesting encounter with a stranger on a bus one day. It was a chilly winter morning and I was heading to work early in the morning.\n\nWhile waiting for the bus, I noticed an old man standing near me. He was wearing a worn-out suit and a long overcoat that looked like it had seen better days."
+  },
+  {
+    "Prompt": "Create a successful dentist marketing campaign.",
+    "Completion": "Create a successful dentist marketing campaign. Kim Kimbell is a digital marketing expert speaking directly to dentists on how they can market their office, getting more patients, improving the quality of patients, and building a more lucrative practice through social media. Listen to the full podcast \u2013 paid advertising, the use of social media influencers, and automating the tedious parts of your digital marketing campaigns along with the 2-step process Kimble recommends to every dentist who starts working with him.\n\n## A"
+  },
+  {
+    "Prompt": "If a customer calls and wants to find out their order status, what steps should the customer service representative take?",
+    "Completion": "If a customer calls and wants to find out their order status, what steps should the customer service representative take?\n\nTo find out a customer's order status, the customer service representative should first confirm the customer's identity by asking for their name, address, or order number. This will help ensure that the representative is providing information about the correct order.\n\nNext, the representative should look up the customer's order in the company's order management system using the information provided by the customer. This will allow the representative to see the current status of the order, such as whether it has"
+  },
+  {
+    "Prompt": "Describe the features of an effective time management strategy.",
+    "Completion": "Describe the features of an effective time management strategy.\n\nAn effective time management strategy has several key features. \n\nFirst, it involves setting clear goals and priorities. This means determining what tasks are most important and need to be accomplished first. By doing this, individuals can focus their efforts on the tasks that will have the greatest impact.\n\nSecond, an effective time management strategy involves breaking down larger tasks into smaller, manageable pieces. This can make the tasks seem less overwhelming and can help individuals stay focused and motivated.\n\nTh"
+  },
+  {
+    "Prompt": "Suggest some activities for a family game night.",
+    "Completion": "Suggest some activities for a family game night.\n\n1. Charades: This classic game never goes out of style and is fun for all ages. Make a list of different categories like movies, TV shows, books, or songs, and have each family member act out something from the list.\n2. Pictionary: Similar to charades, but with drawing instead of acting. Divide into teams and take turns drawing clues while the other team tries to guess what it is.\n3. Board games: There are so many"
+  },
+  {
+    "Prompt": "Describe the characteristics of a successful entrepreneur.",
+    "Completion": "Describe the characteristics of a successful entrepreneur.\n\nTo be successful in the business world, one needs to have various characteristics that can help them overcome any obstacles and emerge triumphantly. Successful entrepreneurs demonstrate integrity, discipline, and leadership. They also possess a strong vision, creativity, and risk-taking abilities.\n\nFirstly, successful entrepreneurs are known for their integrity. They uphold strong ethical values and principles in their business practices, which earns them the respect and trust of their stakeholders. They understand the"
+  },
+  {
+    "Prompt": "Describe the different stages in the software development lifecycle.",
+    "Completion": "Describe the different stages in the software development lifecycle.\n\nThere are many different ways to define the stages of the software development lifecycle, but a common approach includes the following:\n\n1. Planning: This stage involves defining the scope of the project, establishing project goals and objectives, and creating a high-level plan for how the project will be executed.\n2. Analysis: During this stage, the project team gathers detailed requirements from stakeholders, users, and other sources. These requirements are then analyzed and documented in a formal requirements"
+  },
+  {
+    "Prompt": "Summarize the book \"The Goldfinch\" by Donna Tartt",
+    "Completion": "Summarize the book \"The Goldfinch\" by Donna Tartt, Oprah's Book Club pick!\nAudible presented by her editor Michael Pietsch!\n\nMusic Credits:\n\nIntro Music by Moincheny - Muz Connect\nVideo Link http://muzconnect.com/?zu2qi (Track is 0:30-1:21, it is also in my intro, this is where I printed off the album art.)\nOutro Music - \"Campfire\" Jason Shaw -"
+  },
+  {
+    "Prompt": "Generate a list of 4 healthy breakfast ideas.",
+    "Completion": "Generate a list of 4 healthy breakfast ideas. Make sure to include their caloric200-600 calorie range and 1 relevant and positive health benefit, such as \"improves heart health\" or \"boosts metabolism.\"\n\n1. Avocado Toast with Poached Egg and Spinach\n\n-- Calorie range: 350-450 calories\n-- Positive health benefit: High in fiber, vitamins, and healthy fats, promoting heart health"
+  },
+  {
+    "Prompt": "Write a definition for the term \"machine learning\".",
+    "Completion": "Write a definition for the term \"machine learning\". Describe in a sentence or two what it's used for.\n\nMachine learning is a type of artificial intelligence that allows systems to automatically learn and improve from experience without being explicitly programmed. It is used for a wide range of applications, such as image recognition, natural language processing, and predictive analytics. Machine learning enables computers to find hidden insights without being specifically where to look."
+  },
+  {
+    "Prompt": "Create a metaphor to explain the concept of artificial intelligence.",
+    "Completion": "Create a metaphor to explain the concept of artificial intelligence.\n\n\"Artificial Intelligence is like a chess computer, tirelessly strategizing and learning from each move, even if it means realizing it's own blunders, all in pursuit of becoming the ultimate grandmaster.\""
+  },
+  {
+    "Prompt": "What is the scientific definition of metabolism?",
+    "Completion": "What is the scientific definition of metabolism? Metabolism ... is the sum ... of the biochemical reactions that occur within each cell of a living organism. It is often described as having two parts: catabolism, the breakdown of molecules to obtain energy; and anabolism, the synthesis of all compounds needed by the cells.\n\nIs metabolism same as weight loss?\n\nHowever, a slow metabolism is rarely the cause of excess weight gain. Although your metabolism ..."
+  },
+  {
+    "Prompt": "Generate 3 marketing ideas to increase engagement on a product's social media account.",
+    "Completion": "Generate 3 marketing ideas to increase engagement on a product's social media account.\n\n1. Contests or Giveaways: Hosting a contest or giveaway on your product's social media account is a great way to increase engagement. You can ask followers to like, comment, and share a post to enter, or create user-generated content by asking followers to share photos or videos of themselves using your product. This not only increases engagement but also provides valuable user-generated content that can be used for future marketing efforts.\n2. Interactive Content: Inter"
+  },
+  {
+    "Prompt": "Name 3 benefits of using cloud computing.",
+    "Completion": "Name 3 benefits of using cloud computing.\n\n1. Cost savings\n\nCloud computing has the potential to reduce the total cost of technology ownership for many businesses. When transitioning to cloud computing, businesses have the option of paying for only what they are currently using \u2013 enabling them to eliminate the risks and costs associated with purchasing, infrastructure management and storage. With scalable solutions, businesses can also conveniently scale their services with ease.\n\n1. Remote, User-friendly Access\n\nCloud computing enables users to securely access data"
+  },
+  {
+    "Prompt": "Create a hashtag for a new marketing campaign.",
+    "Completion": "Create a hashtag for a new marketing campaign. When planning a marketing actioin, the very first thing you will want to do is find a keyword or keywords related to the product or campaign. Use these keywords for your campaign\u2019s unique hashtag. When others share your promotion or comment on it in Twitter or Instagram, they can include your hashtag. A unique hashtag guarantees all of the tweets and comments about your marketing campaign can be found in one place, making it easy to follow along with the buzz."
+  },
+  {
+    "Prompt": "Generate a list of 3 healthy snacks for children.",
+    "Completion": "Generate a list of 3 healthy snacks for children.\n\n1. Fresh fruit kabobs with a yogurt dip. Cut a variety of fruits such as strawberries, grapes, pineapple, and bananas into bite-sized pieces and thread them onto skewers. For the dip, mix plain yogurt with a little honey and a dash of cinnamon.\n2. Veggies and hummus. Slice up some carrots, bell peppers, and cucumbers and serve them"
+  },
+  {
+    "Prompt": "Provide a description of the possible benefits of going car-less to a potential customer.",
+    "Completion": "Provide a description of the possible benefits of going car-less to a potential customer.\n\nGoing car-less can offer a number of potential benefits, depending on the individual's lifestyle and needs. Here are some possible advantages to consider:\n\n1. Cost savings: One of the biggest benefits of going car-less is the potential to save money. Cars are expensive to own and operate, with costs related to fuel, insurance, maintenance, and repairs adding up quickly. By using alternative modes of transportation like public transit, biking, or walking, you can significantly"
+  },
+  {
+    "Prompt": "Rewrite this sentence so it\u2019s less verbose: \u201cThe supervisor was incapable of overseeing the entire project, so she was relieved of her duties\u201d",
+    "Completion": "Rewrite this sentence so it\u2019s less verbose: \u201cThe supervisor was incapable of overseeing the entire project, so she was relieved of her duties\u201d\n\n\u201cThe supervisor couldn\u2019t oversee the entire project, so she was dismissed.\u201d\n\nSearch online for a job posting for a receptionist in your area. In a paragraph, describe what the job entails, and summarize the qualifications required.\n\nI searched for a receptionist job posting in my area and found one for a Full-Time Receptionist at a local law firm. The job entails greeting visitors, answering phones, and performing administrative tasks"
+  },
+  {
+    "Prompt": "Generate 3 blog topic ideas based on the keyword \u201cweb automation\u201d",
+    "Completion": "Generate 3 blog topic ideas based on the keyword \u201cweb automation\u201d that your organization could\npotentially write about.\n\n1. How to use web automation for A/B testing: Boosting conversion rates and increasing revenue through data-driven website optimization.\n\nIn this article, you would explore how businesses can leverage web automation to set up and manage sophisticated A/B testing experiments. The post would delve into the benefits of using web automation for A/B testing, such as saving time and resources, while improving precision and elim"
+  },
+  {
+    "Prompt": "Edit this passage to make it more concise:\n\nDuring the spring season, the temperature tends to be very pleasant, making it a great time of year to go outdoors.",
+    "Completion": "Edit this passage to make it more concise:\n\nDuring the spring season, the temperature tends to be very pleasant, making it a great time of year to go outdoors. It is the perfect time to engage in activities such as hiking, cycling, or simply taking a stroll in the park. The flowers are in bloom and the trees are lush with green leaves, creating a beautiful and serene atmosphere. Furthermore, the days are longer, allowing for more daylight hours to enjoy outdoor activities. This is also a great time to plan a picnic or a barbecue with family and friends, as the weather is usually warm and sunny."
+  },
+  {
+    "Prompt": "Find out the CEO of IBM",
+    "Completion": "Find out the CEO of IBM stocks stocks and know the whole story of what happened with IBM. Arvind Krishna became the CEO of IBM stocks after Ginny Rometty on April 6, 2020.\n\n# Arvind Krishna new CEO of IBM Stocks\n\nIBM (International Business Machines Corp.) is one of the American multinational innovation organizations known for its cross-platform services and product offerings. It is repeatedly perceived as one of"
+  },
+  {
+    "Prompt": "Reverse engineer the following code snippet and explain what is happening in 4 sentences.\n\nvar x = 3\nvar y = x + 4",
+    "Completion": "Reverse engineer the following code snippet and explain what is happening in 4 sentences.\n\nvar x = 3\nvar y = x + 4\nx = 2\n\nHere's what's happening in the code snippet:\n\n1. The variable `x` is initialized with the value of 3.\n2. A new variable `y` is created and assigned the value of `x` plus 4, resulting in `y` having a value of 7.\n3. The value of `x` is then changed to 2.\n4. The variable `y` remains unchanged"
+  },
+  {
+    "Prompt": "Given this sentence, predict the part of speech of the word \u201cgroomed\u201d\n\nHe groomed the puppy until it was perfectly clean",
+    "Completion": "Given this sentence, predict the part of speech of the word \u201cgroomed\u201d\n\nHe groomed the puppy until it was perfectly clean.\n\ngroomed (verb)\n\nThe root word in this sentence is \u201cgroom.\u201d In this context it is used as a transitive verb, which means it requires an object. \u201cThe puppy\u201d is the object. In this case \u201cgroomed\u201d is something that is happening to \"the puppy\" and it implies a state of improvement or preparation through care and maintenance. These actions all imply something that happens in a progressive manner to reach a desired state,"
+  },
+  {
+    "Prompt": "List 5 things that can be bought at a grocery store",
+    "Completion": "List 5 things that can be bought at a grocery store that start with the letter y?\n\n1) Yogurt - probably the most common grocery store item that starts with the letter y.\n\n2) Yams - a type of sweet potato, yams are a popular root vegetable.\n\n3) Yellowtail - a type of fish commonly used in sushi.\n\n4) Yogurt drinks - similar to yogurt, but in a drinkable form.\n\n5) Yeast - an"
+  },
+  {
+    "Prompt": "Prepare a meal plan for tomorrow for someone who wants to eat healthy and has a limited budget",
+    "Completion": "Prepare a meal plan for tomorrow for someone who wants to eat healthy and has a limited budget.\n\nHere's a sample meal plan for someone who wants to eat healthy and has a limited budget:\n\n**Breakfast:**\n\n* Oatmeal with berries and a drizzle of honey\n* Glass of orange juice\n\n**Mid-Morning Snack:**\n\n* Apple slices with almond butter\n\n**Lunch:**\n\n* Grilled chicken and vegetable stir-fry with brown rice\n* Glass of"
+  },
+  {
+    "Prompt": "Create a headline for an article about the top 5 trends in digital marketing",
+    "Completion": "Create a headline for an article about the top 5 trends in digital marketing for 2023.\n\n1. The Rise of AI-Powered Personalization: How Brands Are Leveraging Artificial Intelligence to Deliver Hyper-Personalized Experiences\n2. The Shift to Voice Search: Optimizing for Conversational Keywords and Long-Tail Queries\n3. The Integration of Augmented Reality: How Brands Are Using AR to Enhance Customer Experience and Boost Engagement\n4"
+  },
+  {
+    "Prompt": "Generate a research question related to the following topic: How technology is revolutionizing the shopping experience",
+    "Completion": "Generate a research question related to the following topic: How technology is revolutionizing the shopping experience\n\nTechnology has significantly disrupted the retail industry, completely changing the way people used to shop. This has created new opportunities as well as challenges for both consumers and retailers. Retailers can now reach their customers through various technological tools such as social media, email marketing, and mobile apps, creating a more personalized shopping experience. However, privacy concerns have emerged as shoppers are now required to share more data than before for retailers to analyze their shopping behavior. Although there are"
+  },
+  {
+    "Prompt": "Disconnect the following internet cable correctly.",
+    "Completion": "Disconnect the following internet cable correctly.\n\n```\nifconfig eth0 down\n```\n\n```\nrmmod wl\n```\n\n```\nmodprobe wl\n```\n\n```\n/etc/init.d/networking start\n```\n\n```\ndhclient eth0\n```\n\nifconfig eth0 shows you now the correct IP.\n\nor\n\n```\nsudo service networking restart\n\nor\n\nif you"
+  },
+  {
+    "Prompt": "Find the minimum value of 132 - 5*3",
+    "Completion": "Find the minimum value of 132 - 5*3.\nAnswer: 112"
+  },
+  {
+    "Prompt": "Generate a 10 word list of descriptive words for loneliness.",
+    "Completion": "Generate a 10 word list of descriptive words for loneliness. Static. Unchanging. Isolated. Void. Infinite. Melancholy. Barren. Solemn. Empty. Pensive. these words evoke a visualization of what a feeling might look if we could touch or hold it. The reader feel loneliness through these ten words. I want the five poems that follow to be a reflection of this list, and to evoke the same sensations through my photography.\n\n    These photographs are not just"
+  },
+  {
+    "Prompt": "Recite a poem about rivers.",
+    "Completion": "Recite a poem about rivers.\n\nRivers Sway\n\nMighty rivers sway,\nsoldiers bold and true,\nhearty blood of turgid moves,\nflowers descend in floating array,\nand yet the world in darkness grew.\n\nCerulean heavens they determine,\nto muddy prisons they go,\na dance of life, marche submit,\nthey roll, with lustrous men worldwide,\nattempting to tame the moves bestow"
+  },
+  {
+    "Prompt": "Describe the effects of global warming.",
+    "Completion": "Describe the effects of global warming.\n\nGlobal warming is a vital issue that has been affecting our planet Earth significantly. It refers to the long-term increase in Earth's average temperature due to human activities, primarily the emissions of greenhouse gases such as carbon dioxide, methane, and nitrous oxide. The following are the effects of global warming:\n\n1. Rising sea levels: As global temperatures increase, so does the rate of melting of glaciers and ice caps."
+  },
+  {
+    "Prompt": "Provide a plan to get good sleep each night.",
+    "Completion": "Provide a plan to get good sleep each night.\n\n**Pillars of Sleep Hygiene:**\n\n1. **Maintain a consistent sleep schedule:** Aim to go to bed and wake up at the same time each day, even on weekends. This can reinforce your body\u2019s natural sleep-wake cycle, and improve the quality of your sleep.\n2. **Create a comfortable and conducive sleep environment:** Your bedroom should be dark, quiet, and cool. Consider using blackout curtains or a"
+  },
+  {
+    "Prompt": "Calculate the cost of 4 apples at $2.50 each.",
+    "Completion": "Calculate the cost of 4 apples at $2.50 each.\n\nAnswer: \\boxed{10}.\n\nI am Ravi and Math is my Passion.\n\nSince 4 multiplied by 2.50 gives us the total cost of the apples, 4 needs to be multiplied by 2 and 5 must be multiplied by 1 to get 10. This is why there is a square in the equation.\n\nWhen solving the equation, you can first calculate 4*2"
+  },
+  {
+    "Prompt": "List five steps for writing an essay.",
+    "Completion": "List five steps for writing an essay.\n\n1. Choose a topic. Decide on a topic that interests you and that you feel you can write about with authority. Make sure the topic is not too broad or too narrow.\n2. Develop a thesis statement. This will be the main point or argument of your essay. It should be clear and specific.\n3. Create an outline. This will help you organize your thoughts and make sure you include all the necessary points in your essay. It can be as simple or as"
+  },
+  {
+    "Prompt": "In this task, you need to write an appropriate response to the phrase \"take a break\"",
+    "Completion": "In this task, you need to write an appropriate response to the phrase \"take a break\" and the given\nparameter is `mode=\"socialized\"`.\n\nResponse:\n\n\"Sure thing! I'd be happy to take a break and socialize. Is there a particular topic you'd like to discuss or an activity you'd like to do together?\""
+  },
+  {
+    "Prompt": "Generate a creative activity for a child to do during their summer vacation.",
+    "Completion": "Generate a creative activity for a child to do during their summer vacation.\n\nSummer Art Challenge: Set up a weekly art challenge for your child to complete over the summer. Each week, provide them with a different theme or medium to work with. Encourage them to get creative and think outside the box. Some theme ideas include:\n\n* Self-portrait\n* Landscape\n* Abstract\n* Animal\n* Food\n* Cityscape\n* Nature\n* Emotion\n\nSome medium ideas include:\n\n* Watercolor\n*"
+  },
+  {
+    "Prompt": "Generate a piece of advice to someone who is feeling unmotivated.",
+    "Completion": "Generate a piece of advice to someone who is feeling unmotivated.\n\nRemember, there's no \"one-size-fits-all\" solution when it comes to motivation. It's important to recognize that it's perfectly normal to experience periods of low motivation, and it's okay to give yourself permission to take a break and recharge.\n\nThat being said, here's a piece of advice that has helped many people when they're feeling unmotivated:\n\nBreak down your goals into smaller, manage"
+  },
+  {
+    "Prompt": "Write a short story in 100 words or less.",
+    "Completion": "Write a short story in 100 words or less. Mine is about wildlife on the run.\n\n\u201cTen four, psychic passing through!\u201d\n\nThe radio squawked back, \u201cGo ahead, Dorothy!\u201d\n\n\u201cTruck traffic, distracting the wildlife.\u201d Her voice was solemn.\n\nA hare darted in front of her trailer, Dorothy carefully slowed.\n\n\u201cOh, a cottontail. You make it, pretty! Now scamper along\u2026 Okay, fled"
+  },
+  {
+    "Prompt": "What is the meaning of the idiom \"A penny saved is a penny earned\"?",
+    "Completion": "What is the meaning of the idiom \"A penny saved is a penny earned\"?\n\nThis idiom is encouraging frugality, or thrift. It means that when you save money, through wise spending or by not wasting resources, you are basically making as much money as you would have if you had earned it through some employment.\n\nTo break this down in another way, not spending money is almost as good as getting a job, because money is money - whether it comes from your efforts to earn, or through wise frugality. The idea is fundament"
+  },
+  {
+    "Prompt": "List three benefits of meditation",
+    "Completion": "List three benefits of meditation:\n\n1. Meditation has been shown to reduce stress and anxiety levels. This is due to the fact that meditation helps to slow down the body's response to stress, allowing individuals to feel more calm and centered.\n2. Meditation can also improve focus and concentration. By training the mind to focus on a single point of concentration, such as the breath, individuals can improve their ability to focus and concentrate in other areas of their life.\n3. Meditation has also been"
+  },
+  {
+    "Prompt": "Create a character profile for a female scientist.",
+    "Completion": "Create a character profile for a female scientist. Write character descriptions, including 5 traits, 5 quirks, and her motivations. Think about her backstory, an intersection of oppressions or difficulties, things they\u2019ve had to overcome or fight for in their lives. How do those factors play a part in who they are and what drives them? Think about their goals and aspirations, where they want to go, and who or what they want to impact.\n\nName: Esmeralda \u201cEsme\u201d"
+  },
+  {
+    "Prompt": "Design a logo for \"Acme Limousines\"",
+    "Completion": "Design a logo for \"Acme Limousines\" and name all logo elements.\n\n[INSERT YOUR LOGO HERE]\n\nElements in the Logo:\n\n1. Acme: The company name in a stylish and bold sans-serif font, indicating professionalism and trustworthiness.\n\n2. Limousines: The company's services offered, italicized to suggest motion and elegance.\n\n3. Limousine Icon: A stylized, sleek, and sophisticated black lim"
+  },
+  {
+    "Prompt": "Describe the setting of a dark and mysterious forest.",
+    "Completion": "Describe the setting of a dark and mysterious forest. Use vivid imagery.\n\nThe forest loomed, a twisted mass of shadows and skeletal trees, clawing at the bruised, somber sky with grasping branches. A tangled web of roots breached the surface, grasping like clutching fingers for the unknown depths below.\n\nIn the stagnant air, the languid leaves barely stirred, releasing their trapped breath in silent sighs. The once vibrant colors had seeped into"
+  },
+  {
+    "Prompt": "Edit the following sentence to make it more concise: \"In the home, there are often difficulties in managing time for tasks such as cleaning and laundry\"",
+    "Completion": "Edit the following sentence to make it more concise: \"In the home, there are often difficulties in managing time for tasks such as cleaning and laundry\"\n\nManaging time for household tasks like cleaning and laundry is often difficult."
+  },
+  {
+    "Prompt": "Provide an example of a metric that could be used to measure the success of a new marketing campaign.",
+    "Completion": "Provide an example of a metric that could be used to measure the success of a new marketing campaign.\nClick on MEASUREMENT LABEL to view metric examples.\n\nA metric could be the number of leads generated by the new marketing campaign. This could be measured by tracking the number of new contacts or potential customers that express interest in the company's products or services as a result of the campaign. This metric is important for measuring the success of a marketing campaign because it directly relates to the campaign's ability to generate new business opportunities for the company. Tracking leads also"
+  },
+  {
+    "Prompt": "Explain why it is important to establish trust with customers.",
+    "Completion": "Explain why it is important to establish trust with customers. In your answer, explain how using persuasive characteristics of influence can help create long term customer loyalty.\n\nEstablishing trust with customers is critical to the success of any business. It is important because trust encourages honesty and open communication, enables good decision making, and builds a strong foundation for long term certified loyal customers. According to Cialdini's theory of compliance, the most persuasive characteristics of influence used to create trust with customers are:\n\n1)"
+  },
+  {
+    "Prompt": "Construct a SQL query that will retrieve the first 5 records from a table called \"Customers\".",
+    "Completion": "Construct a SQL query that will retrieve the first 5 records from a table called \"Customers\".\n\n```\nSELECT * FROM Customers\nLIMIT 5;\n```"
+  },
+  {
+    "Prompt": "Recommend a healthy snack for work.",
+    "Completion": "Recommend a healthy snack for work. Your coworkers are getting bored of fruit and yogurt. They want satisfying snacks that keep away hunger until dinner, but don\u2019t involve 5 minutes of prep in the office kitchenette.\n\nInstead of fruit and yogurt, try out these satisfying crunchy snacks that can be easily prepped at home:\n\n1. Almonds: Relatively high in protein, almonds are a great snack that can satisfied your crunchy"
+  },
+  {
+    "Prompt": "Design a birthday card for a 7 year old.",
+    "Completion": "Design a birthday card for a 7 year old.\n\nThis card was designed for a little boy called Joel who was turning 7. Joel enjoys playing soccer so it was only fitting that a soccer theme was used. I tried to make the card fun and interactive, with a pull out tab revealing a picture of Joel on the soccer field, and a removable gift tag attached to the card. Inside the card it says \u2018Happy 7th Birthday Joel, have a great day!\u2019."
+  },
+  {
+    "Prompt": "Calculate the number of square meters in a 10x10 room.",
+    "Completion": "Calculate the number of square meters in a 10x10 room. only only\n\nThe two CS (data science) roommates were walking down Mass Ave in Cambridge only when one stated, CS (data science) roommates were walking down Mass Ave in Cambridge only when one commented that their weapons of choice for CS (data science) are Python, R, and also light beer. Drawing a shock for the light beer references, the various other two CS graduates sporting collared tee shirts smiled and also claimed, \u201cWe\u2019ll consider those"
+  },
+  {
+    "Prompt": "Brainstorm 4 possible options to reduce pollution in the city.",
+    "Completion": "Brainstorm 4 possible options to reduce pollution in the city.\n\nOption 1: Implement a congestion charge for vehicles driving in the city center. This would discourage people from driving in the city and encourage them to use public transportation, carpool, bike, or walk instead. The revenue generated from the congestion charge could be used to fund public transportation improvements and green initiatives. Additionally, the city could offer incentives for electric or hybrid vehicles to further reduce pollution.\n\nOption 2: Create a network of bike lanes and"
+  },
+  {
+    "Prompt": "Given an example of a valid sentiment analysis scenario.",
+    "Completion": "Given an example of a valid sentiment analysis scenario.\nSentiment analysis is an AI task that involves categorizing a given text or communication as positive, negative, or neutral, typically by using machine learning algorithms and natural language processing.\u00a0\n\nA valid sentiment analysis scenario could be analyzing customer reviews for a newly released product to determine the overall customer satisfaction and identify any specific features that are particularly liked or disliked. In this case, the AI system would read through each review and assign a positive, negative, or neutral sentiment rating to each"
+  },
+  {
+    "Prompt": "Compare and contrast the two religions, Christianity and Islam.",
+    "Completion": "Compare and contrast the two religions, Christianity and Islam. Christianity and Islam are two of the world\u2019s biggest religions that make up the Western and Eastern sectors of the globe. Christianity the majority of the Western people inhabit, whereas, Islam covers a large portion of Eastern. Both share the same belief of a monotheistic system but the core of each religion is invested in different religious texts; the Bible and the Quran respectively. The striking similarity in beliefs systems of both Christianity and Islam is known as Abrahamic religions. Other Abrahamic"
+  },
+  {
+    "Prompt": "You need to suggest 3 strategies to optimize a website for Google search engine.",
+    "Completion": "You need to suggest 3 strategies to optimize a website for Google search engine.\n\n1. Conduct Keyword Research: The first step in optimizing a website for Google search engine is to conduct keyword research. This involves identifying the keywords and phrases that your target audience is using to search for the products or services that you offer. Once you have identified these keywords, you can incorporate them into your website's content, meta tags, and headings to help Google understand what your website is about and rank it higher in search results.\n2. Optimize On-"
+  },
+  {
+    "Prompt": "Explain what a computer algorithm is.",
+    "Completion": "Explain what a computer algorithm is. Give any example of an algorithm you know, other than examples given in the text.\nA computer algorithm is a series of steps that a computer follows in order to complete a specific task or solve a problem. A good algorithm is one that effectively and efficiently accomplishes its goal and can be expressed in terms of fixed, unambiguous steps.\n\nHere is an example of an algorithm. Suppose you want to find a specific word in a paragraph. The algorithm would be as follows:\n\n"
+  },
+  {
+    "Prompt": "Create a dialogue between two characters for a conflict resolution.",
+    "Completion": "Create a dialogue between two characters for a conflict resolution. One character must be Tia, a teenage girl, who has refused to answer her phones when her mother calls Tia\u2019s mother has tried to reach Tia because the teenager had been grounded and her punishment is almost over She is stressed out because Tia refused to own up responsibility for why Tia was grounded. She refuses to communicate with her. The other character, Tia, a 16-year-old adolescent, does not want to talk to her"
+  },
+  {
+    "Prompt": "Predict what might happen if the Earth's temperature rises.",
+    "Completion": "Predict what might happen if the Earth's temperature rises. 1. The average global temperature would become hotter and hotter. 2. Glaciers would start to melt and reduce to islands. 3. Polar ice would melt causing a great increase in sea level and flooding much of the coastline. 4. High levels of water would flow into the ocean and result in a rise of sea level. 5. The ocean current would change, disrupting weather and agricultural schedules. 6. Wind currents would change"
+  },
+  {
+    "Prompt": "Generate a list of ideas for an app that helps people save money.",
+    "Completion": "Generate a list of ideas for an app that helps people save money. Your app should provide value through features such as budgeting, automated savings, bill tracking, rewards, and personalized savings suggestions. Here's a possible list to get you started:\n\n1. Autosave: An app that automatically saves a predetermined percentage of your income, allowing users to save money without thinking about it.\n2. Budgeting: An app that helps users create a budget, track their spending, and stay on track with their financial goals.\n"
+  },
+  {
+    "Prompt": "Design a logo for a restaurant that serves traditional Chinese dishes.",
+    "Completion": "Design a logo for a restaurant that serves traditional Chinese dishes. Incorporate an element of Chinese symbolism or a specific dish into the logo.\n\nFor my logo design, I wanted to create an image that would represent a traditional Chinese dish while also incorporating a symbol of good fortune and prosperity. I settled on the concept of a steaming bowl of wonton soup, which is a popular and delicious dish in Chinese cuisine. To add an element of Chinese symbolism, I included a stylized representation of a bat, which"
+  },
+  {
+    "Prompt": "Describe a technology used for measuring people's emotional responses.",
+    "Completion": "Describe a technology used for measuring people's emotional responses.\n\nFacial coding is a technology used for measuring emotional responses. It is a method of analyzing facial expressions and movements to determine an individual's emotional state. This can be done through the use of specialized software and cameras that track and interpret the movements of the face in real-time. The technology is based on the idea that certain facial expressions are associated with specific emotions, such as happiness, sadness, anger, and fear. By analyzing these expressions, facial coding technology can provide"
+  },
+  {
+    "Prompt": "Name five medicinal plants widely used in Ayurveda.",
+    "Completion": "Name five medicinal plants widely used in Ayurveda.\n\nAyurveda, the knowledge of life, originated in the Indian subcontinent over 5000 years ago. It is one of the world\u2019s oldest holistic healing systems that focuses on maintaining balance and harmony within the body, mind, and consciousness. Medicinal plants have always been an integral part of Ayurvedic practice, used for their therapeutic properties and healing abilities. Here are five popular medicinal plants widely used in Ayurveda"
+  },
+  {
+    "Prompt": "generate an algorithm to find the first common ancestor of two nodes in a binary tree.",
+    "Completion": "generate an algorithm to find the first common ancestor of two nodes in a binary tree.\n\n#### Implementation\n\nSolution using a hash-map (optional):\n```c++\nvoid findCommonAncestor (Node* node, Node* n1, Node* n2, unordered_map<Node*, Node*>& hm) {\n\tif (node) {\n\t\tif (h1.find(node) && h2.find(node)) {\n\t\t\tcout << \"common ancestor is node \""
+  },
+  {
+    "Prompt": "Write a story of friendship between two boys from different backgrounds.",
+    "Completion": "Write a story of friendship between two boys from different backgrounds.\n\nEvery morning, right at 7 a.m., a white car would pull up in front of Tommy's house. The door would swing open, revealing a thin, pale kid in the back seat. That kid's name was Nicholas. Nick, as he preferred to be called, was the new boy in the neighborhood. He and his family had moved down the block from Tommy just a few months before. Despite the look of his skeletal frame and ghostly complexion"
+  },
+  {
+    "Prompt": "Give an example of how to use an AI assistant to automate a customer service process.",
+    "Completion": "Give an example of how to use an AI assistant to automate a customer service process.\n\nAn example of using an AI assistant to automate a customer service process is using a chatbot to handle common customer inquiries. For instance, a chatbot can be integrated into a company's website or mobile app to provide instant support to customers. The chatbot can be programmed to answer frequently asked questions, guide customers through a troubleshooting process, or help customers complete a purchase. By handling these common inquiries, the chatbot can free up human customer"
+  },
+  {
+    "Prompt": "List five factors that influence the cost of producing a good.",
+    "Completion": "List five factors that influence the cost of producing a good.\n\n1. Labor or workforce, depends on the size and skill of the labor force used to produce the good. Higher skill and size of labor force lead to higher production cost.\n\n2. Raw materials or the physical resources used in the production of a good. Higher quality materials can cost more and lead to higher production costs.\n\n3. Capital or natural resources used in the production of a good. A factor such as land or equipment may also contribute to higher production"
+  },
+  {
+    "Prompt": "Explain the process of gaining creditworthiness for a loan",
+    "Completion": "Explain the process of gaining creditworthiness for a loan\n\nCreditworthiness refers to the likely degree to which a borrower will be able to meet its financial obligations concerning a debt or meet a schedule of payment obligations. To gain creditworthiness as a borrower, there are several processes that an individual must undergo, and they are as follows:\n\n1. Build A Credit History: The initial step in gaining creditworthiness is establishing a credit history. This means borrowing money and repaying it on time. Credit history"
+  },
+  {
+    "Prompt": "Generate a list of tips to improve metabolism.",
+    "Completion": "Generate a list of tips to improve metabolism.\n\n1. Eat a balanced diet: Consuming a diet rich in whole foods, including lean proteins, fruits, vegetables, and whole grains, can help to boost metabolism.\n2. Stay hydrated: Drinking plenty of water throughout the day can help to keep your metabolism running smoothly.\n3. Incorporate strength training: Resistance exercises, such as weightlifting, can help to build muscle mass, which in turn increases met"
+  },
+  {
+    "Prompt": "Write a story about a robot who has to complete a difficult task.",
+    "Completion": "Write a story about a robot who has to complete a difficult task.\n\nOnce upon a time, in a bustling city of the future, there was a robot named R-12. R-12 was a highly advanced and sophisticated robot, capable of performing many complex tasks. However, there was one task that R-12 had never been able to complete: fixing the city's aging and crumbling infrastructure.\n\nDespite R-12's best efforts, the task seemed impossible. The city's pipes and w"
+  },
+  {
+    "Prompt": "Compose a song in C Major.",
+    "Completion": "Compose a song in C Major. (a) Begin by strumming a C chord, then alternate between Am and G for eight measures. (b) Compose a chorus in which you periodically strum a C major, E minor, and D minor chord, then repeat the cycle. (c) Compose an eight measure transition using F Major, C Major, G Major, and A minor. (d) Repeat this entire pattern and ideally write some lyrics that fit both the tone and style"
+  },
+  {
+    "Prompt": "Calculate the area of a triangle with sides measuring 8cm, 5cm, and 6cm.",
+    "Completion": "Calculate the area of a triangle with sides measuring 8cm, 5cm, and 6cm.\n\n= \\(\\sqrt{([8]+[5]+[6])([8]+[5]-[6])([8]+[6]-[5])([5]+[6]-[8])}\\)\n= \\(\\sqrt{([19])([13])([14])([1))}\\)\n= \\(\\sqrt{8712}\\)\n\n= 93.33cm^2, rounded to two decimal"
+  },
+  {
+    "Prompt": "Describe how plants look like in the winter.",
+    "Completion": "Describe how plants look like in the winter.\n\nMost areas of the world, especially in Egypt that lies within the desert climate zone, become barren in winter. Very few plants actually flower and produce fruits. In winter, cabbage and cauliflower become readily available. You may also find dusty-looking date palms crowned with their green fruits. Some deciduous trees such as figs, almonds, peaches retain their dry brown wilted leaves and some, like cotton, bear signs of cotton balls"
+  },
+  {
+    "Prompt": "What type of number is -625?",
+    "Completion": "What type of number is -625?\n\nAnswer & Explanation\n\nThe number -625 is an integer.\n\nAn integer is a number without fractional or decimal parts, meaning it has no digits after the decimal point or any digits to the right of a decimal point. Negative numbers, zero, and positive numbers are all integers.\n\nSince -625 is a really a negative whole number, it can be called an integer. Hence, -625 is an"
+  },
+  {
+    "Prompt": "Find the sum of the interior angles of a polygon with five sides.",
+    "Completion": "Find the sum of the interior angles of a polygon with five sides."
+  },
+  {
+    "Prompt": "What is the difference between a porcupine and a hedgehog?",
+    "Completion": "What is the difference between a porcupine and a hedgehog?\n\n- Both porcupines and hedgehogs are rodents and are from two different families. In the United States, only one species of porcupine is found, and they are also found in Canada. In North America, only one species of hedgehog occurs and is found in the western states.\n- Hedgehogs and porcupines have completely different defensive strategies when attacked. Hedgehogs curl up into a ball and erect sharp spines on"
+  },
+  {
+    "Prompt": "Name one chemical that is both an acid and a base.",
+    "Completion": "Name one chemical that is both an acid and a base. Water is a universal solvent; it is also both an acid and a base known as amphoteric. All water molecules have properties of acids and bases. We were taught during IntroChem about the Self-ionization of water - the process of water producing a hydrogen ion and a hydroxide ion - making water an acid and base. Hence it is considered an amphoteric substance.\n\nTake this quiz to see how much have you learned and"
+  },
+  {
+    "Prompt": "Write a 200-word essay explaining the importance of sustainable energy.",
+    "Completion": "Write a 200-word essay explaining the importance of sustainable energy.\n\nRenewable, or green, energy is energy that is collected from renewable resources, and although currently renewable energy forms only a small percentage of overall energy consumption, this way of collecting energy is becoming increasingly important as nonrenewable sources, such as oil, are depleted. Sustainable energy is a powerful solution for preserving our planet for future generations, and its benefits are numerous.\n\nRenewable energy is non-polluting and does not"
+  },
+  {
+    "Prompt": "Identify the type of sentence \"I drove to the store yesterday\".",
+    "Completion": "Identify the type of sentence \"I drove to the store yesterday\".\n\nThis is a simple declarative sentence. It is stating/reporting information. It is a statement because it gives factual information about what the speaker/writer did. declarative is mentioned because it is saying something clearly about a factual situation without asking a question or expressing an opinion or command."
+  }
+]
