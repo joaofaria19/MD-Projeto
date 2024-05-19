@@ -2,7 +2,7 @@ import json
 import re
 import pdb
 
-model = 'meta-llama/Meta-Llama-3-8B-Instruct'
+model = 'openai/GPT4'
 def clean_completion(prompt, completion):
     terminating_chars = ['.','!','?','\n',':']
     
@@ -101,8 +101,8 @@ def split_sentences(text):
         valid_flag = False
         reason = 'Code'
     else:
-        text = divide_and_check(text[:1000])
-        if len(text) < 80 or len(text) > 1000:
+        text = divide_and_check(text[:512])
+        if len(text) < 80 or len(text) > 512:
             reason = f'{len(text)} chars'
             valid_flag = False
 
