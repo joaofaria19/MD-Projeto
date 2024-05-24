@@ -4,7 +4,7 @@
 source ./vars_functions.sh
 
 # Instance details
-MACHINE_TYPE="n1-standard-1"                        # N1 series standard machine 1 (1 vCPUs and 3.75 GB RAM)
+MACHINE_TYPE="n1-highmem-2"                        # N1 series standard machine 1 (1 vCPUs and 3.75 GB RAM)
 ACCELERATOR_TYPE="nvidia-tesla-t4"                  # GPU type
 ACCELERATOR_COUNT=1                                 # Number of GPUs
 IMAGE_FAMILY="common-cu122-ubuntu-2204"             # Deep Learning VM with CUDA 12.2 image
