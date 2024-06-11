@@ -14,7 +14,7 @@ with open(csv_file_path, 'r', newline='') as csvfile:
         if i >= max_entries:
             break
         entry = {
-            "id": i,
+            "id": str(i),
             "Prompt": row['instruction'],
             "Completion": row['output']
         }

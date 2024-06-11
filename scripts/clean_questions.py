@@ -3,6 +3,7 @@ import re
 import pdb
 
 model = 'openai/GPT4'
+
 def clean_completion(prompt, completion):
     terminating_chars = ['.','!','?','\n',':']
     
@@ -67,7 +68,7 @@ def divide_and_check(text):
             pattern = r"(?<!\w)\'"  # Raw string prefix (optional)
             single_quote_count = len(re.findall(pattern, last_sentence))
             double_quote_count = last_sentence.count('"')
-            square_bracket_count = last_sentence.count("[") - last_sentence.count("]")
+            square_bracket_count = last_sentence.count("[') - last_sentence.count(']")
             
             
             if(len(last_sentence) > 1):
@@ -115,16 +116,16 @@ def clean_json_data(data):
     for entry in data:
         prompt = entry.get("Prompt", "")
         completion = entry.get("Completion", "")
-        if len(entry["Completion"]) < 80:
-            entry['Reason'] = f"{len(entry["Completion"])} chars"
+        if len(entry['Completion']) < 80:
+            entry['Reason'] = f"{len(entry['Completion'])} chars"
             invalid_data.append(entry)
-            print(i, False, f"{len(entry["Completion"])} chars")
+            print(i, False, f"{len(entry['Completion'])} chars")
         else:
             if model != 'openai/GPT4':
-                entry["Completion"] = clean_completion(prompt, completion)
-            text,valid,reason = split_sentences(entry["Completion"])
+                entry['Completion'] = clean_completion(prompt, completion)
+            text,valid,reason = split_sentences(entry['Completion'])
             if valid:
-                entry["Completion"] = text
+                entry['Completion'] = text
                 valid_data.append(entry)
             else:
                 entry['Reason'] = reason
@@ -137,7 +138,7 @@ if __name__ == "__main__":
     with open(model +".json", 'r') as json_file:
         data = json.load(json_file)
 
-    valid_data, invalid_data = clean_json_data(data["answers"])
+    valid_data, invalid_data = clean_json_data(data['answers'])
 
     filename = model + "_valid.json"
 
