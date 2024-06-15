@@ -46,7 +46,7 @@ This project involves the integration of various technologies and data mining te
   - **GPT4.zip**: Zip containing the 30k responses of the GPT4 model.
   - **GPT4_valid.zip**: Zip containing the valid responses of the GPT4 model (used in training).
   - **GPT4_invalid.zip**: Zip containing the invalid responses of the GPT4 model.
-  - **filtered_file.csv**: Zip containing the invalid responses of the GPT4 model.
+  - **filtered_file.csv**: File with the dataset containing the GPT4 responses in the correct format. 
   - **train.csv**: Original data file.
     
 - **questions/**: Data related to the questions applied to the models.
@@ -56,7 +56,7 @@ This project involves the integration of various technologies and data mining te
   - **GPT4_to_json.py**: Transforms the GPT answers from csv format into json format.
   - **clean_questions.py**: Cleans the responses of the models, in order to have clean and valid texts for the training phase.
   - **get_questions.py**: Stores the questions.
-  - **script.ipynb**: Transforms the GPT answers from csv format into json format.
+  - **script.ipynb**: Simplify the csv containing the answers provided by GPT 4, collecting only the important columns in our case.
 
 - **.gitignore**: Git Ignore
 - **README.md**: This file, providing an overview of the project and repository organization.
