@@ -60,6 +60,6 @@ This project involves the integration of various technologies and data mining te
   - **get_questions.py**: Stores the questions.
   - **script.ipynb**: Transforms the GPT answers from csv format into json format.
 
--**.gitignore**: Git Ignore
+- **.gitignore**: Git Ignore
 - **README.md**: This file, providing an overview of the project and repository organization.
 - **question_classificator_bert_training.ipynb**: Notebook used to train the model. It also contains the results of the training.
