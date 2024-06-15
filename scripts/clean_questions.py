@@ -1,8 +1,13 @@
 import json
 import re
-import pdb
+import argparse
 
-model = 'openai/GPT4'
+parser = argparse.ArgumentParser(description='Desired file path')
+parser.add_argument('--path', type=str, help='Path to the model responses file', required=True)
+
+args = parser.parse_args()
+
+model = args.path
 
 def clean_completion(prompt, completion):
     terminating_chars = ['.','!','?','\n',':']
@@ -121,7 +126,7 @@ def clean_json_data(data):
             invalid_data.append(entry)
             print(i, False, f"{len(entry['Completion'])} chars")
         else:
-            if model != 'openai/GPT4':
+            if not "GPT4" in model:
                 entry['Completion'] = clean_completion(prompt, completion)
             text,valid,reason = split_sentences(entry['Completion'])
             if valid:

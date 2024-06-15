@@ -2,8 +2,8 @@ import csv
 import json
 
 # Input and output file paths
-csv_file_path = 'filtered_file.csv'
-json_file_path = 'openai/GPT4.json'
+csv_file_path = '../openai/filtered_file.csv'
+json_file_path = '../openai/GPT4.json'
 
 max_entries = 30000
 # Read CSV and transform data

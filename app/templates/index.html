@@ -82,8 +82,9 @@
       }
 
     .response-area {
+        color: #b3f2ff;
         padding: 20px;
-        font-size: 16px;
+        font-size: 60px;
         border: 1px solid #444;
         border-radius: 10px;
         background-color: #444;
@@ -128,7 +129,8 @@
   </head>
   <body>
     <div class="container">
-      <h1>LLM Detector</h1>
+      <h1>LLM Classificator</h1>
+      <p>Enter a text written by one of the LLMs, between 50 and 512 characters, and we will tell you who wrote it.</p>
       <form id="text-form">
         <textarea class="input-area" id="input-text" rows="20" placeholder="Enter your text here..."></textarea>
         <div class="btn-container">
@@ -187,6 +189,7 @@
       clearBtn.addEventListener('click', () => {
         event.preventDefault();
         inputText.value = '';
+        responseText.innerText = '';
       });
     </script>
   </body>
