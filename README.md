@@ -39,6 +39,9 @@ This project involves the integration of various technologies and data mining te
   - **Phi-3-mini-4k-instruct_valid.zip**: Zip containing the valid responses of the Phi-3-mini-4k-instruct model (used in training).
   - **Phi-3-mini-4k-instruct_invalid.zip**: Zip containing the invalid responses of the Phi-3-mini-4k-instruct model.
 
+- **notebook/**: Contains the notebook where the model was trained.
+  - **question_classificator_bert_training.ipynb**: Notebook used to train the model. It also has the results of the training.
+  
 - **mistralai/**: Data related to the Mixtral-8x7B-Instruct-v0.1 responses.
   - **Mixtral-8x7B-Instruct-v0.1.zip**: Zip containing the 30k responses of the Mixtral-8x7B-Instruct-v0.1 model.
   - **Mixtral-8x7B-Instruct-v0.1_valid.zip**: Zip containing the valid responses of the Mixtral-8x7B-Instruct-v0.1 model (used in training).
@@ -62,4 +65,4 @@ This project involves the integration of various technologies and data mining te
 
 - **.gitignore**: Git Ignore
 - **README.md**: This file, providing an overview of the project and repository organization.
-- **question_classificator_bert_training.ipynb**: Notebook used to train the model. It also contains the results of the training.
+
