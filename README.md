@@ -11,11 +11,6 @@ To achieve this goal, the interface allows users to submit a text, which is then
 
 This project involves the integration of various technologies and data mining techniques to ensure accurate and efficient analysis of the submitted texts. Additionally, the interface has been designed with a user-friendly approach to provide an intuitive and effective user experience.
 
-## Working Group
-- João Paulo Machado Abreu, pg53928
-- João Pedro Dias Faria, pg53939
-- Ricardo Cardoso Sousa, pg54179
-
 ## Repository Organization
 - **app/**: Contains the the web app.
   - **templates/**: HTML of the web app.
@@ -66,3 +61,7 @@ This project involves the integration of various technologies and data mining te
 - **.gitignore**: Git Ignore
 - **README.md**: This file, providing an overview of the project and repository organization.
 
+## Working Group
+- João Paulo Machado Abreu, pg53928
+- João Pedro Dias Faria, pg53939
+- Ricardo Cardoso Sousa, pg54179
