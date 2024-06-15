@@ -27,10 +27,10 @@ def api_llm():
     data = request.get_json()
     text = data.get('input')
 
-    if len(text) < 50:
-        response = "Your text is not valid. It has less than 50 characters."
-    elif len(text) > 512:
-        response = "Your text is not valid. It has more than 512 characters."
+    if len(text) < 80:
+        response = "Your text is not valid. It has less than 80 characters."
+    elif len(text) > 500:
+        response = "Your text is not valid. It has more than 500 characters."
     else: 
         res_obj = llm_classification(text)
         if res_obj[0]['score']<= 0.3:
