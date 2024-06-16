@@ -12,7 +12,7 @@ To achieve this goal, the interface allows users to submit a text, which is then
 This project involves the integration of various technologies and data mining techniques to ensure accurate and efficient analysis of the submitted texts. Additionally, the interface has been designed with a user-friendly approach to provide an intuitive and effective user experience.
 
 ## Repository Organization
-- **app/**: Contains the the web app.
+- **app/**: Contains the web app.
   - **templates/**: HTML of the web app.
   - **interface.py**: Code of the web app.
   - **requirements.txt**: List of dependencies needed to run the app.
